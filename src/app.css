@@ -11,26 +11,26 @@ mostly the addition of custom property colors, so that components can use them t
  A lot was moved to index.html
  */
 @font-face {
-  font-family: 'Lexend';  
+  font-family: 'Lexend';
   src: url('/fonts/Lexend-Light.ttf');
 }
 :root {
   color-scheme: light dark;
   --color-on-primary: white;
-        --background: white;
-        --base-color: #222222;
-        --primary-color: #7b71aa;
-        --error-color: #cc0000;
-      }
-      @media (prefers-color-scheme: dark) {
-        :root {
-          --color-on-primary: #000;
-          --background: #222;
-          --base-color: #eee;
-          --primary-color: #b1a5e2;
-          --error-color: #ff8888;
-        }
-      }
+  --background: white;
+  --base-color: #222222;
+  --primary-color: #7b71aa;
+  --error-color: #cc0000;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-on-primary: #000;
+    --background: #222;
+    --base-color: #eee;
+    --primary-color: #b1a5e2;
+    --error-color: #ff8888;
+  }
+}
 *,
 *:after,
 *:before {
@@ -47,7 +47,7 @@ body {
   font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-size: 1.6em;
   font-weight: 300;
-  letter-spacing: .01em;
+  letter-spacing: 0.01em;
   line-height: 1.6;
   color: var(--base-color);
 }
