@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#FFFFFF" />
+
+    <title>Goblin Namer</title>
+
+    <link rel="stylesheet" href="global.css" />
+
+    %svelte.head%
+    <style>
+      :root {
+        color-scheme: light dark;
+        --color-on-primary: white;
+        --background: white;
+        --base-color: #222222;
+        --primary-color: #7b71aa;
+        --error-color: #cc0000;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --color-on-primary: #000;
+          --background: #222;
+          --base-color: #eee;
+          --primary-color: #b1a5e2;
+          --error-color: #ff8888;
+        }
+      }
+      body,
+      html {
+        font-family: 'IBM Plex Mono', 'Courier';
+        margin: 0;
+        padding: 0;
+        font-size: 1.6em;
+        font-weight: 300;
+        letter-spacing: 0.01em;
+        line-height: 1.6;
+        color: var(--base-color);
+      }
+      html {
+        background: linear-gradient(
+            var(--background-overlay-color),
+            var(--background-overlay-color)
+          ),
+          url(mountains-banner.webp) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        box-sizing: border-box;
+        font-size: 62.5%;
+        height: 100%;
+      }
+      body {
+        min-height: 100%;
+        position: relative;
+        padding-bottom: 4rem;
+      }
+      *,
+      :after,
+      :before {
+        box-sizing: inherit;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="svelte">%svelte.body%</div>
+  </body>
+</html>
