@@ -21,7 +21,7 @@
   should complete the following 3 tasks:
 </p>
 
-<ol type="1">
+<ol>
   <li>Write two or three things they learned in their Book of Knowledge.</li>
   <li>Find the glossary words in the body of the text and circle them.</li>
   <li>[Optional] complete the reading comprehension questions.</li>
