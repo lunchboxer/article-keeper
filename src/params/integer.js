@@ -1,4 +1,4 @@
 /** @type {import('@sveltejs/kit').ParamMatcher} */
-export function match(param) {
-  return /^\d+$/.test(param);
+export function match(parameter) {
+  return /^\d+$/.test(parameter)
 }

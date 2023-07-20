@@ -416,3 +416,6 @@ p.error {
 option {
   background: var(--background);
 }
+.article-info {
+  font-size: 1.3rem;
+}
