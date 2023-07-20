@@ -28,36 +28,42 @@ Today our last names connect us to our ancestors and family history. Whether you
 ## Reading Comprehension Questions
 
 1. What is another name for a surname or last name?
+
    a) First name
    b) Middle name
    c) Family name
    d) Nickname
 
 2. Many old first names described things parents hoped for their children. What is one example of this?
+
    a) Linda
    b) Charles
    c) Madison
    d) Theresa
 
 3. How did some last names come from nicknames or descriptions?
+
    a) They described people's jobs
    b) They described people's personalities
    c) They were the names of animals
    d) They were the names of places
 
 4. What is one reason last names changed spelling over time?
+
    a) People liked creative spellings
    b) Language rules changed
    c) Names were translated to new languages
    d) Writing wasn't standardized yet
 
 5. What does the passage say helped spread the use of surnames?
+
    a) First names becoming more common
    b) Towns and cities getting bigger
    c) Parents giving their children last names
    d) Rules requiring people to have last names
 
 6. Based on the passage, which statement best describes the overall theme of the article?
+
    a) Last names changed spelling over time.
    b) First and last names have unexpected origins.
    c) Last names came from people's jobs and abilities.

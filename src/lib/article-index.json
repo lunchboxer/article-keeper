@@ -1,0 +1,22 @@
+{
+  "unitsOfInquiry": [
+    {
+      "id": 1,
+      "name": "Who We Are",
+      "centralIdea": "Our family and environment contribute to who we are.",
+      "linesOfInquiry": [
+        {
+          "id": 1,
+          "name": "The influence of family history and culture",
+          "articles": [
+            {
+              "id": 1,
+              "title": "The Wild Origins of Your Last Name",
+              "slug": "the-wild-origins-of-your-last-name"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -36,6 +36,8 @@
 
 <p>Each article is based on a line of inquiry from the current unit.</p>
 
+<a href="/articles" class="button">View articles</a>
+
 <h2>Book of Knowledge</h2>
 
 <p>

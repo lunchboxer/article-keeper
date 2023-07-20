@@ -409,6 +409,9 @@ input.error {
   background: rgba(255, 100, 100, 0.1);
   border-color: var(--error-color);
 }
+p.error {
+  color: var(--error-color);
+}
 
 option {
   background: var(--background);
