@@ -8,14 +8,16 @@ export async function load({ params, fetch }) {
   let lineNumber
   let lineName
   let articleInfo
+
   for (const unit of articleIndex.unitsOfInquiry) {
-    unitNumber = unit.id
     for (const lineOfInquiry of unit.linesOfInquiry) {
-      lineNumber = lineOfInquiry.id
-      lineName = lineOfInquiry.name
       for (const article of lineOfInquiry.articles) {
         if (article.slug === slug) {
           articleInfo = article
+          unitNumber = unit.id
+          lineNumber = lineOfInquiry.id
+          lineName = lineOfInquiry.name
+          break
         }
       }
     }
@@ -30,7 +32,6 @@ export async function load({ params, fetch }) {
   articleInfo.lineNum = lineNumber
   articleInfo.lineName = lineName
 
-  console.log(articleInfo)
   const response = await fetch(
     '/articles-md/' +
       unitNumber +

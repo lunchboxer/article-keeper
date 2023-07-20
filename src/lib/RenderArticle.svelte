@@ -4,8 +4,6 @@
   export let article = ''
   export let questions = []
   export let answers = ''
-
-  console.log(articleInfo)
 </script>
 
 {#if articleInfo}

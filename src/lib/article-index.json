@@ -17,6 +17,24 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2,
+      "name": "Where We Are in Place & Time",
+      "centralIdea": "History is shaped by power and innovation.",
+      "linesOfInquiry": [
+        {
+          "id": 1,
+          "name": "Sources of information about ancient civilizations",
+          "articles": [
+            {
+              "id": 1,
+              "title": "",
+              "slug": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
