@@ -13,6 +13,16 @@
               "id": 1,
               "title": "The Wild Origins of Your Last Name",
               "slug": "the-wild-origins-of-your-last-name"
+            },
+            {
+              "id": 2,
+              "name": "How traditions and celebrations contribute to identity",
+              "articles": []
+            },
+            {
+              "id": 3,
+              "name": "Why families relocate",
+              "articles": []
             }
           ]
         }
@@ -26,13 +36,39 @@
         {
           "id": 1,
           "name": "Sources of information about ancient civilizations",
-          "articles": [
-            {
-              "id": 1,
-              "title": "",
-              "slug": ""
-            }
-          ]
+          "articles": []
+        },
+        {
+          "id": 2,
+          "name": "Innovations from the past",
+          "articles": []
+        },
+        {
+          "id": 3,
+          "name": "Society and life in ancient and modern times",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "How We Express Ourselves",
+      "centralIdea": "Ideas and emotions can be expressed and interpreted through visual art.",
+      "linesOfInquiry": [
+        {
+          "id": 1,
+          "name": "Understanding structural elements of visual art",
+          "articles": []
+        },
+        {
+          "id": 2,
+          "name": "A universal language by which we can communicate",
+          "articles": []
+        },
+        {
+          "id": 3,
+          "name": "Different factors influence how people interpret visual art",
+          "articles": []
         }
       ]
     }
