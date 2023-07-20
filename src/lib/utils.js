@@ -1,4 +1,26 @@
 import { marked } from 'marked'
+import articleIndex from '$lib/article-index.json'
+
+export const getArticleInfoFromSlug = (slug) => {
+  let unitNumber
+  let lineNumber
+  let lineName
+  let articleInfo
+  for (const unit of articleIndex.unitsOfInquiry) {
+    for (const lineOfInquiry of unit.linesOfInquiry) {
+      for (const article of lineOfInquiry.articles) {
+        if (article.slug === slug) {
+          articleInfo = article
+          unitNumber = unit.id
+          lineNumber = lineOfInquiry.id
+          lineName = lineOfInquiry.name
+          break
+        }
+      }
+    }
+  }
+  return { articleInfo, unitNumber, lineNumber, lineName }
+}
 
 export const parseArticleFromText = (text) => {
   if (text === '') {

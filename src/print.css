@@ -12,8 +12,8 @@
   }
   h1 {
     font-size: 20pt;
-    margin: 0 0 12pt 0;
-    padding: 0;
+    margin: 12pt 0;
+    padding: 12pt 0;
     font-weight: 800;
   }
   h2 {
@@ -38,5 +38,15 @@
   p.article-info {
     text-indent: 0;
     margin-bottom: 12pt;
+    margin-top: -12pt;
+  }
+  span.line {
+    font-family: 'Arial', 'sans-serif';
+  }
+  .heading-wrapper {
+    padding-top: 12pt;
+  }
+  .print-only {
+    display: unset;
   }
 }

@@ -419,3 +419,9 @@ option {
 .article-info {
   font-size: 1.3rem;
 }
+.print-only {
+  display: none;
+}
+.float-right {
+  float: right;
+}
