@@ -71,6 +71,72 @@
           "articles": []
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "How the World Works",
+      "centralIdea": "Technological advances in electricity and magnetism increase our energy efficiency.",
+      "linesOfInquiry": [
+        {
+          "id": 1,
+          "name": "The origins of magnetism and electricity",
+          "articles": []
+        },
+        {
+          "id": 2,
+          "name": "Usable forms of energy",
+          "articles": []
+        },
+        {
+          "id": 3,
+          "name": "Impact of magnetism and electricity on everyday life",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "How We Organize Ourselves",
+      "centralIdea": "Local and global organizations impact individuals and nations.",
+      "linesOfInquiry": [
+        {
+          "id": 1,
+          "name": "The needs and wants of communities",
+          "articles": []
+        },
+        {
+          "id": 2,
+          "name": "The importance of collaboration",
+          "articles": []
+        },
+        {
+          "id": 3,
+          "name": "How organizations develop successfully",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sharing the Planet",
+      "centralIdea": "People can create positive change in our world.",
+      "linesOfInquiry": [
+        {
+          "id": 1,
+          "name": "Problems and challenges that occur in our world",
+          "articles": []
+        },
+        {
+          "id": 2,
+          "name": "How individuals and groups have created positive change",
+          "articles": []
+        },
+        {
+          "id": 3,
+          "name": "My contribution to society",
+          "articles": []
+        }
+      ]
     }
   ]
 }
