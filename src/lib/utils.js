@@ -63,6 +63,8 @@ export async function fetchArticleFromInfo(unit, line, number, level, fetch) {
 
   const unitName = unitOfInquiry.name
   const lineName = lineOfInquiry?.name
+  articleInfo.unitNumber = unit
+  articleInfo.lineNumber = line
 
   // in case we have more than 9 articles
   const id = String(articleInfo.id).padStart(2, '0')
