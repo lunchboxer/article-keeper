@@ -4,16 +4,19 @@
   export let article = ''
   export let questions = []
   export let answers = ''
+  export let level = ''
+  export let unitName = ''
+  export let lineName = ''
 </script>
 
 {#if article && articleInfo}
-  <p class="article-info">Article-a-day - Unit {articleInfo.unit}, {articleInfo.lineName} #{articleInfo.id} text {articleInfo.level}</p>
+  <p class="article-info">Article-a-day - Unit {unitName}, {lineName} #{articleInfo.id} text {level}</p>
   {@html article}
 {/if}
 
 {#if questions.length > 0}
   <div class="new-page">
-  <p class="article-info print-only">Article-a-day - Unit {articleInfo.unit}, {articleInfo.lineName} #{articleInfo.id} text {articleInfo.level}</p>
+  <p class="article-info print-only">Article-a-day - Unit {unitName}, {lineName} #{articleInfo.id} text {level}</p>
     <div class="heading-wrapper">
   <h2>Questions</h2>
     <div class="name-date">
@@ -38,7 +41,7 @@
 
 {#if answers}
   <div class="new-page">
-  <p class="article-info print-only">Article-a-day - Unit {articleInfo.unit}, {articleInfo.lineName} #{articleInfo.id} text {articleInfo.level}</p>
+  <p class="article-info print-only">Article-a-day - Unit {unitName}, {lineName} #{articleInfo.id} text {level}</p>
 
   {@html answers}
 </div>

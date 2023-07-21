@@ -9,8 +9,5 @@
 {/if}
 
 <RenderArticle
-  articleInfo={data.articleInfo}
-  answers={data.answers}
-  questions={data.questions}
-  article={data.article}
+  {...data}
 />

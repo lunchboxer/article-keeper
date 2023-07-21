@@ -1,31 +1,9 @@
 import { marked } from 'marked'
 import articleIndex from '$lib/article-index.json'
-
-export const getArticleInfoFromSlug = (slug) => {
-  let unitNumber
-  let lineNumber
-  let lineName
-  let articleInfo
-  for (const unit of articleIndex.unitsOfInquiry) {
-    for (const lineOfInquiry of unit.linesOfInquiry) {
-      for (const article of lineOfInquiry.articles) {
-        if (article.slug === slug) {
-          articleInfo = article
-          unitNumber = unit.id
-          lineNumber = lineOfInquiry.id
-          lineName = lineOfInquiry.name
-          break
-        }
-      }
-    }
-  }
-  return { articleInfo, unitNumber, lineNumber, lineName }
-}
+import articleIndexBySlug from '$lib/article-index-by-slug.json'
 
 export async function fetchArticleFromSlug(slug, level, fetch) {
-  const { articleInfo, unitNumber, lineNumber, lineName } =
-    getArticleInfoFromSlug(slug)
-
+  const articleInfo = articleIndexBySlug[slug]
   if (!articleInfo) {
     return {
       error: 'Article not found',
@@ -37,19 +15,22 @@ export async function fetchArticleFromSlug(slug, level, fetch) {
       error: 'Level not found',
     }
   }
-  articleInfo.unit = unitNumber
-  articleInfo.lineNum = lineNumber
-  articleInfo.lineName = lineName
-  articleInfo.level = level
+  const unit = articleIndex.unitsOfInquiry.find((u) => u.id === articleInfo.unitNumber)
+  const unitName = unit?.name
+  const line = unit?.linesOfInquiry.find((l) => l.id === articleInfo.lineNumber)
+  const lineName = line?.name
 
   // in case we have more than 9 articles
   const id = String(articleInfo.id).padStart(2, '0')
   const response = await fetch(
-    `/articles-md/${unitNumber}${lineNumber}${id}${level}-${slug}.md`,
+    `/articles-md/${articleInfo.unitNumber}${articleInfo.lineNumber}${id}${level}-${slug}.md`,
   )
   const text = await response.text()
   return {
     articleInfo,
+    level,
+    unitName,
+    lineName,
     ...parseArticleFromText(text),
   }
 }
@@ -80,6 +61,9 @@ export async function fetchArticleFromInfo(unit, line, number, level, fetch) {
     }
   }
 
+  const unitName = unitOfInquiry.name
+  const lineName = lineOfInquiry?.name
+
   // in case we have more than 9 articles
   const id = String(articleInfo.id).padStart(2, '0')
   const response = await fetch(
@@ -87,6 +71,9 @@ export async function fetchArticleFromInfo(unit, line, number, level, fetch) {
   )
   const text = await response.text()
   return {
+    unitName,
+    lineName,
+    level,
     articleInfo,
     ...parseArticleFromText(text),
   }

@@ -1,7 +1,6 @@
 <script>
   import RenderArticle from '$lib/RenderArticle.svelte'
   export let data
-  console.log('data is', data)
 </script>
 
 {#if data.error}
@@ -10,8 +9,5 @@
 {/if}
 
 <RenderArticle
-  articleInfo={data.articleInfo}
-  answers={data.answers}
-  questions={data.questions}
-  article={data.article}
+  {...data}
 />
