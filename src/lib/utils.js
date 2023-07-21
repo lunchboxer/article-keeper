@@ -94,7 +94,7 @@ export const parseArticleFromText = (text) => {
   const questionsMarked = articleLexer[questionHeadingIndex + 1]?.items
   const questions = questionsMarked.map((question) => {
     const text = question.text?.split('\n\n')
-    const answers = text[1].split('\n').filter((string) => string !== '')
+    const answers = text[1]?.split('\n').filter((string) => string !== '')
     return { question: text[0], answers }
   })
 

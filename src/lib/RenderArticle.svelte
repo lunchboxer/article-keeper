@@ -30,9 +30,11 @@
 {#each questions as question}
   <li>{question.question}</li>
 <ol class="answers">
+{#if question?.answers?.length > 0}
       {#each question.answers as answer}
       <li>{answer}</li>
 {/each}
+{/if}
     </ol>
 {/each}
   </ol>
