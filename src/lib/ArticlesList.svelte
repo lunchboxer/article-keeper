@@ -12,6 +12,11 @@
         <a href="/articles/{article.slug}">
           {article.title}
         </a>
+          (
+      {#each article.versions as version}
+          <a href="/articles/{article.slug}/{version}">{version}</a>
+{/each}
+        )
       </li>
     {/each}
   </ul>

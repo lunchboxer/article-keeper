@@ -1,6 +1,5 @@
 <script>
   import '../print.css'
-    import ArticlesList from './ArticlesList.svelte'
   export let articleInfo
   export let article = ''
   export let questions = []

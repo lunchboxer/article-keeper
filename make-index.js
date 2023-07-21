@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync, writeFileSync } from 'fs'
+import { readdirSync, readFileSync, writeFileSync } from 'node:fs'
 
 // make a list of the file names in the articles directory at /static/articles-md/
 // For each item in the list parse the title for the following:
@@ -8,17 +8,17 @@ import { readdirSync, readFileSync, writeFileSync } from 'fs'
 // - fifth character = level (string)
 // - everything from sixth character to '.md' is the slug
 
-const articlesDir = './static/articles-md/'
+const articlesDirectory = './static/articles-md/'
 
 function parseArticleFileName(fileName) {
-  const unitNumber = parseInt(fileName.slice(0, 1))
-  const lineNumber = parseInt(fileName.slice(1, 2))
-  const id = parseInt(fileName.slice(2, 4))
+  const unitNumber = Number.parseInt(fileName.slice(0, 1))
+  const lineNumber = Number.parseInt(fileName.slice(1, 2))
+  const id = Number.parseInt(fileName.slice(2, 4))
   const level = fileName.slice(4, 5)
   const slug = fileName.slice(6, -3)
 
   // Read the file and get the title from the first line
-  const text = readFileSync(articlesDir + fileName, 'utf8')
+  const text = readFileSync(articlesDirectory + fileName, 'utf8')
   const lines = text.split('\n')
   const title = lines[0].slice(2)
 
@@ -28,15 +28,15 @@ function parseArticleFileName(fileName) {
     id,
     level,
     slug,
-    title
+    title,
   }
 }
 
 // get and parse the article file names from the articles directory
-const articleFiles = readdirSync(articlesDir)
+const articleFiles = readdirSync(articlesDirectory)
 const parsedFiles = []
 
-console.log(`Found ${articleFiles.length} files in ${articlesDir}`)
+console.log(`Found ${articleFiles.length} files in ${articlesDirectory}`)
 console.log('Parsing files for article metadata')
 for (const articleFile of articleFiles) {
   parsedFiles.push(parseArticleFileName(articleFile))
@@ -71,18 +71,26 @@ const articleIndexRaw = readFileSync('./src/lib/article-index.json', 'utf8')
 const articleIndex = JSON.parse(articleIndexRaw)
 
 // For each of the articles in parsedFiles find the unit and line number in the existing articleIndex.
-// Then, add the article to the articles list for that line number 
+// Then, add the article to the articles list for that line number
 for (const article of parsedFiles) {
   const { unitNumber, lineNumber, id, level, slug, title } = article
-  const unitOfInquiry = articleIndex.unitsOfInquiry.find((u) => u.id === unitNumber)
-  const unitIndex = articleIndex.unitsOfInquiry.findIndex((u) => u.id === unitNumber)
+  const unitOfInquiry = articleIndex.unitsOfInquiry.find(
+    (u) => u.id === unitNumber,
+  )
+  const unitIndex = articleIndex.unitsOfInquiry.findIndex(
+    (u) => u.id === unitNumber,
+  )
 
   if (!unitOfInquiry) {
     console.log(`Unit not found: ${unitNumber}`)
     continue
   }
-  const lineOfInquiry = unitOfInquiry.linesOfInquiry.find((l) => l.id === lineNumber)
-  const lineIndex = unitOfInquiry.linesOfInquiry.findIndex((l) => l.id === lineNumber)
+  const lineOfInquiry = unitOfInquiry.linesOfInquiry.find(
+    (l) => l.id === lineNumber,
+  )
+  const lineIndex = unitOfInquiry.linesOfInquiry.findIndex(
+    (l) => l.id === lineNumber,
+  )
 
   if (!lineOfInquiry) {
     console.log(`Line of inquiry not found: ${lineNumber}`)
@@ -90,12 +98,10 @@ for (const article of parsedFiles) {
   }
   const articleInfo = lineOfInquiry.articles?.find((a) => a?.id === id)
 
-  // this part is definitely wrong. check it in a bit.
   // if the article exists in the index then check if we need to add to the versions array, otherwise skip
   if (articleInfo) {
     if (!articleInfo.versions.includes(level)) {
       articleInfo.versions.push(level)
-    } else {
     }
     continue
   }
@@ -105,9 +111,11 @@ for (const article of parsedFiles) {
       versions: [level],
       id,
       title,
-      slug
+      slug,
     }
-    articleIndex.unitsOfInquiry[unitIndex].linesOfInquiry[lineIndex].articles.push(newArticle)
+    articleIndex.unitsOfInquiry[unitIndex].linesOfInquiry[
+      lineIndex
+    ].articles.push(newArticle)
   }
 }
 const indexFilePath = './src/lib/article-index.json'

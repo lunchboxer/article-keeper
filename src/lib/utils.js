@@ -15,7 +15,9 @@ export async function fetchArticleFromSlug(slug, level, fetch) {
       error: 'Level not found',
     }
   }
-  const unit = articleIndex.unitsOfInquiry.find((u) => u.id === articleInfo.unitNumber)
+  const unit = articleIndex.unitsOfInquiry.find(
+    (u) => u.id === articleInfo.unitNumber,
+  )
   const unitName = unit?.name
   const line = unit?.linesOfInquiry.find((l) => l.id === articleInfo.lineNumber)
   const lineName = line?.name
@@ -94,7 +96,7 @@ export const parseArticleFromText = (text) => {
     (l) => l.type === 'heading' && l.text === 'Reading Comprehension Questions',
   )
   const questionsMarked = articleLexer[questionHeadingIndex + 1]?.items
-  const questions = questionsMarked.map((question) => {
+  const questions = questionsMarked?.map((question) => {
     const text = question.text?.split('\n\n')
     const answers = text[1]?.split('\n').filter((string) => string !== '')
     return { question: text[0], answers }
