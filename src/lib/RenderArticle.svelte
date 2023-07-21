@@ -19,7 +19,7 @@
     /
       <a href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}">{lineName}</a>
       /
-      <a href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}/{articleInfo.id}">article {articleInfo.id}</a>
+      <a href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}/{articleInfo.id}">Article {articleInfo.id}</a>
     </p>
       <p>Reading level {level}
       {#if articleInfo.versions.length > 1}
