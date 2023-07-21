@@ -6,5 +6,11 @@ export async function load({ params, fetch }) {
   const lineNumber = Number.parseInt(params.lineOfInquiry)
   const articleNumber = Number.parseInt(params.number)
 
-  return fetchArticleFromInfo(unitNumber, lineNumber, articleNumber, 'A', fetch)
+  return fetchArticleFromInfo(
+    unitNumber,
+    lineNumber,
+    articleNumber,
+    params.level,
+    fetch,
+  )
 }

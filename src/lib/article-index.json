@@ -13,19 +13,19 @@
               "id": 1,
               "title": "The Wild Origins of Your Last Name",
               "slug": "the-wild-origins-of-your-last-name",
-              "versions": 2
-            },
-            {
-              "id": 2,
-              "name": "How traditions and celebrations contribute to identity",
-              "articles": []
-            },
-            {
-              "id": 3,
-              "name": "Why families relocate",
-              "articles": []
+              "versions": ["A", "B"]
             }
           ]
+        },
+        {
+          "id": 2,
+          "name": "How traditions and celebrations contribute to identity",
+          "articles": []
+        },
+        {
+          "id": 3,
+          "name": "Why families relocate",
+          "articles": []
         }
       ]
     },

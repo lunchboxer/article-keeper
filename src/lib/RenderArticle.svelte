@@ -6,12 +6,12 @@
   export let answers = ''
 </script>
 
-{#if article}
+{#if article && articleInfo}
   <p class="article-info">Article-a-day - Unit {articleInfo.unit}, {articleInfo.lineName} #{articleInfo.id} text {articleInfo.level}</p>
   {@html article}
 {/if}
 
-{#if questions}
+{#if questions.length > 0}
   <div class="new-page">
   <p class="article-info print-only">Article-a-day - Unit {articleInfo.unit}, {articleInfo.lineName} #{articleInfo.id} text {articleInfo.level}</p>
     <div class="heading-wrapper">
@@ -34,6 +34,14 @@
 {/each}
   </ol>
   </div>
+{/if}
+
+{#if answers}
+  <div class="new-page">
+  <p class="article-info print-only">Article-a-day - Unit {articleInfo.unit}, {articleInfo.lineName} #{articleInfo.id} text {articleInfo.level}</p>
+
+  {@html answers}
+</div>
 {/if}
 
   <style>
