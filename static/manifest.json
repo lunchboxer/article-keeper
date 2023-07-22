@@ -1,0 +1,23 @@
+{
+  "name": "Article Keeper",
+  "shortName": "article-keeper",
+  "version": "0.0.1",
+  "icons": [
+    {
+      "src": "/maskable_iconx192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/maskable_iconx512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#b1a5e2",
+  "background_color": "#222222",
+  "start_url": "/",
+  "display": "standalone"
+}
