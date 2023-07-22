@@ -13,24 +13,23 @@
   <div class="no-print">
     <p>
       <a href="/articles">Articles</a>
-      /
+      &nbsp;/&nbsp;
       <a href="/articles/{articleInfo.unitNumber}">{unitName}</a>
-    /
+      &nbsp;/&nbsp;
       <a href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}">{lineName}</a>
-      /
+      &nbsp;/&nbsp;
       <a href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}/{articleInfo.id}">Article {articleInfo.id}</a>
     </p>
-      <p>Reading level {level}
+    <p>Reading level {level}
       {#if articleInfo.versions.length > 1}
-      &nbsp;|&nbsp;
-      {#each articleInfo.versions as version}
-{#if version !== level}
-      <a class="level" href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}/{articleInfo.id}/{version}">View level {version} text</a>
-{/if}
-
-{/each}
-{/if}
-</p>
+        &nbsp;|
+        {#each articleInfo.versions as version}
+          {#if version !== level}
+            <a class="level" href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}/{articleInfo.id}/{version}">View level {version} text</a>
+          {/if}
+        {/each}
+      {/if}
+    </p>
   </div>
 
   <p class="article-info print-only">Article-a-day - Unit {unitName}, {lineName} #{articleInfo.id} text {level}</p>

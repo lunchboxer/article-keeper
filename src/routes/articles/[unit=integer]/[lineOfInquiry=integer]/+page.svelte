@@ -9,6 +9,16 @@
 {/if}
 
 {#if data.lineOfInquiry}
+  <div class="no-print">
+    <p>
+      <a href="/articles">Articles</a>
+      &nbsp;/&nbsp;
+      <a href="/articles/{data.unitOfInquiry.id}">{data.unitOfInquiry.name}</a>
+      &nbsp;/&nbsp;
+      {data.lineOfInquiry.name}
+    </p>
+  </div>
+
   <h1>
     Unit {data.unitId} Inquiry {data.lineOfInquiry.id}
   </h1>

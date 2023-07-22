@@ -9,6 +9,15 @@
 {/if}
 
 {#if data.unitOfInquiry}
+
+  <div class="no-print">
+    <p>
+      <a href="/articles">Articles</a>
+      &nbsp;/&nbsp;
+      {data.unitOfInquiry.name}
+    </p>
+  </div>
+
   <h1>Unit {data.unitOfInquiry.id} - {data.unitOfInquiry.name}</h1>
   <p>{data.unitOfInquiry.centralIdea}</p>
   {#each data.unitOfInquiry.linesOfInquiry as lineOfInquiry}

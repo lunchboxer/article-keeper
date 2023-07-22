@@ -22,6 +22,7 @@ export function load({ params }) {
   }
   return {
     lineOfInquiry,
+    unitOfInquiry,
     unitId: unitOfInquiry.id,
   }
 }
