@@ -26,9 +26,9 @@ So look closely at your family crest next time you see it. See how the animals l
 
 ## Glossary
 
-crest - a symbol for a family
-medieval - from the middle ages, 500 to 1500 ad
-values - things you believe are important
+- crest - a symbol for a family
+- medieval - from the middle ages, 500 to 1500 ad
+- values - things you believe are important
 
 ## Reading Comprehension Questions
 
@@ -60,7 +60,7 @@ values - things you believe are important
    c) Copy other families' designs
    d) Pick your favorite creature
 
-5. Over time, family crests **\_**.
+5. Over time, family crests ___.
 
    a) Lost their original meaning
    b) Stayed only for royal families

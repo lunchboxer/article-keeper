@@ -42,7 +42,7 @@ Next time your family meets, ask about legends. Let those tales take you through
    c) To hide secrets
    d) All of the above
 
-3. The passage states urban legends **\_\_\_\_**.
+3. The passage states urban legends ___.
 
    a) Are folklore warnings of danger
    b) Are always completely true

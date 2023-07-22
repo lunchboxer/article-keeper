@@ -26,10 +26,10 @@ So next time you see a family coat of arms, appreciate its hidden power. The wil
 
 ## Glossary
 
-crest - a symbol or design representing a family, like a coat of arms
-medieval - relating to the middle ages, from around 500 to 1500 ad
-virtues - good moral qualities and values
-clan - a large family group that shares a common ancestor
+- crest - a symbol or design representing a family, like a coat of arms
+- medieval - relating to the middle ages, from around 500 to 1500 ad
+- virtues - good moral qualities and values
+- clan - a large family group that shares a common ancestor
 
 ## Reading Comprehension Questions
 
@@ -61,7 +61,7 @@ clan - a large family group that shares a common ancestor
    c) Copy a common design
    d) Choose your favorite creature
 
-5. The article states that over time, family crests **\_\_\_**.
+5. The article states that over time, family crests ___.
 
    a) Lost all their original meaning
    b) Became popular worldwide

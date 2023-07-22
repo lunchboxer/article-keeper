@@ -42,7 +42,7 @@ Next time your family gathers, ask about its legends. Let those yarns transport 
    c) To hide secrets
    d) All of the above
 
-3. The passage states that urban legends **\_\_\_**.
+3. The passage states that urban legends ___.
 
    a) Are folklore warnings about danger
    b) Are always 100% factual
@@ -57,6 +57,7 @@ Next time your family gathers, ask about its legends. Let those yarns transport 
    d) How folklore began
 
 5. Based on the article, why should you ask elder relatives about legends?
+
    a) To gather exciting fictional tales
    b) To learn about your family's past
    c) To find clues about secrets
