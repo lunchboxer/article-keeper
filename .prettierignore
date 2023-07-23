@@ -12,5 +12,3 @@ pnpm-lock.yaml
 package-lock.json
 yarn.lock
 articles-md
-article-index.json
-article-index-by-slug.json
