@@ -22,4 +22,11 @@
     max-width: 960px;
     padding: 2rem;
   }
+  @media print {
+  .container {
+    margin: 0;
+    padding: 0;
+    max-width: unset !important;
+  }
+    }
 </style>

@@ -313,14 +313,13 @@ ol,
 ul {
   list-style: none;
   margin-top: 0;
-  padding-left: 0;
 }
 
 ol {
-  list-style: decimal inside;
+  list-style: decimal;
 }
 ul {
-  list-style: circle inside;
+  list-style: circle;
 }
 
 blockquote,
@@ -424,4 +423,52 @@ option {
 }
 .float-right {
   float: right;
+}
+@media print {
+  body {
+    font-size: 12pt;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: unset;
+    padding: 0;
+    text-rendering: optimizeLegibility;
+  }
+  h1 {
+    font-size: 18pt;
+    margin: 0;
+    padding: 12pt 0;
+    font-weight: 800;
+  }
+  h2 {
+    font-size: 16pt;
+    margin: 12pt 0 8pt 0;
+    padding: 0;
+    font-weight: 800;
+  }
+  li {
+    font-size: 12pt;
+    margin: 0;
+    margin-top: 4pt;
+    padding: 0;
+  }
+  p {
+    font-size: 12pt;
+    text-indent: 4ch;
+    margin: 0;
+    margin-top: 4pt;
+    padding: 0;
+  }
+  .answers li {
+    font-size: 11pt;
+  }
+  .print-only {
+    display: unset;
+  }
+  .no-print {
+    display: none;
+  }
+}
+@page {
+  size: A4;
+  margin: 2cm;
 }

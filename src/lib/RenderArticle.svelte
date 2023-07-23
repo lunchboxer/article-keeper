@@ -1,5 +1,4 @@
 <script>
-  import '../print.css'
   export let articleInfo
   export let article = ''
   export let questions = []
@@ -42,9 +41,9 @@
     <div class="heading-wrapper">
   <h2>Questions</h2>
     <div class="name-date">
-  <p class="print-only">Name:<span class="line">__________________</span></p>
+  <p class="print-only form-line">Name:<span class="line">____________________</span></p>
         <br/>
-  <p class="print-only">Date:<span class="line">__________________</span></p>
+  <p class="print-only form-line">Date:<span class="line">____________________</span></p>
 </div>
 
   </div>
@@ -73,27 +72,49 @@
 
   <style>
   .level {
-  margin: 0 0.5rem;
+    margin: 0 0.5rem;
   }
   .heading-wrapper {
     display: flex;
-  width: 100%;
-  justify-content: space-between;
+    width: 100%;
+    justify-content: space-between;
   }
   .name-date {
-  text-align: right;
+    text-align: right;
   }
-.answers {
-  display: flex;
-  margin-bottom: 1rem;
-  list-style-type: none;
-  flex-wrap: wrap;
+  .answers {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-bottom: 1rem;
+    list-style-type: none;
+    flex-wrap: wrap;
   }
-
   .answers li {
-  padding: 0 1rem;
+    padding: 0 1rem;
   }
   .new-page {
   break-before: page;
   }
+  .name-date p.form-line {
+    line-height: 3;
+      text-align: right;
+    }
+    @media print {
+  .answers li {
+    font-size: 11pt;
+  }
+  p.article-info {
+    text-indent: 0;
+    font-size: 9pt;
+    margin-bottom: 12pt;
+    margin-top: -12pt;
+  }
+  span.line {
+    font-family: 'Arial', 'sans-serif';
+  }
+  .heading-wrapper {
+    padding-top: 12pt;
+  }
+      }
 </style>

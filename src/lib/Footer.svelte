@@ -2,7 +2,7 @@
   const icp = '湘ICP备20004695号-1'
 </script>
 
-<footer>
+<footer class="no-print">
   <p>
     <span class="copy">&copy; 2023 James Smith</span>
     {#if icp}

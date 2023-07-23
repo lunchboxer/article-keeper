@@ -1,4 +1,4 @@
-# Party Time! The Origins of Birthday Celebrations A
+# Party Time! The Origins of Birthday Celebrations
 
 Do you love celebrating your birthday? You're not alone! Birthday celebrations have been around for centuries, and they've evolved over time in all sorts of interesting ways. In this article, we'll take a look at the origins of birthday celebrations, and we'll learn about some of the fun traditions that have come along the way.
 
@@ -32,13 +32,18 @@ So there you have it! A brief history of birthday celebrations. From the simple 
 
 ## Fun Facts About Birthdays
 
-• The oldest known birthday cake was found in the tomb of Queen Hatshepsut in Egypt. The cake was made of honey, figs, and dates, and it was decorated with lotus flowers.
-• The first birthday card was created in 1842 by a man named John Pounds. He was a social reformer who wanted to create a way to celebrate the birthdays of poor children.
-• The world's oldest birthday party was held in 1989. It was for a woman named Margaret Jones, who was 115 years old at the time. The party was attended by over 1,000 people.
-• The most popular birthday cake flavor in the United States is chocolate.
-• The most popular birthday gift in the United States is money.
+- The oldest known birthday cake was found in the tomb of Queen Hatshepsut in Egypt. The cake was made of honey, figs, and dates, and it was decorated with lotus flowers.
+
+- The first birthday card was created in 1842 by a man named John Pounds. He was a social reformer who wanted to create a way to celebrate the birthdays of poor children.
+
+- The world's oldest birthday party was held in 1989. It was for a woman named Margaret Jones, who was 115 years old at the time. The party was attended by over 1,000 people.
+
+- The most popular birthday cake flavor in the United States is chocolate.
+
+- The most popular birthday gift in the United States is money.
 
 I hope you enjoyed learning about the origins of birthday celebrations! Now go out there and have a happy birthday!
+
 Here is a glossary for 5 key words from the article, along with 6 multiple choice reading comprehension questions and an answer key:
 
 ## Glossary
