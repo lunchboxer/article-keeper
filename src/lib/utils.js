@@ -29,6 +29,8 @@ export async function fetchArticleFromSlug(slug, level, fetch) {
   )
   const text = await response.text()
 
+  articleInfo.slug = slug
+
   const title = `Article-a-day - ${unitName}, ${lineName} #${articleInfo.id} text ${level}`
   return {
     title,

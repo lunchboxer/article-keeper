@@ -1,4 +1,5 @@
 <script>
+  import ArticleBreadcrumbs from './ArticleBreadcrumbs.svelte'
   export let articleInfo
   export let article = ''
   export let questions = []
@@ -6,19 +7,16 @@
   export let level = ''
   export let unitName = ''
   export let lineName = ''
+
+  const id = String(articleInfo.id).padStart(2, '0')
+  let showAnswers = false
 </script>
 
 {#if article && articleInfo}
   <div class="no-print">
-    <p>
-      <a href="/articles">Articles</a>
-      &nbsp;/&nbsp;
-      <a href="/articles/{articleInfo.unitNumber}">{unitName}</a>
-      &nbsp;/&nbsp;
-      <a href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}">{lineName}</a>
-      &nbsp;/&nbsp;
-      <a href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}/{articleInfo.id}">Article {articleInfo.id}</a>
-    </p>
+    <ArticleBreadcrumbs {articleInfo} {unitName} {lineName}/>
+
+    <div class="options">
     <p>Reading level {level}
       {#if articleInfo.versions.length > 1}
         &nbsp;|
@@ -29,6 +27,19 @@
         {/each}
       {/if}
     </p>
+      <a href="/articles-pdf/{articleInfo.unitNumber}{articleInfo.lineNumber}{id}{level}-{articleInfo.slug}.pdf"
+        download
+        class="button button-outline"
+      >
+        Download article and questions pdf
+      </a>
+      <a href="/answerkeys-pdf/{articleInfo.unitNumber}{articleInfo.lineNumber}{id}{level}-answers-{articleInfo.slug}.pdf"
+        download
+        class="button button-outline"
+      >
+        Download answer key pdf
+      </a>
+      </div>
   </div>
 
   {@html article}
@@ -45,28 +56,39 @@
 
   </div>
   <ol type="1">
-{#each questions as question}
-  <li>{question.question}</li>
-<ol class="answers">
-{#if question?.answers?.length > 0}
+
+  {#each questions as question}
+
+    <li>{question.question}</li>
+    <ol class="answers">
+
+    {#if question?.answers?.length > 0}
       {#each question.answers as answer}
-      <li>{answer}</li>
-{/each}
-{/if}
+        <li>{answer}</li>
+      {/each}
+    {/if}
     </ol>
-{/each}
+  {/each}
   </ol>
   </div>
 {/if}
 
-{#if answers}
-  <div class="new-page">
+<div class="no-print">
 
+{#if !showAnswers}
+  <button on:click={() => (showAnswers = true)}>Show answers</button>
+{:else}
+  <button on:click={() => (showAnswers = false)}>Hide answers</button>
+{/if}
+    <a class="button button-clear" href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}/{articleInfo.id}/{level}/answers">Answers</a>
+
+{#if answers && answers.length > 0 && showAnswers}
   {@html answers}
-</div>
 {/if}
 
-  <style>
+</div>
+
+<style>
   .level {
     margin: 0 0.5rem;
   }
