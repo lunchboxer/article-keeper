@@ -68,7 +68,7 @@ button,
 dd,
 dt,
 li {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .button,
@@ -313,6 +313,8 @@ ol,
 ul {
   list-style: none;
   margin-top: 0;
+  margin:0;
+  padding: 0 2rem;
 }
 
 ol {
@@ -440,8 +442,8 @@ option {
     font-weight: 800;
   }
   h2 {
-    font-size: 16pt;
-    margin: 12pt 0 8pt 0;
+    font-size: 14pt;
+    margin: 12pt 0 6pt 0;
     padding: 0;
     font-weight: 800;
   }
@@ -460,6 +462,9 @@ option {
     margin: 0;
     margin-top: 4pt;
     padding: 0;
+  }
+  li p {
+    text-indent: 0;
   }
   .answers li {
     font-size: 11pt;

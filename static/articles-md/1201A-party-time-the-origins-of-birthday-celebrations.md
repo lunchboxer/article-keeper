@@ -28,7 +28,7 @@ One of the most popular birthday traditions today is the custom of singing "Happ
 
 Another popular birthday tradition is the custom of giving people birthday cards. Birthday cards first became popular in the early 20th century, and they're now a staple of birthday celebrations around the world.
 
-So there you have it! A brief history of birthday celebrations. From the simple feasts of the ancient Egyptians to the elaborate parties of today, birthday celebrations have come a long way. But one thing remains the same: birthdays are a time to celebrate life, and they're a time to have fun with friends and family.
+So there you have it! A brief history of birthday celebrations. From the simple feasts of the ancient Egyptians to the elaborate parties of today, birthday celebrations have come a long way.
 
 ## Fun Facts About Birthdays
 
@@ -39,12 +39,6 @@ So there you have it! A brief history of birthday celebrations. From the simple 
 - The world's oldest birthday party was held in 1989. It was for a woman named Margaret Jones, who was 115 years old at the time. The party was attended by over 1,000 people.
 
 - The most popular birthday cake flavor in the United States is chocolate.
-
-- The most popular birthday gift in the United States is money.
-
-I hope you enjoyed learning about the origins of birthday celebrations! Now go out there and have a happy birthday!
-
-Here is a glossary for 5 key words from the article, along with 6 multiple choice reading comprehension questions and an answer key:
 
 ## Glossary
 
