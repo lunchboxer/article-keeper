@@ -28,7 +28,10 @@ export async function fetchArticleFromSlug(slug, level, fetch) {
     `/articles-md/${articleInfo.unitNumber}${articleInfo.lineNumber}${id}${level}-${slug}.md`,
   )
   const text = await response.text()
+
+  const title = `Article-a-day - ${unitName}, ${lineName} #${articleInfo.id} text ${level}`
   return {
+    title,
     articleInfo,
     level,
     unitName,
@@ -74,7 +77,11 @@ export async function fetchArticleFromInfo(unit, line, number, level, fetch) {
     `/articles-md/${unit}${line}${id}${level}-${articleInfo.slug}.md`,
   )
   const text = await response.text()
+
+  const title = `Article-a-day - ${unitName}, ${lineName} #${articleInfo.id} text ${level}`
+
   return {
+    title,
     unitName,
     lineName,
     level,

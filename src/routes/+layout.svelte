@@ -1,11 +1,12 @@
 <script>
+  import { page } from '$app/stores'
   import '../app.css'
   import Footer from '$lib/Footer.svelte'
   import Header from '$lib/Header.svelte'
 </script>
 
 <svelte:head>
-  <title>Article-a-day</title>
+  <title>{$page?.data?.title || 'Article-a-day'}</title>
 </svelte:head>
 
 <Header />

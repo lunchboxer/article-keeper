@@ -8,8 +8,6 @@ import { readdirSync, readFileSync, writeFileSync } from 'node:fs'
 // - fifth character = level (string)
 // - everything from sixth character to '.md' is the slug
 
-const articlesDirectory = './static/articles-md/'
-
 function parseArticleFileName(fileName) {
   const unitNumber = Number.parseInt(fileName.slice(0, 1))
   const lineNumber = Number.parseInt(fileName.slice(1, 2))
@@ -31,6 +29,8 @@ function parseArticleFileName(fileName) {
     title,
   }
 }
+
+const articlesDirectory = './static/articles-md/'
 
 // get and parse the article file names from the articles directory
 const articleFiles = readdirSync(articlesDirectory)

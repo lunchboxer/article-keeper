@@ -8,10 +8,6 @@
   export let lineName = ''
 </script>
 
-<svelte:head>
-  <title>Article-a-day - {unitName}, {lineName} #{articleInfo.id} text {level}</title>
-</svelte:head>
-
 {#if article && articleInfo}
   <div class="no-print">
     <p>
