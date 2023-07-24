@@ -8,6 +8,10 @@
   export let lineName = ''
 </script>
 
+<svelte:head>
+  <title>Article-a-day - {unitName}, {lineName} #{articleInfo.id} text {level}</title>
+</svelte:head>
+
 {#if article && articleInfo}
   <div class="no-print">
     <p>
@@ -31,19 +35,16 @@
     </p>
   </div>
 
-  <p class="article-info print-only">Article-a-day - Unit {unitName}, {lineName} #{articleInfo.id} text {level}</p>
   {@html article}
 {/if}
 
 {#if questions.length > 0}
   <div class="new-page">
-  <p class="article-info print-only">Article-a-day - Unit {unitName}, {lineName} #{articleInfo.id} text {level}</p>
     <div class="heading-wrapper">
-  <h2>Questions</h2>
+  <h2 class="questions">Questions</h2>
     <div class="name-date">
-  <p class="print-only form-line">Name:<span class="line">____________________</span></p>
-        <br/>
-  <p class="print-only form-line">Date:<span class="line">____________________</span></p>
+  <p class="print-only form-line">Name: <span class="line">____________________</span>
+  &nbsp;Date: <span class="line">______________</span></p>
 </div>
 
   </div>
@@ -64,7 +65,6 @@
 
 {#if answers}
   <div class="new-page">
-  <p class="article-info print-only">Article-a-day - Unit {unitName}, {lineName} #{articleInfo.id} text {level}</p>
 
   {@html answers}
 </div>
@@ -78,9 +78,12 @@
     display: flex;
     width: 100%;
     justify-content: space-between;
+    align-items: baseline;
   }
   .name-date {
     text-align: right;
+    padding: 0;
+    margin: 0;
   }
   .answers {
     margin: 0;
@@ -94,27 +97,22 @@
     padding: 0 1rem;
   }
   .new-page {
-  break-before: page;
+    break-before: page;
   }
   .name-date p.form-line {
     line-height: 3;
       text-align: right;
     }
-    @media print {
-  .answers li {
-    font-size: 11pt;
+  @media print {
+    .answers li {
+      font-size: 11pt;
+    }
+    span.line {
+      font-family: 'Arial', 'sans-serif';
+    }
+    h2.questions {
+      margin: 0;
+      padding: 0;
+    }
   }
-  p.article-info {
-    text-indent: 0;
-    font-size: 9pt;
-    margin-bottom: 12pt;
-    margin-top: -12pt;
-  }
-  span.line {
-    font-family: 'Arial', 'sans-serif';
-  }
-  .heading-wrapper {
-    padding-top: 12pt;
-  }
-      }
 </style>
