@@ -1,4 +1,5 @@
-import { readdirSync, readFileSync, writeFileSync } from 'node:fs'
+import { readdirSync, readFileSync, writeFileSync, renameSync } from 'node:fs'
+import sluggo from 'sluggo'
 
 // make a list of the file names in the articles directory at /static/articles-md/
 // For each item in the list parse the title for the following:
@@ -15,10 +16,19 @@ function parseArticleFileName(fileName) {
   const level = fileName.slice(4, 5)
   const slug = fileName.slice(6, -3)
 
+
   // Read the file and get the title from the first line
   const text = readFileSync(articlesDirectory + fileName, 'utf8')
   const lines = text.split('\n')
   const title = lines[0].slice(2)
+
+  if (!slug) {
+    const newSlug = sluggo(title)
+    console.log(`${fileName} is missing a slug`)
+    const newFileName = `${fileName.slice(0, -3)}-${newSlug}.md`
+    console.log('new filename', newFileName)
+    renameSync(articlesDirectory + fileName, articlesDirectory + newFileName)
+  }
 
   return {
     unitNumber,
