@@ -16,88 +16,61 @@ Holidays are the perfect time for people to challenge themselves in fun new ways
 
 ## Glossary
 
-**Daredevil** - a person who likes danger and takes risks
-
-**Illusionist** - an entertainer who does magic tricks and illusions
-
-**Feat** - an act that requires great skill and effort  
-
-**Ambitious** - having a strong desire to achieve something
-
-**Oxygen** - a gas that humans and other animals need to breathe
+- **Daredevil** - a person who likes danger and takes risks
+- **Illusionist** - an entertainer who does magic tricks and illusions
+- **Feat** - an act that requires great skill and effort  
+- **Ambitious** - having a strong desire to achieve something
+- **Oxygen** - a gas that humans and other animals need to breathe
 
 ## Reading Comprehension Questions
 
 1. What did Stig Severinsen do to break the world record for holding his breath underwater?
 
     a. Used special equipment to breathe underwater
-
     b. Trained his body and mind to need less oxygen 
-
     c. Only tried to hold his breath for a few minutes
-
     d. Relaxed by taking a nap 
 
 2. When did Robbie Knievel jump over fireworks on his motorcycle?
 
     a. Fourth of July
-
     b. New Year's Eve 
-
     c. Halloween
-
     d. Easter
 
 3. Why did David Blaine dress up like a balloon on Halloween?
 
     a. To win a costume contest
-
     b. To play a trick on people
-
     c. To help children not be afraid
-
     d. To perform a daring stunt 
 
 4. How did Chris McDougall show holiday heroics on Hanukkah?
 
     a. He lit giant Hanukkah menorah candles.
-
     b. He ran further than a marathon without stopping.
-
     c. He sang Hanukkah songs all night long. 
-
     d. He ate fried potato pancakes called latkes.
 
 5. What athletic achievement did GiGi Fernandez do on Easter?
 
     a. Colored over 500 Easter eggs
-
     b. Ate 50 chocolate bunnies
-
     c. Batted a tennis ball in an egg across the White House lawn over 200 times without dropping it
-
     d. Hopped like a rabbit all day
 
 6. According to the article, why are holidays a good time to attempt ambitious feats?
 
     a. More people have the day off from work and school.
-
     b. There are often big celebrations and crowds to impress.
-
     c. Special equipment is easier to rent on holidays.
-
     d. The weather is nicer than during other times of the year.
 
 ## Answer Key
 
 1. B
-
 2. A
-
 3. D 
-
 4. B
-
 5. C
-
 6. B

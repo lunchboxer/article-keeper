@@ -16,86 +16,60 @@ Holidays are perfect for trying new things! What amazing holiday feats can you t
 
 ## Glossary
 
-**Feat** - something that is very hard to do 
-
-**Daring** - willing to take risks or do something dangerous
-
-**Awesome** - extremely good or impressive
-
-**Relaxed** - calm and comfortable 
+- **Feat** - something that is very hard to do 
+- **Daring** - willing to take risks or do something dangerous
+- **Awesome** - extremely good or impressive
+- **Relaxed** - calm and comfortable 
 
 ## Reading Comprehension Questions
 
 1. How did Stig Severinsen break a world record under water?
 
    a. He used special gear to breathe
-
    b. He trained his body to need less air
-
    c. He only tried to hold his breath for a minute
-
    d. He took a nap to rest up
 
 2. When did Robbie Knievel jump his motorcycle over fireworks? 
 
    a. Fourth of July
-
    b. New Year's Eve
-
    c. Halloween 
-
    d. Easter
 
 3. Why did David Blaine dress up like a balloon on Halloween?
 
    a. To win a costume contest
-
    b. To play a trick on people
-
    c. To help kids not be scared
-
    d. To do a daring act
 
 4. How did Chris McDougall show a holiday feat on Hanukkah?
 
    a. He lit giant Hanukkah candles
-
    b. He ran a very long race without stopping
-
    c. He sang Hanukkah songs all night
-
    d. He ate potato pancakes called latkes
    
 5. What did GiGi Fernandez do on Easter?
 
    a. Colored 500 Easter eggs
-
    b. Ate 50 chocolate bunnies
-
    c. Batted a tennis ball on an egg over 200 times without dropping it
-
    d. Hopped like a rabbit all day
    
 6. What does the article say you need to do amazing holiday feats?
 
     a. Have superpowers
-
     b. Creativity and effort
-
     c. Be an adult
-
     d. Have expensive equipment
    
 ## Answer Key
 
 1. B
-
 2. A
-
 3. D
-
 4. B
-
 5. C  
-
 6. B
