@@ -73,7 +73,7 @@ for (const article of parsedFiles) {
 // write the index to a file
 const slugIndexFilePath = './src/lib/article-index-by-slug.json'
 console.log(`Writing index to ${slugIndexFilePath}`)
-writeFileSync(slugIndexFilePath, JSON.stringify(articleIndexBySlug))
+writeFileSync(slugIndexFilePath, JSON.stringify(articleIndexBySlug, undefined, 2))
 
 console.log('Get existing article index')
 // grab the article index
@@ -130,5 +130,5 @@ for (const article of parsedFiles) {
 }
 const indexFilePath = './src/lib/article-index.json'
 console.log(`Overwriting article index to ${indexFilePath}`)
-writeFileSync(indexFilePath, JSON.stringify(articleIndex))
+writeFileSync(indexFilePath, JSON.stringify(articleIndex, undefined, 2))
 console.log('Done!')

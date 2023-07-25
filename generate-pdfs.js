@@ -7,6 +7,7 @@ dotenv.config()
 const articlesDirectory = './static/articles-md/'
 const answersDirectory = './static/answerkeys-pdf/'
 const articlePDFsDirectory = './static/articles-pdf/'
+const server = 'http://localhost:5173'
 
 function parseArticleFileName(fileName) {
   const unitNumber = Number.parseInt(fileName.slice(0, 1))
@@ -56,7 +57,7 @@ for (const articleFile of articleFiles) {
   console.log(`Processing "${title}" level ${level}`)
   const idString = String(id).padStart(2, '0')
   await page.goto(
-    `http://localhost:5173/articles/${unitNumber}/${lineNumber}/${id}/${level}`,
+    `${server}/articles/${unitNumber}/${lineNumber}/${id}/${level}`,
   )
   // eventually this should skip the pdfs that already exist
   await page.pdf({
@@ -68,7 +69,7 @@ for (const articleFile of articleFiles) {
     displayHeaderFooter: true,
   })
   await page.goto(
-    `http://localhost:5173/articles/${unitNumber}/${lineNumber}/${id}/${level}/answers`,
+    `${server}/articles/${unitNumber}/${lineNumber}/${id}/${level}/answers`,
   )
   await page.pdf({
     preferCSSPageSize: true,
