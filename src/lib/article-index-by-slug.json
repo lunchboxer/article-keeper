@@ -82,5 +82,47 @@
     "id": 2,
     "title": "Holiday Heroics: Amazing Feats Performed on Special Days",
     "versions": ["A", "B"]
+  },
+  "yummy-history-how-your-favorite-foods-link-to-holidays": {
+    "unitNumber": 1,
+    "lineNumber": 2,
+    "id": 3,
+    "title": "Yummy History: How Your Favorite Foods Link to Holidays",
+    "versions": ["A", "B"]
+  },
+  "parades-pranks-and-parties-crazy-ways-to-celebrate": {
+    "unitNumber": 1,
+    "lineNumber": 2,
+    "id": 4,
+    "title": "Parades, Pranks, and Parties: Crazy Ways to Celebrate ",
+    "versions": ["A", "B"]
+  },
+  "festival-fun-colorful-traditions-from-around-the-globe": {
+    "unitNumber": 1,
+    "lineNumber": 2,
+    "id": 5,
+    "title": "Festival Fun: Colorful Traditions from Around the Globe",
+    "versions": ["A", "B"]
+  },
+  "gift-giving-greats-presents-that-made-history": {
+    "unitNumber": 1,
+    "lineNumber": 2,
+    "id": 6,
+    "title": "Gift-Giving Greats: Presents that Made History",
+    "versions": ["A", "B"]
+  },
+  "symbolic-styles-the-meanings-behind-celebration-fashions": {
+    "unitNumber": 1,
+    "lineNumber": 2,
+    "id": 7,
+    "title": "Symbolic Styles: The Meanings Behind Celebration Fashions",
+    "versions": ["A", "B"]
+  },
+  "playful-plots-the-stories-behind-holiday-characters": {
+    "unitNumber": 1,
+    "lineNumber": 2,
+    "id": 8,
+    "title": "Playful Plots: The Stories Behind Holiday Characters",
+    "versions": ["A", "B"]
   }
 }

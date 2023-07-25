@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync, writeFileSync, renameSync } from 'node:fs'
+import { readdir, readFile, writeFile, rename } from 'node:fs/promises'
 import sluggo from 'sluggo'
 
 // make a list of the file names in the articles directory at /static/articles-md/
@@ -8,8 +8,12 @@ import sluggo from 'sluggo'
 // - third and fourth character = articleNumber (integer)
 // - fifth character = level (string)
 // - everything from sixth character to '.md' is the slug
+function removeBlankLines(string) {
+  const regex = /^[ \w.)]+\s/;
+  return string.replace(/\n\s*?\n/g, "\n", regex);
+}
 
-function parseArticleFileName(fileName) {
+async function parseArticleFileName(fileName) {
   const unitNumber = Number.parseInt(fileName.slice(0, 1))
   const lineNumber = Number.parseInt(fileName.slice(1, 2))
   const id = Number.parseInt(fileName.slice(2, 4))
@@ -17,7 +21,7 @@ function parseArticleFileName(fileName) {
   let slug = fileName.slice(6, -3)
 
   // Read the file and get the title from the first line
-  const text = readFileSync(articlesDirectory + fileName, 'utf8')
+  const text = await readFile(articlesDirectory + fileName, 'utf8')
   const lines = text.split('\n')
   const title = lines[0].slice(2)
 
@@ -26,7 +30,7 @@ function parseArticleFileName(fileName) {
     console.log(`${fileName} is missing a slug`)
     const newFileName = `${fileName.slice(0, -3)}-${slug}.md`
     console.log('new filename', newFileName)
-    renameSync(articlesDirectory + fileName, articlesDirectory + newFileName)
+    await rename(articlesDirectory + fileName, articlesDirectory + newFileName)
   }
 
   return {
@@ -42,18 +46,19 @@ function parseArticleFileName(fileName) {
 const articlesDirectory = './static/articles-md/'
 
 // get and parse the article file names from the articles directory
-const articleFiles = readdirSync(articlesDirectory)
+const articleFiles = await readdir(articlesDirectory)
 const parsedFiles = []
 
 console.log(`Found ${articleFiles.length} files in ${articlesDirectory}`)
 console.log('Parsing files for article metadata')
 for (const articleFile of articleFiles) {
-  parsedFiles.push(parseArticleFileName(articleFile))
+  parsedFiles.push(await parseArticleFileName(articleFile))
 }
 
 console.log('Make an index of the articles by slug')
 // make an index of the files listed in parsedFiles indexed by slug
 const articleIndexBySlug = {}
+
 for (const article of parsedFiles) {
   const { slug, level, ...newArticle } = article
   // If the slug doesn't already exist then add it
@@ -74,11 +79,11 @@ for (const article of parsedFiles) {
 // write the index to a file
 const slugIndexFilePath = './src/lib/article-index-by-slug.json'
 console.log(`Writing index to ${slugIndexFilePath}`)
-writeFileSync(slugIndexFilePath, JSON.stringify(articleIndexBySlug, undefined, 2))
+await writeFile(slugIndexFilePath, JSON.stringify(articleIndexBySlug, undefined, 2))
 
 console.log('Get existing article index')
 // grab the article index
-const articleIndexRaw = readFileSync('./src/lib/article-index.json', 'utf8')
+const articleIndexRaw = await readFile('./src/lib/article-index.json', 'utf8')
 const articleIndex = JSON.parse(articleIndexRaw)
 
 // For each of the articles in parsedFiles find the unit and line number in the existing articleIndex.
@@ -135,5 +140,5 @@ for (const article of parsedFiles) {
 }
 const indexFilePath = './src/lib/article-index.json'
 console.log(`Overwriting article index to ${indexFilePath}`)
-writeFileSync(indexFilePath, JSON.stringify(articleIndex, undefined, 2))
+await writeFile(indexFilePath, JSON.stringify(articleIndex, undefined, 2))
 console.log('Done!')

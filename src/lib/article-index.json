@@ -86,6 +86,42 @@
               "id": 2,
               "title": "Holiday Heroics: Amazing Feats Performed on Special Days",
               "slug": "holiday-heroics-amazing-feats-performed-on-special-days"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "Yummy History: How Your Favorite Foods Link to Holidays",
+              "slug": "yummy-history-how-your-favorite-foods-link-to-holidays"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Parades, Pranks, and Parties: Crazy Ways to Celebrate ",
+              "slug": "parades-pranks-and-parties-crazy-ways-to-celebrate"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Festival Fun: Colorful Traditions from Around the Globe",
+              "slug": "festival-fun-colorful-traditions-from-around-the-globe"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "Gift-Giving Greats: Presents that Made History",
+              "slug": "gift-giving-greats-presents-that-made-history"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "Symbolic Styles: The Meanings Behind Celebration Fashions",
+              "slug": "symbolic-styles-the-meanings-behind-celebration-fashions"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "Playful Plots: The Stories Behind Holiday Characters",
+              "slug": "playful-plots-the-stories-behind-holiday-characters"
             }
           ]
         },
