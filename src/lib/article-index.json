@@ -80,10 +80,20 @@
               "id": 1,
               "title": "Party Time! The Origins of Birthday Celebrations",
               "slug": "party-time-the-origins-of-birthday-celebrations"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "Holiday Heroics: Amazing Feats Performed on Special Days",
+              "slug": "holiday-heroics-amazing-feats-performed-on-special-days"
             }
           ]
         },
-        { "id": 3, "name": "Why families relocate", "articles": [] }
+        {
+          "id": 3,
+          "name": "Why families relocate",
+          "articles": []
+        }
       ]
     },
     {
@@ -96,7 +106,11 @@
           "name": "Sources of information about ancient civilizations",
           "articles": []
         },
-        { "id": 2, "name": "Innovations from the past", "articles": [] },
+        {
+          "id": 2,
+          "name": "Innovations from the past",
+          "articles": []
+        },
         {
           "id": 3,
           "name": "Society and life in ancient and modern times",
@@ -136,7 +150,11 @@
           "name": "The origins of magnetism and electricity",
           "articles": []
         },
-        { "id": 2, "name": "Usable forms of energy", "articles": [] },
+        {
+          "id": 2,
+          "name": "Usable forms of energy",
+          "articles": []
+        },
         {
           "id": 3,
           "name": "Impact of magnetism and electricity on everyday life",
@@ -154,7 +172,11 @@
           "name": "The needs and wants of communities",
           "articles": []
         },
-        { "id": 2, "name": "The importance of collaboration", "articles": [] },
+        {
+          "id": 2,
+          "name": "The importance of collaboration",
+          "articles": []
+        },
         {
           "id": 3,
           "name": "How organizations develop successfully",
@@ -177,7 +199,11 @@
           "name": "How individuals and groups have created positive change",
           "articles": []
         },
-        { "id": 3, "name": "My contribution to society", "articles": [] }
+        {
+          "id": 3,
+          "name": "My contribution to society",
+          "articles": []
+        }
       ]
     }
   ]

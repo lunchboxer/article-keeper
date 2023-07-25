@@ -14,8 +14,7 @@ function parseArticleFileName(fileName) {
   const lineNumber = Number.parseInt(fileName.slice(1, 2))
   const id = Number.parseInt(fileName.slice(2, 4))
   const level = fileName.slice(4, 5)
-  const slug = fileName.slice(6, -3)
-
+  let slug = fileName.slice(6, -3)
 
   // Read the file and get the title from the first line
   const text = readFileSync(articlesDirectory + fileName, 'utf8')
@@ -23,9 +22,9 @@ function parseArticleFileName(fileName) {
   const title = lines[0].slice(2)
 
   if (!slug) {
-    const newSlug = sluggo(title)
+    slug = sluggo(title)
     console.log(`${fileName} is missing a slug`)
-    const newFileName = `${fileName.slice(0, -3)}-${newSlug}.md`
+    const newFileName = `${fileName.slice(0, -3)}-${slug}.md`
     console.log('new filename', newFileName)
     renameSync(articlesDirectory + fileName, articlesDirectory + newFileName)
   }
@@ -64,6 +63,8 @@ for (const article of parsedFiles) {
     continue
   }
   // otherwise update the index by adding to versions
+  // also check that title is correct
+  articleIndexBySlug[slug].title = article.title
   const currentVersions = articleIndexBySlug[slug].versions
   if (!currentVersions.includes(level)) {
     articleIndexBySlug[slug].versions.push(level)
@@ -110,6 +111,10 @@ for (const article of parsedFiles) {
 
   // if the article exists in the index then check if we need to add to the versions array, otherwise skip
   if (articleInfo) {
+    // also make sure that title and slug are updated if they are different
+    articleInfo.title = title
+    articleInfo.slug = slug
+    // why doesn't this seem like it would ever get written to the new index?
     if (!articleInfo.versions.includes(level)) {
       articleInfo.versions.push(level)
     }
