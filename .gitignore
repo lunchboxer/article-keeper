@@ -14,5 +14,3 @@ notes.org
 notes.md
 exported*.json
 db.sqlite
-static/answerkeys-pdf
-static/articles-pdf
