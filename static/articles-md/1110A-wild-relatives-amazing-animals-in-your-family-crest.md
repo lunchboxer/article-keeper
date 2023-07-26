@@ -35,45 +35,45 @@ So next time you see a family coat of arms, appreciate its hidden power. The wil
 
 1. What did family crests allow warriors to do in battle?
 
-   a) Avoid enemies
-   b) Impress their leader
-   c) Identify allies
-   d) Scare opponents
+   a. Avoid enemies
+   b. Impress their leader
+   c. Identify allies
+   d. Scare opponents
 
 2. Based on the article, what does a fox in a family crest represent?
 
-   a) Strength
-   b) Cunning
-   c) Leadership
-   d) Honor
+   a. Strength
+   b. Cunning
+   c. Leadership
+   d. Honor
 
 3. How does the passage show that coats of arms were special long ago?
 
-   a) Only farmers had them.
-   b) They represented family virtues.
-   c) Crests were painted on houses.
-   d) They were symbols of status.
+   a. Only farmers had them.
+   b. They represented family virtues.
+   c. Crests were painted on houses.
+   d. They were symbols of status.
 
 4. According to the article, how can you connect a crest to your family history?
 
-   a) Guess based on your location
-   b) Research the name meaning
-   c) Copy a common design
-   d) Choose your favorite creature
+   a. Guess based on your location
+   b. Research the name meaning
+   c. Copy a common design
+   d. Choose your favorite creature
 
 5. The article states that over time, family crests ___.
 
-   a) Lost all their original meaning
-   b) Became popular worldwide
-   c) Were only for royal families
-   d) Disappeared completely
+   a. Lost all their original meaning
+   b. Became popular worldwide
+   c. Were only for royal families
+   d. Disappeared completely
 
 6. What is the main idea of the article?
 
-   a) Lions and eagles represent nobility.
-   b) Family crests identify relatives in battle.
-   c) Coats of arms link to family histories and values.
-   d) Crest designs should be very creative.
+   a. Lions and eagles represent nobility.
+   b. Family crests identify relatives in battle.
+   c. Coats of arms link to family histories and values.
+   d. Crest designs should be very creative.
 
 ## Answer Key
 

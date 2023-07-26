@@ -26,45 +26,45 @@ Your ancestors probably took part in some fascinating rituals. Maybe the couple 
 
 1. Old wedding traditions often involved which of these?
 
-   a) Expensive gowns
-   b) Magic rituals
-   c) Royal guests
-   d) Fireworks
+   a. Expensive gowns
+   b. Magic rituals
+   c. Royal guests
+   d. Fireworks
 
 2. Loud noises like bells and gunshots at weddings were meant to:
 
-   a) Celebrate
-   b) Scare away evil
-   c) Make the couple kiss
-   d) Be annoying
+   a. Celebrate
+   b. Scare away evil
+   c. Make the couple kiss
+   d. Be annoying
 
 3. Why did Victorian brides carry special old, new, borrowed and blue items?
 
-   a) As gifts for guests
-   b) For good luck
-   c) To show off wealth
-   d) To follow royal rules
+   a. As gifts for guests
+   b. For good luck
+   c. To show off wealth
+   d. To follow royal rules
 
 4. What does the mehndi tradition show about Indian weddings?
 
-   a) They last a very long time.
-   b) Beauty is very important.
-   c) Guests get henna tattoos too.
-   d) It is a sad occasion.
+   a. They last a very long time.
+   b. Beauty is very important.
+   c. Guests get henna tattoos too.
+   d. It is a sad occasion.
 
 5. How does the article show wedding customs change over time?
 
-   a) Traditions evolve but still wish the couple well.
-   b) People today follow all the exact old traditions.
-   c) Families pass down the same traditions forever.
-   d) Modern weddings have no meaningful rituals.
+   a. Traditions evolve but still wish the couple well.
+   b. People today follow all the exact old traditions.
+   c. Families pass down the same traditions forever.
+   d. Modern weddings have no meaningful rituals.
 
 6. What is the main purpose of this article?
 
-   a) To explain how different weddings are around the world
-   b) To show how wedding traditions connect us to history
-   c) To complain about strange old wedding customs
-   d) To compare Indian and Greek wedding clothes
+   a. To explain how different weddings are around the world
+   b. To show how wedding traditions connect us to history
+   c. To complain about strange old wedding customs
+   d. To compare Indian and Greek wedding clothes
 
 ## Answer Key
 

@@ -2,7 +2,7 @@
 
 The holidays are filled with traditions, decorations, food, and of course, characters! From Santa Claus to the Easter Bunny, many holiday mascots have fascinating origins and stories behind them. Grab some hot cocoa and get cozy as we explore the playful plots behind these merry icons.
 
-On Christmas Eve, Santa slides down chimneys to deliver presents to good little girls and boys around the world. But where did this jolly gift-giver come from? Santa Claus evolved from the legend of St. Nicholas, a Greek bishop known for his generosity. His kindness and reputation for giving gifts led people to celebrate St. Nicholas on December 6th. When immigrants came to America, they brought these traditions with them. St. Nicholas eventually transformed into the Santa we know today. 
+On Christmas Eve, Santa slides down chimneys to deliver presents to good little girls and boys around the world. But where did this jolly gift-giver come from? Santa Claus evolved from the legend of St. Nicholas, a Greek bishop known for his generosity. His kindness and reputation for giving gifts led people to celebrate St. Nicholas on December 6th. When immigrants came to America, they brought these traditions with them. St. Nicholas eventually transformed into the Santa we know today.
 
 The modern Santa lives at the North Pole and has a workshop full of industrious elves. He makes a list of who's naughty and nice and delivers presents in a sleigh led by flying reindeer. While reindeer can't actually fly, this part of the story was inspired by psychedelic mushrooms! According to some accounts, shamans in Siberia would feed red-and-white mushrooms to reindeer, then collect and consume their urine for its mind-altering effects. This could explain Santa's magical reindeer and flying sleigh!
 
@@ -40,14 +40,14 @@ The next time you spot these characters, remember the fascinating stories behind
    b. Santa used magic to make reindeer fly.
    c. Elves helped reindeer fly with their magic.
    d. Reindeer have always been able to fly.
-   
-3. Where did the Easter Bunny originate? 
+
+3. Where did the Easter Bunny originate?
 
    a. America
    b. Germany
    c. Ireland
    d. Russia
-   
+
 4. How did carving turnips turn into carving pumpkins for Halloween?
 
    a. Turnips were hard to carve.
@@ -61,7 +61,7 @@ The next time you spot these characters, remember the fascinating stories behind
    b. They were created by American companies.
    c. They originated from other cultures and immigrants.
    d. They have magical powers.
-   
+
 6. Which sentence from the article explains why Santa has some of his traditional characteristics?
 
    a. This could explain Santa's magical reindeer and flying sleigh!

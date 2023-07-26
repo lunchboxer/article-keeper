@@ -27,45 +27,45 @@ Of course, few people can prove their families include actual royals. Over time,
 
 1. What did family crests represent for noble clans?
 
-   a) Special celebrations
-   b) Unique symbols
-   c) Important values
-   d) Royal colors
+   a. Special celebrations
+   b. Unique symbols
+   c. Important values
+   d. Royal colors
 
 2. What is one skill noble ladies learned, according to the article?
 
-   a) Jousting
-   b) Hunting
-   c) Sewing
-   d) Sword fighting
+   a. Jousting
+   b. Hunting
+   c. Sewing
+   d. Sword fighting
 
 3. Where in a castle might you find a dungeon?
 
-   a) In the kitchen
-   b) Inside a tower
-   c) Near the stables
-   d) By the moat
+   a. In the kitchen
+   b. Inside a tower
+   c. Near the stables
+   d. By the moat
 
 4. How could jewelry, paintings and fancy clothing provide clues about ancestors?
 
-   a) They proved your family worked as artists.
-   b) They showed your ancestors were wealthy and high class.
-   c) They symbolized your ancestors' values.
-   d) They were passed down from generation to generation.
+   a. They proved your family worked as artists.
+   b. They showed your ancestors were wealthy and high class.
+   c. They symbolized your ancestors' values.
+   d. They were passed down from generation to generation.
 
 5. Based on the article, why might few people have proof of royal ancestors today?
 
-   a) Royalty was uncommon.
-   b) Records got lost over time.
-   c) Stories were purposely hidden.
-   d) Descendants changed their names.
+   a. Royalty was uncommon.
+   b. Records got lost over time.
+   c. Stories were purposely hidden.
+   d. Descendants changed their names.
 
 6. What is the main idea of the article?
 
-   a) Living in medieval castles was dangerous.
-   b) Royalty and nobles had luxurious lifestyles.
-   c) Clues can reveal if your ancestors were noble.
-   d) Ladies learned special skills to be proper.
+   a. Living in medieval castles was dangerous.
+   b. Royalty and nobles had luxurious lifestyles.
+   c. Clues can reveal if your ancestors were noble.
+   d. Ladies learned special skills to be proper.
 
 ## Answer Key
 

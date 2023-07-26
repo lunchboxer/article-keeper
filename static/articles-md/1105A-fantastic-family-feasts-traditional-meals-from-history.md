@@ -27,45 +27,45 @@ As you can see, traditional family feasts reflect history. The foods come from t
 
 1. What did noble families eat at feasts during the Middle Ages in Europe?
 
-   a) Fish and dumplings
-   b) Dormice and cheesecake
-   c) Roast goose and wild boar
-   d) Challah bread and matzo ball soup
+   a. Fish and dumplings
+   b. Dormice and cheesecake
+   c. Roast goose and wild boar
+   d. Challah bread and matzo ball soup
 
 2. What does charoset dip eaten at Passover represent?
 
-   a) Tears and hardship
-   b) Sweet joy
-   c) Liberation
-   d) Protection
+   a. Tears and hardship
+   b. Sweet joy
+   c. Liberation
+   d. Protection
 
 3. Based on the article, why were pies with live birds impressive at medieval feasts?
 
-   a) The birds would dance.
-   b) It took great skill to catch the birds.
-   c) It was unique and entertaining.
-   d) The pies tasted better.
+   a. The birds would dance.
+   b. It took great skill to catch the birds.
+   c. It was unique and entertaining.
+   d. The pies tasted better.
 
 4. According to the article, what makes traditional feasts special?
 
-   a) Rare ingredients
-   b) Symbolic foods
-   c) Fancy cooking methods
-   d) Huge portions
+   a. Rare ingredients
+   b. Symbolic foods
+   c. Fancy cooking methods
+   d. Huge portions
 
 5. How does the article show that traditional foods connect families to their history?
 
-   a) Families eat exotic ingredients.
-   b) Preparation methods are outdated.
-   c) Stories and meaning pass between generations.
-   d) Holiday meals are the same worldwide.
+   a. Families eat exotic ingredients.
+   b. Preparation methods are outdated.
+   c. Stories and meaning pass between generations.
+   d. Holiday meals are the same worldwide.
 
 6. What is the main idea of the article?
 
-   a) Jewish food traditions are unique.
-   b) Salmon was a Native American staple.
-   c) Families worldwide have traditional holiday feasts.
-   d) Cooking took a long time in pioneer days.
+   a. Jewish food traditions are unique.
+   b. Salmon was a Native American staple.
+   c. Families worldwide have traditional holiday feasts.
+   d. Cooking took a long time in pioneer days.
 
 ## Answer Key
 

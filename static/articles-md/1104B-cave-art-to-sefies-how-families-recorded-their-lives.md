@@ -27,45 +27,45 @@ Throughout history, families worldwide found meaningful ways to keep records of 
 
 1. What did ancient cave paintings let families do?
 
-   a) Tell fun stories
-   b) Decorate their caves
-   c) Remember their loved ones
-   d) Learn about art
+   a. Tell fun stories
+   b. Decorate their caves
+   c. Remember their loved ones
+   d. Learn about art
 
 2. During the Renaissance, what made having a family portrait painting special?
 
-   a) Only kings could have them painted
-   b) They could be passed down through generations
-   c) They were painted by famous artists
-   d) They could hang in castles and mansors
+   a. Only kings could have them painted
+   b. They could be passed down through generations
+   c. They were painted by famous artists
+   d. They could hang in castles and mansors
 
 3. How did Kodak's Brownie camera change family photography?
 
-   a) It made candid snapshots affordable and easy.
-   b) It was the first camera invented.
-   c) It took very high quality portraits.
-   d) It only took serious formal portraits.
+   a. It made candid snapshots affordable and easy.
+   b. It was the first camera invented.
+   c. It took very high quality portraits.
+   d. It only took serious formal portraits.
 
 4. Based on the article, how did photography studios impact families in the 1800s?
 
-   a) Photography became only for the rich.
-   b) Families could take candid snapshots.
-   c) Affordable portraits became widely available.
-   d) Photography almost disappeared.
+   a. Photography became only for the rich.
+   b. Families could take candid snapshots.
+   c. Affordable portraits became widely available.
+   d. Photography almost disappeared.
 
 5. How does the article show that families have always found ways to keep records of their lives?
 
-   a) The methods changed but the purpose stayed the same.
-   b) Photos and paintings were only for rich families.
-   c) Families did not document their lives until modern times.
-   d) Handprint art and selfies served the same purpose.
+   a. The methods changed but the purpose stayed the same.
+   b. Photos and paintings were only for rich families.
+   c. Families did not document their lives until modern times.
+   d. Handprint art and selfies served the same purpose.
 
 6. What is the main idea of this article?
 
-   a) Old family portraits were heirlooms passed down.
-   b) Frontier photography was important to American history.
-   c) Families worldwide found creative ways to preserve memories.
-   d) Selfies and social media are narcissistic.
+   a. Old family portraits were heirlooms passed down.
+   b. Frontier photography was important to American history.
+   c. Families worldwide found creative ways to preserve memories.
+   d. Selfies and social media are narcissistic.
 
 ## Answer Key
 

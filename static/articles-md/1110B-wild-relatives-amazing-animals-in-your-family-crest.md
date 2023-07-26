@@ -34,45 +34,45 @@ So look closely at your family crest next time you see it. See how the animals l
 
 1. What did crests let warriors do long ago?
 
-   a) Look brave in battle
-   b) Find their friends
-   c) Feel proud of their family
-   d) Scare enemy soldiers
+   a. Look brave in battle
+   b. Find their friends
+   c. Feel proud of their family
+   d. Scare enemy soldiers
 
 2. Based on the article, what does a fox crest mean?
 
-   a) Strength
-   b) Cunning
-   c) Honor
-   d) Leadership
+   a. Strength
+   b. Cunning
+   c. Honor
+   d. Leadership
 
 3. How were family crests special in the past?
 
-   a) Only kings had them
-   b) They showed what a family valued
-   c) They were painted on houses
-   d) They looked like cool animals
+   a. Only kings had them
+   b. They showed what a family valued
+   c. They were painted on houses
+   d. They looked like cool animals
 
 4. How can you connect a crest to your family?
 
-   a) Guess based on where you live
-   b) Research last name meanings
-   c) Copy other families' designs
-   d) Pick your favorite creature
+   a. Guess based on where you live
+   b. Research last name meanings
+   c. Copy other families' designs
+   d. Pick your favorite creature
 
 5. Over time, family crests ___.
 
-   a) Lost their original meaning
-   b) Stayed only for royal families
-   c) Became popular worldwide
-   d) Disappeared
+   a. Lost their original meaning
+   b. Stayed only for royal families
+   c. Became popular worldwide
+   d. Disappeared
 
 6. What is the main idea of the article?
 
-   a) Lions and eagles mean nobility.
-   b) Crests help identify your relatives.
-   c) Coats of arms tell family histories.
-   d) Crest designs should be creative.
+   a. Lions and eagles mean nobility.
+   b. Crests help identify your relatives.
+   c. Coats of arms tell family histories.
+   d. Crest designs should be creative.
 
 ## Answer Key
 

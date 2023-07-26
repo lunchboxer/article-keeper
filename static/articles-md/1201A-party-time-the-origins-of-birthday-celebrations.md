@@ -52,45 +52,45 @@ So there you have it! A brief history of birthday celebrations. From the simple 
 
 1. What did the ancient Greeks believe about birthdays?
 
-   a) That they were a time for big celebrations
-   b) That you were vulnerable to evil spirits
-   c) That they should only be celebrated by royalty
-   d) That they represented the day your soul entered your body
+   a. That they were a time for big celebrations
+   b. That you were vulnerable to evil spirits
+   c. That they should only be celebrated by royalty
+   d. That they represented the day your soul entered your body
 
 2. Where did the tradition of birthday cakes originate?
 
-   a) Egypt
-   b) Greece
-   c) Rome
-   d) The Middle Ages
+   a. Egypt
+   b. Greece
+   c. Rome
+   d. The Middle Ages
 
 3. What was a common birthday gift during the Middle Ages?
 
-   a) Money
-   b) Clothing
-   c) Cards
-   d) Cake
+   a. Money
+   b. Clothing
+   c. Cards
+   d. Cake
 
 4. When did the tradition of singing "Happy Birthday" begin?
 
-   a) Middle Ages
-   b) 19th century
-   c) Early 20th century
-   d) Ancient Rome
+   a. Middle Ages
+   b. 19th century
+   c. Early 20th century
+   d. Ancient Rome
 
 5. What was the main ingredient in early Roman birthday cakes?
 
-   a) Flour
-   b) Honey
-   c) Fruit
-   d) Olive oil
+   a. Flour
+   b. Honey
+   c. Fruit
+   d. Olive oil
 
 6. How did the way people celebrated birthdays change from ancient times to today?
 
-   a) Celebrations became simpler over time.
-   b) Celebrations stayed small events with family.
-   c) Celebrations became more elaborate over time.
-   d) There was no change over time.
+   a. Celebrations became simpler over time.
+   b. Celebrations stayed small events with family.
+   c. Celebrations became more elaborate over time.
+   d. There was no change over time.
 
 ## Answer Key
 
@@ -100,4 +100,3 @@ So there you have it! A brief history of birthday celebrations. From the simple 
 4. b
 5. d
 6. c
-

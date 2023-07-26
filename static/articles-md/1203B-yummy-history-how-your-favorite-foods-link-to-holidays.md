@@ -31,50 +31,50 @@ Which holiday foods do you look forward to the most each year? Knowing the histo
 
 1. What are two foods probably eaten at the first Thanksgiving dinner?
 
-   A. Turkey and pumpkin
-   B. Deer and squash
-   C. Lobster and candy 
-   D. Mooncakes and hot cross buns
+   a. Turkey and pumpkin
+   b. Deer and squash
+   c. Lobster and candy
+   d. Mooncakes and hot cross buns
 
 2. What is one idea about why candy canes are shaped like canes?
 
-   A. To keep kids quiet in church
-   B. To celebrate the winter harvest
-   C. To show Jesus's family
-   D. To look like holiday candles  
+   a. To keep kids quiet in church
+   b. To celebrate the winter harvest
+   c. To show Jesus's family
+   d. To look like holiday candles  
 
 3. When were hot cross buns commonly eaten in England?
 
-   A. Christmas morning
-   B. Chinese New Year
-   C. Good Friday
-   D. Halloween  
+   a. Christmas morning
+   b. Chinese New Year
+   c. Good Friday
+   d. Halloween  
 
 4. What does the round shape of mooncakes show?
 
-   A. The harvest moon
-   B. Good luck
-   C. Family togetherness
-   D. The fall season
+   a. The harvest moon
+   b. Good luck
+   c. Family togetherness
+   d. The fall season
 
 5. According to the passage, why are holiday foods eaten on special days?
 
-   A. Because they taste good
-   B. To know history
-   C. To show important symbols
-   D. To celebrate with family  
+   a. Because they taste good
+   b. To know history
+   c. To show important symbols
+   d. To celebrate with family  
 
 6. Based on the passage, which statement is true?
 
-   A. Candy canes were created to decorate trees.
-   B. The first Thanksgiving was in Germany.
-   C. Mooncakes have eggs and oil inside. 
-   D. Hot cross buns were eaten every Sunday in medieval England.  
+   a. Candy canes were created to decorate trees.
+   b. The first Thanksgiving was in Germany.
+   c. Mooncakes have eggs and oil inside.
+   d. Hot cross buns were eaten every Sunday in medieval England.  
 
 ## Answer Key
 
 1. B
-2. A 
+2. A
 3. C
 4. C
 5. C

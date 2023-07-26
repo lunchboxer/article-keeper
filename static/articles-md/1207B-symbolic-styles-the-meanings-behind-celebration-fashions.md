@@ -27,7 +27,7 @@ So the next holiday you get dressed up, think about what your outfit means! Clot
    b. To help mix potions
    c. To scare kids
    d. To fly on brooms
-   
+
 2. What did Queen Victoria make popular in 1840?
 
    a. Fancy dresses
@@ -38,7 +38,7 @@ So the next holiday you get dressed up, think about what your outfit means! Clot
 3. What is a legend about why magicians first wore top hats?
 
    a. To do card tricks
-   b. To hide animals 
+   b. To hide animals
    c. To start new fashions
    d. To look fancy
 
@@ -46,9 +46,9 @@ So the next holiday you get dressed up, think about what your outfit means! Clot
 
    a. Clover plants
    b. Ireland
-   c. Magic 
+   c. Magic
    d. Purity
-   
+
 5. What is a main idea of the article?
 
    a. Pointy hats are spooky
@@ -59,7 +59,7 @@ So the next holiday you get dressed up, think about what your outfit means! Clot
 6. Which sentence from the article best supports the main idea?
 
    a. "The outfits we choose for events like Halloween, weddings, and more all have special meanings."
-   b. "On St. Patrick's Day, people wear green." 
+   b. "On St. Patrick's Day, people wear green."
    c. "Many people also wear green on March 17 to celebrate Irish culture."
    d. "Green is the official color of the country of Ireland."
 

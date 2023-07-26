@@ -27,45 +27,45 @@ Of course, few can prove their families include real royals. Over time, links to
 
 1. What did family crests show for each noble clan?
 
-   a) Important values
-   b) Royal colors
-   c) Special symbols
-   d) Celebrations
+   a. Important values
+   b. Royal colors
+   c. Special symbols
+   d. Celebrations
 
 2. According to the article, what is one skill noble girls learned?
 
-   a) Sword fighting
-   b) Jousting
-   c) Hunting
-   d) Sewing
+   a. Sword fighting
+   b. Jousting
+   c. Hunting
+   d. Sewing
 
 3. Where might you find a dungeon in a castle?
 
-   a) Near the stables
-   b) Inside a tower
-   c) By the moat
-   d) In the kitchen
+   a. Near the stables
+   b. Inside a tower
+   c. By the moat
+   d. In the kitchen
 
 4. How could jewelry, paintings and elegant clothing give clues about ancestors?
 
-   a) They showed ancestors were artists.
-   b) They meant your ancestors were royal and high class.
-   c) They passed through generations.
-   d) They showed values.
+   a. They showed ancestors were artists.
+   b. They meant your ancestors were royal and high class.
+   c. They passed through generations.
+   d. They showed values.
 
 5. Why might few people today have proof of royal ancestors?
 
-   a) Stories were hidden.
-   b) Royalty was rare.
-   c) Records were lost over time.
-   d) Names changed.
+   a. Stories were hidden.
+   b. Royalty was rare.
+   c. Records were lost over time.
+   d. Names changed.
 
 6. What is the main idea of the article?
 
-   a) Living in castles was dangerous.
-   b) Royalty and nobles had fancy lives.
-   c) Clues may show if ancestors were noble.
-   d) Ladies learned skills to be proper.
+   a. Living in castles was dangerous.
+   b. Royalty and nobles had fancy lives.
+   c. Clues may show if ancestors were noble.
+   d. Ladies learned skills to be proper.
 
 ## Answer Key
 

@@ -28,47 +28,47 @@ By the mid-1700s, the Age of Sail was ending as ships changed from wind to steam
 
 1. Why did European explorers travel the seas?
 
-   a) For knowledge
-   b) For riches and resources
-   c) For exercise
-   d) To visit new places
+   a. For knowledge
+   b. For riches and resources
+   c. For exercise
+   d. To visit new places
 
 2. Why did hard tack crackers last a long time at sea?
 
-   a) They were kept in barrels.
-   b) They were made from special wheat.
-   c) They were extremely hard.
-   d) They had extra nutrients.
+   a. They were kept in barrels.
+   b. They were made from special wheat.
+   c. They were extremely hard.
+   d. They had extra nutrients.
 
 3. According to the article, why did people choose piracy?
 
-   a) Adventure
-   b) Religion
-   c) Freedom and opportunity
-   d) Patriotism
+   a. Adventure
+   b. Religion
+   c. Freedom and opportunity
+   d. Patriotism
 
 4. Why did some bold women dress as men to join ship crews?
 
-   a) To find husbands
-   b) To appear wealthy
-   c) To overcome limits on women
-   d) To trick enemies
+   a. To find husbands
+   b. To appear wealthy
+   c. To overcome limits on women
+   d. To trick enemies
 
 5. How does the article show the legacy of seafaring ancestors?
 
-   a) Their maps helped future trips.
-   b) They inspired great art and writing.
-   c) They brought civilization across oceans.
-   d) All of the above.
+   a. Their maps helped future trips.
+   b. They inspired great art and writing.
+   c. They brought civilization across oceans.
+   d. All of the above.
 
 6. What is the main idea of the article?
 
-   a) Pirates were completely mean.
-   b) Scurvy was sailors' worst enemy.
-   c) Explorers loved discovering new places.
-   d) Seafaring men and women led daring lives.
+   a. Pirates were completely mean.
+   b. Scurvy was sailors' worst enemy.
+   c. Explorers loved discovering new places.
+   d. Seafaring men and women led daring lives.
 
-## Answer Key:
+## Answer Key
 
 1. b
 2. c

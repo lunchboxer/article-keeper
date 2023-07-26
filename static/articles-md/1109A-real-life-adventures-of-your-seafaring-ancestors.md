@@ -28,45 +28,45 @@ By the mid-1700s, the Age of Sail was ending as ships transitioned from wind to 
 
 1. What did European explorers travel the seas to find?
 
-   a) Freedom
-   b) Adventure
-   c) Riches and resources
-   d) Knowledge
+   a. Freedom
+   b. Adventure
+   c. Riches and resources
+   d. Knowledge
 
 2. Why did hard tack biscuits last a long time at sea?
 
-   a) They had extra nutrients.
-   b) They were made from special wheat.
-   c) They were extremely hard.
-   d) They were kept in air-tight barrels.
+   a. They had extra nutrients.
+   b. They were made from special wheat.
+   c. They were extremely hard.
+   d. They were kept in air-tight barrels.
 
 3. According to the article, what motivated people to choose piracy?
 
-   a) Patriotism
-   b) Religion
-   c) Opportunity and freedom
-   d) Loyalty to the queen
+   a. Patriotism
+   b. Religion
+   c. Opportunity and freedom
+   d. Loyalty to the queen
 
 4. Why did some bold women dress as men to join ship crews?
 
-   a) To disguise themselves as princesses
-   b) To find husbands
-   c) To overcome gender role limits
-   d) To appear wealthy
+   a. To disguise themselves as princesses
+   b. To find husbands
+   c. To overcome gender role limits
+   d. To appear wealthy
 
 5. How does the article show the legacy of seafaring ancestors?
 
-   a) Their maps helped future exploration.
-   b) They inspired beautiful paintings and literature.
-   c) They spread civilization across the world's oceans.
-   d) All of the above.
+   a. Their maps helped future exploration.
+   b. They inspired beautiful paintings and literature.
+   c. They spread civilization across the world's oceans.
+   d. All of the above.
 
 6. What is the main idea that the article communicates?
 
-   a) Scurvy was a sailor's worst enemy.
-   b) Pirates were completely savage and ruthless.
-   c) Seafaring men and women led daring, adventurous lives.
-   d) Explorers loved discovering new places.
+   a. Scurvy was a sailor's worst enemy.
+   b. Pirates were completely savage and ruthless.
+   c. Seafaring men and women led daring, adventurous lives.
+   d. Explorers loved discovering new places.
 
 ## Answer Key
 

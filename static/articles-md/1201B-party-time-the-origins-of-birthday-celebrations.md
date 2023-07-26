@@ -57,38 +57,38 @@ I hope you liked learning about birthday parties! Now go have an awesome birthda
 
 1. Where were some of the first birthday parties held?
 
-   a) Greece
-   b) Rome
-   c) Egypt
-   d) Middle Ages
+   a. Greece
+   b. Rome
+   c. Egypt
+   d. Middle Ages
 
 2. Why did Greeks put candles on birthday cakes?
 
-   a) To light the cake
-   b) To decorate the cake
-   c) To protect from evil spirits
-   d) To represent the birthday kid's life
+   a. To light the cake
+   b. To decorate the cake
+   c. To protect from evil spirits
+   d. To represent the birthday kid's life
 
 3. What did Romans give as birthday gifts?
 
-   a) Flowers
-   b) Cards
-   c) Clothes
-   d) Cakes
+   a. Flowers
+   b. Cards
+   c. Clothes
+   d. Cakes
 
 4. When did the "Happy Birthday" song become popular?
 
-   a) 1800s
-   b) 1900s
-   c) Middle Ages
-   d) Ancient Rome
+   a. 1800s
+   b. 1900s
+   c. Middle Ages
+   d. Ancient Rome
 
 5. What were early Roman cakes made of?
 
-   a) Fruit and honey
-   b) Chocolate
-   c) Olive oil and wheat
-   d) Vanilla and sugar
+   a. Fruit and honey
+   b. Chocolate
+   c. Olive oil and wheat
+   d. Vanilla and sugar
 
 ## Answer Key
 

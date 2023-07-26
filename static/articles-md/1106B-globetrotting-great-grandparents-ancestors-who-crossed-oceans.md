@@ -28,45 +28,45 @@ Thanks to our traveling great-grandparents, our families are in America today. N
 
 1. Why did immigrants leave their home countries in the 1800s-1900s?
 
-   a) To find better opportunities and jobs
-   b) To explore new places
-   c) To flee bad weather
-   d) To sail on ships
+   a. To find better opportunities and jobs
+   b. To explore new places
+   c. To flee bad weather
+   d. To sail on ships
 
 2. What made the ship trip hard for immigrant families?
 
-   a) It was too expensive.
-   b) It took a long time with bad conditions.
-   c) They had to build their own ships.
-   d) There were no inspections at Ellis Island.
+   a. It was too expensive.
+   b. It took a long time with bad conditions.
+   c. They had to build their own ships.
+   d. There were no inspections at Ellis Island.
 
 3. Based on the article, how did immigrant families adjust to America?
 
-   a) Their language skills helped them get jobs easily.
-   b) They had help from relatives already there.
-   c) Big families lived together to save money.
-   d) The government provided food, homes and English lessons.
+   a. Their language skills helped them get jobs easily.
+   b. They had help from relatives already there.
+   c. Big families lived together to save money.
+   d. The government provided food, homes and English lessons.
 
 4. Why did homesteaders go out West in covered wagons?
 
-   a) To find gold
-   b) To start farms
-   c) To map new land
-   d) To join Native American tribes
+   a. To find gold
+   b. To start farms
+   c. To map new land
+   d. To join Native American tribes
 
 5. How did immigrants and pioneers shape modern families?
 
-   a) Their fun stories entertain us.
-   b) They started famous companies.
-   c) Their hard work provided opportunities for future generations.
-   d) They traveled the world for enjoyment.
+   a. Their fun stories entertain us.
+   b. They started famous companies.
+   c. Their hard work provided opportunities for future generations.
+   d. They traveled the world for enjoyment.
 
 6. What is the main idea of this article?
 
-   a) America provided chances for a better life.
-   b) Pioneers had an easy trip out West.
-   c) Despite challenges, immigrants and homesteaders kept trying.
-   d) New languages confused immigrants.
+   a. America provided chances for a better life.
+   b. Pioneers had an easy trip out West.
+   c. Despite challenges, immigrants and homesteaders kept trying.
+   d. New languages confused immigrants.
 
 ## Answer Key
 

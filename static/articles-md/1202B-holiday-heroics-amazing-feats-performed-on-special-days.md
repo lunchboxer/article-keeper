@@ -16,10 +16,10 @@ Holidays are perfect for trying new things! What amazing holiday feats can you t
 
 ## Glossary
 
-- **Feat** - something that is very hard to do 
+- **Feat** - something that is very hard to do
 - **Daring** - willing to take risks or do something dangerous
 - **Awesome** - extremely good or impressive
-- **Relaxed** - calm and comfortable 
+- **Relaxed** - calm and comfortable
 
 ## Reading Comprehension Questions
 
@@ -30,11 +30,11 @@ Holidays are perfect for trying new things! What amazing holiday feats can you t
    c. He only tried to hold his breath for a minute
    d. He took a nap to rest up
 
-2. When did Robbie Knievel jump his motorcycle over fireworks? 
+2. When did Robbie Knievel jump his motorcycle over fireworks?
 
    a. Fourth of July
    b. New Year's Eve
-   c. Halloween 
+   c. Halloween
    d. Easter
 
 3. Why did David Blaine dress up like a balloon on Halloween?
@@ -50,21 +50,21 @@ Holidays are perfect for trying new things! What amazing holiday feats can you t
    b. He ran a very long race without stopping
    c. He sang Hanukkah songs all night
    d. He ate potato pancakes called latkes
-   
+
 5. What did GiGi Fernandez do on Easter?
 
    a. Colored 500 Easter eggs
    b. Ate 50 chocolate bunnies
    c. Batted a tennis ball on an egg over 200 times without dropping it
    d. Hopped like a rabbit all day
-   
+
 6. What does the article say you need to do amazing holiday feats?
 
-    a. Have superpowers
-    b. Creativity and effort
-    c. Be an adult
-    d. Have expensive equipment
-   
+   a. Have superpowers
+   b. Creativity and effort
+   c. Be an adult
+   d. Have expensive equipment
+
 ## Answer Key
 
 1. B

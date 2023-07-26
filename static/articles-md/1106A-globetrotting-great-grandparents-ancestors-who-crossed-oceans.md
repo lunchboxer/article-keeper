@@ -28,45 +28,45 @@ Thanks to our globetrotting great-grandparents, our families have a home in Amer
 
 1. Why did most immigrants leave their home countries in the 1800s-1900s?
 
-   a) To find better jobs and opportunities
-   b) To escape harsh weather and geography
-   c) To flee danger and violence
-   d) To travel the world for fun
+   a. To find better jobs and opportunities
+   b. To escape harsh weather and geography
+   c. To flee danger and violence
+   d. To travel the world for fun
 
 2. What made the ocean voyage to America challenging for immigrant families?
 
-   a) It was extremely expensive.
-   b) It took 1-3 months in crowded conditions.
-   c) They had to build their own ships.
-   d) There were no officials or inspections at Ellis Island.
+   a. It was extremely expensive.
+   b. It took 1-3 months in crowded conditions.
+   c. They had to build their own ships.
+   d. There were no officials or inspections at Ellis Island.
 
 3. Based on the article, what was one way immigrant families adjusted to America?
 
-   a) Their language skills helped them easily get jobs.
-   b) They had guidance from relatives already there.
-   c) Extended families lived together to save money.
-   d) The government provided food, housing and English lessons.
+   a. Their language skills helped them easily get jobs.
+   b. They had guidance from relatives already there.
+   c. Extended families lived together to save money.
+   d. The government provided food, housing and English lessons.
 
 4. Why did homesteaders head west in covered wagons?
 
-   a) To find gold
-   b) To start a farm
-   c) To map new land
-   d) To join Native American tribes
+   a. To find gold
+   b. To start a farm
+   c. To map new land
+   d. To join Native American tribes
 
 5. How does the article show that immigrants and pioneers shaped modern families?
 
-   a) Their globetrotting stories are entertaining.
-   b) They founded famous companies.
-   c) Their sacrifices provided opportunities for future generations.
-   d) They traveled the world for fun.
+   a. Their globetrotting stories are entertaining.
+   b. They founded famous companies.
+   c. Their sacrifices provided opportunities for future generations.
+   d. They traveled the world for fun.
 
 6. What is the main idea of this article?
 
-   a) America provided a chance for a better life.
-   b) Pioneers had an easy journey traveling west.
-   c) Immigrants and homesteaders faced challenges but persevered.
-   d) Languages confused new immigrants.
+   a. America provided a chance for a better life.
+   b. Pioneers had an easy journey traveling west.
+   c. Immigrants and homesteaders faced challenges but persevered.
+   d. Languages confused new immigrants.
 
 ## Answer Key
 

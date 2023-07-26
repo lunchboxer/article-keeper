@@ -4,13 +4,14 @@
   "private": true,
   "scripts": {
     "dev": "vite dev",
-    "index": "node ./make-index.js && prettier ./src/lib/article-index*.json --write",
+    "index": "node ./make-index.js && prettier ./src/lib/article-index*.json --write && npm run lint:markdown",
     "generate-pdfs": "node ./generate-pdfs.js",
     "build": "npm run index && npm run generate-pdfs && vite build",
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
     "lint": "prettier . --check . && eslint .",
+    "lint:markdown": "node ./clean-articles.js && markdownlint-cli2 ./static/articles-md/*.md --fix",
     "format": "prettier . --write ."
   },
   "devDependencies": {
@@ -19,13 +20,15 @@
     "eslint": "^8.28.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-svelte": "^2.30.0",
+    "markdownlint-cli2": "^0.8.1",
     "marked": "^5.1.1",
     "prettier": "^3.0.0",
     "prettier-plugin-svelte": "^3.0.0",
     "svelte": "^4.1.0",
     "svelte-check": "^3.4.3",
     "typescript": "^5.0.0",
-    "vite": "^4.4.2"
+    "vite": "^4.4.2",
+    "wordwrapjs": "^5.1.0"
   },
   "type": "module",
   "dependencies": {

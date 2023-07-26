@@ -4,7 +4,7 @@ Get ready for a worldwide party! Festivals and celebrations happen all over the 
 
 ## Holla Mohalla
 
-March is festival month in Punjab, India. Sikhs party hard to celebrate bravery and strength. Holla Mohalla is a 3-day bash at Anandpur Sahib. This festival features martial arts demos, daring displays of skill, and mock battles. It's like a fun cosplay for warrior skills! People dress up as brave fighters from the past. There's even a mock fight recreating a heroic battle from centuries ago. 
+March is festival month in Punjab, India. Sikhs party hard to celebrate bravery and strength. Holla Mohalla is a 3-day bash at Anandpur Sahib. This festival features martial arts demos, daring displays of skill, and mock battles. It's like a fun cosplay for warrior skills! People dress up as brave fighters from the past. There's even a mock fight recreating a heroic battle from centuries ago.
 
 ## Songkran Water Festival
 
@@ -27,60 +27,60 @@ Let's celebrate our planet's diversity! Festivals help us honor history and shar
 ## Glossary
 
 - **Cosplay** - dressing up and pretending to be a fictional character from a movie, book, video game, etc.
-- **Sequins** - shiny circular disks sewn onto fabric that reflect light and add sparkle. 
+- **Sequins** - shiny circular disks sewn onto fabric that reflect light and add sparkle.
 - **Samba** - a lively Afro-Brazilian dance involving shaking one's hips and feet to a rhythmic beat.
-- **Mardi Gras** - a big annual carnival and street party on the day before Lent starts. 
+- **Mardi Gras** - a big annual carnival and street party on the day before Lent starts.
 - **Devotion** - commitment and loyalty to a person, religion or belief.
 
 ## Reading Comprehension Questions
 
 1. What country has a New Year's festival with nationwide water fights?
 
-    A. India
-    B. Thailand 
-    C. Spain
-    D. Brazil
+   a. India
+   b. Thailand
+   c. Spain
+   d. Brazil
 
 2. Which festival marks the victory of good over evil with glowing lights?
 
-    A. Holi
-    B. Diwali
-    C. Carnival
-    D. Songkran 
+   a. Holi
+   b. Diwali
+   c. Carnival
+   d. Songkran
 
 3. What do people spray on each other during Spain's Haro Wine Battle?
 
-    A. Paint
-    B. Water
-    C. Champagne
-    D. Wine
+   a. Paint
+   b. Water
+   c. Champagne
+   d. Wine
 
-4. Which festival features elaborate costumes with sequins and feathers? 
+4. Which festival features elaborate costumes with sequins and feathers?
 
-    A. Holla Mohalla
-    B. Brazilian Carnival
-    C. Haro Wine Battle
-    D. Diwali
+   a. Holla Mohalla
+   b. Brazilian Carnival
+   c. Haro Wine Battle
+   d. Diwali
 
 5. What is unique about Holla Mohalla festival in India?
 
-    A. People play music and dance.
-    B. People light candles and pray.
-    C. People dress up as warriors and reenact battles.
-    D. People throw colors at each other.
+   a. People play music and dance.
+   b. People light candles and pray.
+   c. People dress up as warriors and reenact battles.
+   d. People throw colors at each other.
 
 6. According to the article, why are cultural festivals important?
 
-    A. They teach history.
-    B. They show diversity.
-    C. They are colorful.
-    D. They have good food.
+   a. They teach history.
+   b. They show diversity.
+   c. They are colorful.
+   d. They have good food.
 
 ## Answer Key
 
 1. B
 2. B
-3. D 
+3. D
 4. B
 5. C
 6. B

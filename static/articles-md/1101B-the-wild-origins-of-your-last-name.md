@@ -29,45 +29,45 @@ Today our last names connect us to our ancestors and family history. No matter w
 
 1. What did most people only have long ago?
 
-   a) Last names
-   b) Middle names
-   c) First names
-   d) Nicknames
+   a. Last names
+   b. Middle names
+   c. First names
+   d. Nicknames
 
 2. Where did last names like Smith and Baker come from?
 
-   a) Places people lived
-   b) People's looks
-   c) People's jobs
-   d) Family names
+   a. Places people lived
+   b. People's looks
+   c. People's jobs
+   d. Family names
 
 3. How did last names change over the years?
 
-   a) They got longer.
-   b) They changed spelling.
-   c) They sounded different.
-   d) They added nicknames.
+   a. They got longer.
+   b. They changed spelling.
+   c. They sounded different.
+   d. They added nicknames.
 
 4. What did some rich nobles have that peasants did not?
 
-   a) More money
-   b) Special privileges
-   c) Last names
-   d) Large families
+   a. More money
+   b. Special privileges
+   c. Last names
+   d. Large families
 
 5. What does your last name connect you to?
 
-   a) Your parents
-   b) Your aunts/uncles
-   c) Your ancestors
-   d) Your siblings
+   a. Your parents
+   b. Your aunts/uncles
+   c. Your ancestors
+   d. Your siblings
 
 6. What is the main idea of the article?
 
-   a) Last names tell a story about your family.
-   b) First and last names have surprising origins.
-   c) Many names came from people's jobs.
-   d) Last names show your family's power.
+   a. Last names tell a story about your family.
+   b. First and last names have surprising origins.
+   c. Many names came from people's jobs.
+   d. Last names show your family's power.
 
 ## Answer Key
 

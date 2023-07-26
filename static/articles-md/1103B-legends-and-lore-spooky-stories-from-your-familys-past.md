@@ -30,45 +30,45 @@ Next time your family meets, ask about legends. Let those tales take you through
 
 1. What are two kinds of legends described in the article?
 
-   a) Urban legends and last names
-   b) Ancestor adventures and spooky legends
-   c) Origin tales and city dangers
-   d) Family secrets and haunted houses
+   a. Urban legends and last names
+   b. Ancestor adventures and spooky legends
+   c. Origin tales and city dangers
+   d. Family secrets and haunted houses
 
 2. Based on the article, why might family legends start?
 
-   a) To explain names
-   b) To share wisdom
-   c) To hide secrets
-   d) All of the above
+   a. To explain names
+   b. To share wisdom
+   c. To hide secrets
+   d. All of the above
 
 3. The passage states urban legends ___.
 
-   a) Are folklore warnings of danger
-   b) Are always completely true
-   c) Cannot be scary stories
-   d) Are never repeated
+   a. Are folklore warnings of danger
+   b. Are always completely true
+   c. Cannot be scary stories
+   d. Are never repeated
 
 4. What do family origin legends explain?
 
-   a) Where last names came from
-   b) How cities were created
-   c) Why ancestors moved
-   d) How folklore started
+   a. Where last names came from
+   b. How cities were created
+   c. Why ancestors moved
+   d. How folklore started
 
 5. Based on the article, why should you ask older relatives about legends?
 
-   a) To get exciting pretend tales
-   b) To learn about your family's past
-   c) To find clues about secrets
-   d) Both B and C
+   a. To get exciting pretend tales
+   b. To learn about your family's past
+   c. To find clues about secrets
+   d. Both B and C
 
 6. What is the main idea of the article?
 
-   a) Legends are made up tales for fun.
-   b) Scary legends are told to frighten kids.
-   c) Family legends give clues about your history.
-   d) Urban legends are silly pointless stories.
+   a. Legends are made up tales for fun.
+   b. Scary legends are told to frighten kids.
+   c. Family legends give clues about your history.
+   d. Urban legends are silly pointless stories.
 
 ## Answer Key
 

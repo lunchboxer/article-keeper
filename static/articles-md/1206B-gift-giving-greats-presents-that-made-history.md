@@ -2,9 +2,9 @@
 
 Do you like giving and getting gifts? People have done it for a super long time! Some gifts turned out to be so special they changed things forever. Keep reading to learn about some of the best gifts ever given.
 
-Way back in ancient Egypt, around 1279 BC, the ruler of Egypt was named Pharaoh Ramses II. He was given 21 baby lions as a gift by a ruler in Africa! That must have been so exciting! Ramses II loved showing off his pet lions. He even took some lions with him into battle! 
+Way back in ancient Egypt, around 1279 BC, the ruler of Egypt was named Pharaoh Ramses II. He was given 21 baby lions as a gift by a ruler in Africa! That must have been so exciting! Ramses II loved showing off his pet lions. He even took some lions with him into battle!
 
-Moving ahead to the 1500s AD, there was a Queen named Elizabeth I who ruled England. One day a man named Sir Walter Raleigh did something very nice for the Queen. As she was walking down a grassy hill, he took off his fancy coat and put it on the ground so she wouldn't get mud on her feet. What a nice thing to do! The Queen was very happy. After that, she made him part of her royal group at the castle. 
+Moving ahead to the 1500s AD, there was a Queen named Elizabeth I who ruled England. One day a man named Sir Walter Raleigh did something very nice for the Queen. As she was walking down a grassy hill, he took off his fancy coat and put it on the ground so she wouldn't get mud on her feet. What a nice thing to do! The Queen was very happy. After that, she made him part of her royal group at the castle.
 
 Speaking of royal people, when Prince Albert married Queen Victoria in 1840, he gave her a very unique gift. It was a golden bracelet with an emerald snake head! Victoria liked reptiles a lot and wore the snake bracelet all the time. She even had a painting made of herself wearing it. What a cool historical gift!
 
@@ -30,51 +30,50 @@ As you can see, giving gifts has been a big deal throughout history. From pets t
 
 1. What special pet did the Pharaoh get as a gift?
 
-    a. Puppies 
-    b. Kittens
-    c. Baby lions
-    d. Bunnies
+   a. Puppies
+   b. Kittens
+   c. Baby lions
+   d. Bunnies
 
-2. Why did Sir Walter Raleigh put down his coat for the Queen? 
+2. Why did Sir Walter Raleigh put down his coat for the Queen?
 
-    a. To ask her to marry him
-    b. To show off his fancy coat
-    c. To keep her feet clean
-    d. To make her trip and fall
+   a. To ask her to marry him
+   b. To show off his fancy coat
+   c. To keep her feet clean
+   d. To make her trip and fall
 
 3. How did the gift to develop penicillin change things?
 
-    a. It helped heal people faster.
-    b. It made scientists famous.  
-    c. It showed science is important.
-    d. It proved medicine could be discovered.
+   a. It helped heal people faster.
+   b. It made scientists famous.  
+   c. It showed science is important.
+   d. It proved medicine could be discovered.
 
 4. What inspired the legend of Santa Claus giving gifts?
 
-    a. St. Nicholas giving away gold coins
-    b. Prince Albert giving Queen Victoria jewelry 
-    c. Sir Walter Raleigh laying down his coat
-    d. Pharaoh Ramses II showing off his lions
+   a. St. Nicholas giving away gold coins
+   b. Prince Albert giving Queen Victoria jewelry
+   c. Sir Walter Raleigh laying down his coat
+   d. Pharaoh Ramses II showing off his lions
 
 5. What is the main idea of the article?
 
-    a. Presents show love and care.
-    b. Royal people got weird gifts.
-    c. Fancy gifts like pets and jewels are fun.  
-    d. Abraham Lincoln's speech was an important gift.
-
+   a. Presents show love and care.
+   b. Royal people got weird gifts.
+   c. Fancy gifts like pets and jewels are fun.  
+   d. Abraham Lincoln's speech was an important gift.
 
 6. Which sentence from the article is an opinion?
 
-    a. She even had a painting done showing it off on her wrist.
-    b. Thanks to their gift, this life-saving medicine still helps millions each year!
-    c. Speaking of royal people, when Prince Albert married Queen Victoria in 1840, he gave her a very unique gift.
-    d. What a cool historical gift!
+   a. She even had a painting done showing it off on her wrist.
+   b. Thanks to their gift, this life-saving medicine still helps millions each year!
+   c. Speaking of royal people, when Prince Albert married Queen Victoria in 1840, he gave her a very unique gift.
+   d. What a cool historical gift!
 
 ## Answer Key
 
 1. c
-2. c 
+2. c
 3. a
 4. a
 5. a

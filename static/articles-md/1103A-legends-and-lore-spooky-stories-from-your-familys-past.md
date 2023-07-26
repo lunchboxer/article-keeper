@@ -30,45 +30,45 @@ Next time your family gathers, ask about its legends. Let those yarns transport 
 
 1. What are two types of legends described in the article?
 
-   a) Urban legends and family names
-   b) Ancestor adventures and spooky legends
-   c) Origin tales and urban dangers
-   d) Family secrets and haunted houses
+   a. Urban legends and family names
+   b. Ancestor adventures and spooky legends
+   c. Origin tales and urban dangers
+   d. Family secrets and haunted houses
 
 2. Based on the article, why might family legends get started?
 
-   a) To explain names
-   b) To share wisdom
-   c) To hide secrets
-   d) All of the above
+   a. To explain names
+   b. To share wisdom
+   c. To hide secrets
+   d. All of the above
 
 3. The passage states that urban legends ___.
 
-   a) Are folklore warnings about danger
-   b) Are always 100% factual
-   c) Cannot be scary stories
-   d) Are never repeated
+   a. Are folklore warnings about danger
+   b. Are always 100% factual
+   c. Cannot be scary stories
+   d. Are never repeated
 
 4. What do family origin legends explain?
 
-   a) Where surnames came from
-   b) How cities were created
-   c) Why ancestors migrated
-   d) How folklore began
+   a. Where surnames came from
+   b. How cities were created
+   c. Why ancestors migrated
+   d. How folklore began
 
 5. Based on the article, why should you ask elder relatives about legends?
 
-   a) To gather exciting fictional tales
-   b) To learn about your family's past
-   c) To find clues about secrets
-   d) Both B and C
+   a. To gather exciting fictional tales
+   b. To learn about your family's past
+   c. To find clues about secrets
+   d. Both B and C
 
 6. What is the main idea of the article?
 
-   a) Legends are fictional tales made up for fun.
-   b) Scary legends are told to frighten children.
-   c) Family legends provide clues about your heritage.
-   d) Urban legends are silly and pointless stories.
+   a. Legends are fictional tales made up for fun.
+   b. Scary legends are told to frighten children.
+   c. Family legends provide clues about your heritage.
+   d. Urban legends are silly and pointless stories.
 
 ## Answer Key
 

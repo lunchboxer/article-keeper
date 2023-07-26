@@ -28,45 +28,45 @@ As you can see, traditional family feasts reflect history. The foods use ingredi
 
 1. What did Romans think dormice were?
 
-   a) Scary
-   b) Yummy to eat
-   c) Cute pets
-   d) Difficult to catch
+   a. Scary
+   b. Yummy to eat
+   c. Cute pets
+   d. Difficult to catch
 
 2. What did jesters do at noble family feasts in the Middle Ages?
 
-   a) Play music
-   b) Tell stories
-   c) Perform tricks
-   d) Cook meals
+   a. Play music
+   b. Tell stories
+   c. Perform tricks
+   d. Cook meals
 
 3. What does fish eaten during Lunar New Year feasts represent?
 
-   a) Togetherness
-   b) Long life
-   c) Prosperity
-   d) Good luck
+   a. Togetherness
+   b. Long life
+   c. Prosperity
+   d. Good luck
 
 4. How did Native American tribes preserve salmon?
 
-   a) With salt
-   b) In iceboxes
-   c) By drying and smoking
-   d) In large pots
+   a. With salt
+   b. In iceboxes
+   c. By drying and smoking
+   d. In large pots
 
 5. What made cooking pioneer feasts difficult?
 
-   a) Few ingredients
-   b) Small kitchens
-   c) Only campfires for cooking
-   d) Lack of recipes
+   a. Few ingredients
+   b. Small kitchens
+   c. Only campfires for cooking
+   d. Lack of recipes
 
 6. How do traditional holiday foods connect families?
 
-   a) Unique ingredients
-   b) Telling family stories
-   c) Fancy cooking methods
-   d) Huge portions
+   a. Unique ingredients
+   b. Telling family stories
+   c. Fancy cooking methods
+   d. Huge portions
 
 ## Answer Key
 

@@ -1,6 +1,6 @@
 # Festival Fun: Colorful Traditions from Around the Globe
 
-Let's go around the world for a party! People everywhere love festivals. These fun celebrations have cool traditions, costumes, food, and more. I'll tell you about some colorful festivals across the globe. 
+Let's go around the world for a party! People everywhere love festivals. These fun celebrations have cool traditions, costumes, food, and more. I'll tell you about some colorful festivals across the globe.
 
 ## Holla Mohalla Festival
 
@@ -12,7 +12,7 @@ In April, Thailand celebrates New Year with a giant water fight! Songkran is a B
 
 ## Haro Wine Battle
 
-On the last Wednesday of June, things get messy in Haro, Spain! La Batalla del Vino (the Wine Battle) is part of a town festival. After a parade and church service, the wine fight starts. People spray wine on each other using squirt guns, spray bottles, buckets and more. Everyone gets soaked in red wine! 
+On the last Wednesday of June, things get messy in Haro, Spain! La Batalla del Vino (the Wine Battle) is part of a town festival. After a parade and church service, the wine fight starts. People spray wine on each other using squirt guns, spray bottles, buckets and more. Everyone gets soaked in red wine!
 
 ## Brazilian Carnival
 
@@ -36,50 +36,50 @@ Let's celebrate our diverse planet! Festivals teach us about cultures. Trying ne
 
 1. What country has a New Year's festival with water fights?  
 
-    A. India 
-    B. Thailand
-    C. Spain
-    D. Brazil
+   a. India
+   b. Thailand
+   c. Spain
+   d. Brazil
 
 2. Which festival has glowing lights for good beating evil?
 
-    A. Holi  
-    B. Diwali
-    C. Carnival
-    D. Songkran
+   a. Holi  
+   b. Diwali
+   c. Carnival
+   d. Songkran
 
 3. What do people spray at Spain's Haro Wine Battle?
 
-    A. Paint
-    B. Water
-    C. Champagne 
-    D. Wine
+   a. Paint
+   b. Water
+   c. Champagne
+   d. Wine
 
 4. Which festival has shiny, feathery costumes?
 
-    A. Holla Mohalla
-    B. Brazilian Carnival
-    C. Haro Wine Battle
-    D. Diwali 
+   a. Holla Mohalla
+   b. Brazilian Carnival
+   c. Haro Wine Battle
+   d. Diwali
 
 5. What makes Holla Mohalla in India unique?
 
-    A. People play music and dance.
-    B. People light candles and pray.
-    C. People dress up like warriors and pretend fight.
-    D. People throw colored powder.
+   a. People play music and dance.
+   b. People light candles and pray.
+   c. People dress up like warriors and pretend fight.
+   d. People throw colored powder.
 
 6. Why are cultural festivals important?
 
-    A. They teach history.
-    B. They show diversity.  
-    C. They are colorful.
-    D. They have yummy food.
+   a. They teach history.
+   b. They show diversity.  
+   c. They are colorful.
+   d. They have yummy food.
 
 ### Answer Key
 
 1. B
-2. B 
+2. B
 3. D
 4. B
 5. C

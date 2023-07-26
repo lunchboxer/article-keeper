@@ -8,7 +8,7 @@
   export let unitName = ''
   export let lineName = ''
 
-  const id = String(articleInfo.id).padStart(2, '0')
+  const id = article && String(articleInfo.id).padStart(2, '0')
   let showAnswers = false
 </script>
 

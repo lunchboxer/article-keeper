@@ -26,45 +26,45 @@ Your ancestors probably did fascinating rituals. Maybe the couple drank honey wi
 
 1. Old wedding traditions sometimes used:
 
-   a) Expensive gowns
-   b) Magic rituals
-   c) Royal guests
-   d) Fireworks
+   a. Expensive gowns
+   b. Magic rituals
+   c. Royal guests
+   d. Fireworks
 
 2. Loud noises like bells at weddings were to:
 
-   a) Celebrate
-   b) Scare evil away
-   c) Make the couple kiss
-   d) Be annoying
+   a. Celebrate
+   b. Scare evil away
+   c. Make the couple kiss
+   d. Be annoying
 
 3. Why did English brides carry special items?
 
-   a) As gifts for guests
-   b) For good luck
-   c) To show off wealth
-   d) To follow royal rules
+   a. As gifts for guests
+   b. For good luck
+   c. To show off wealth
+   d. To follow royal rules
 
 4. What does mehndi show about Indian weddings?
 
-   a) They last a very long time.
-   b) Beauty is important.
-   c) Guests get henna tattoos.
-   d) It is a sad event.
+   a. They last a very long time.
+   b. Beauty is important.
+   c. Guests get henna tattoos.
+   d. It is a sad event.
 
 5. How does the article say wedding customs change?
 
-   a) Traditions evolve but still wish couples well.
-   b) People today follow the exact old traditions.
-   c) Families pass down the same traditions.
-   d) Modern weddings have no meaningful rituals.
+   a. Traditions evolve but still wish couples well.
+   b. People today follow the exact old traditions.
+   c. Families pass down the same traditions.
+   d. Modern weddings have no meaningful rituals.
 
 6. What is the main idea of the article?
 
-   a) To explain different world weddings
-   b) To show how traditions connect us to the past
-   c) To complain about strange old customs
-   d) To compare clothes in India and Greece
+   a. To explain different world weddings
+   b. To show how traditions connect us to the past
+   c. To complain about strange old customs
+   d. To compare clothes in India and Greece
 
 ## Answer Key
 
