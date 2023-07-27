@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vite dev",
-    "index": "node ./make-index.js && prettier ./src/lib/article-index*.json --write && npm run lint:markdown",
+    "index": "npm run lint:markdown && node ./make-index.js && prettier ./src/lib/article-index*.json --write",
     "generate-pdfs": "node ./generate-pdfs.js",
     "build": "npm run index && npm run generate-pdfs && vite build",
     "preview": "vite preview",

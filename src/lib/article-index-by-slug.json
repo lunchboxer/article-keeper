@@ -124,5 +124,89 @@
     "id": 8,
     "title": "Playful Plots: The Stories Behind Holiday Characters",
     "versions": ["A", "B"]
+  },
+  "party-pets-animals-that-join-in-festivities": {
+    "unitNumber": 1,
+    "lineNumber": 2,
+    "id": 9,
+    "title": "Party Pets: Animals that Join in Festivities",
+    "versions": ["A", "B"]
+  },
+  "sweet-traditions-desserts-and-treats-tied-to-celebrations": {
+    "unitNumber": 1,
+    "lineNumber": 2,
+    "id": 10,
+    "title": "Sweet Traditions: Desserts and Treats Tied to Celebrations",
+    "versions": ["A", "B"]
+  },
+  "treasure-hunt-explorers-who-moved-for-riches": {
+    "unitNumber": 1,
+    "lineNumber": 3,
+    "id": 1,
+    "title": "Treasure Hunt! Explorers Who Moved for Riches",
+    "versions": ["A", "B"]
+  },
+  "nature-s-bounty-how-fruits-and-vegetables-led-families-west": {
+    "unitNumber": 1,
+    "lineNumber": 3,
+    "id": 2,
+    "title": "Nature's Bounty: How Fruits and Vegetables Led Families West",
+    "versions": ["A", "B"]
+  },
+  "seeking-freedom-immigrants-searching-for-new-lives": {
+    "unitNumber": 1,
+    "lineNumber": 3,
+    "id": 3,
+    "title": "Seeking Freedom: Immigrants Searching for New Lives",
+    "versions": ["A", "B"]
+  },
+  "disasters-and-danger-moving-to-avoid-catastrophe": {
+    "unitNumber": 1,
+    "lineNumber": 3,
+    "id": 4,
+    "title": "Disasters and Danger: Moving to Avoid Catastrophe",
+    "versions": ["A", "B"]
+  },
+  "climate-changes-relocating-for-better-weather": {
+    "unitNumber": 1,
+    "lineNumber": 3,
+    "id": 5,
+    "title": "Climate Changes: Relocating for Better Weather",
+    "versions": ["A", "B"]
+  },
+  "trailblazers-adventurers-charting-new-land-routes": {
+    "unitNumber": 1,
+    "lineNumber": 3,
+    "id": 6,
+    "title": "Trailblazers: Adventurers Charting New Land Routes",
+    "versions": ["A", "B"]
+  },
+  "going-abroad-families-who-moved-overseas": {
+    "unitNumber": 1,
+    "lineNumber": 3,
+    "id": 7,
+    "title": "Going Abroad: Families Who Moved Overseas",
+    "versions": ["A", "B"]
+  },
+  "job-journeys-relocating-for-work-opportunities": {
+    "unitNumber": 1,
+    "lineNumber": 3,
+    "id": 8,
+    "title": "Job Journeys: Relocating for Work Opportunities",
+    "versions": ["A", "B"]
+  },
+  "urban-uprooting-escaping-crowded-cities-for-open-spaces": {
+    "unitNumber": 1,
+    "lineNumber": 3,
+    "id": 9,
+    "title": "Urban Uprooting: Escaping Crowded Cities for Open Spaces",
+    "versions": ["A", "B"]
+  },
+  "animal-inspiration-families-following-wildlife-migrations": {
+    "unitNumber": 1,
+    "lineNumber": 3,
+    "id": 10,
+    "title": "Animal Inspiration: Families Following Wildlife Migrations",
+    "versions": ["A", "B"]
   }
 }

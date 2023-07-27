@@ -1,5 +1,5 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises'
-import wordwrap from 'wordwrapjs'
+// import wordwrap from 'wordwrapjs'
 
 const articlesDirectory = './static/articles-md/'
 
