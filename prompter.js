@@ -3,7 +3,7 @@ import inquirer from 'inquirer'
 import chalk from 'chalk'
 import clipboard from 'clipboardy'
 import { spawn } from 'node:child_process'
-import { readFile, writeFile } from 'node:fs/promises'
+import { readFile, writeFile, unlink } from 'node:fs/promises'
 
 const articlesPerLine = 10
 const linesPerUnit = 3
@@ -31,7 +31,7 @@ async function openEditor(filePath) {
 const articleIndexRaw = await readFile('./src/lib/article-index.json', 'utf8')
 const articleIndex = JSON.parse(articleIndexRaw)
 const storeRaw = await readFile('./prompter.json', 'utf8')
-const store = JSON.parse(articleIndexRaw)
+const store = JSON.parse(storeRaw)
 
 
 // Check if the articleIndex has the numberOfUnits, linesPerUnit and articlesPerLine defined above
@@ -86,9 +86,12 @@ if (!hasRightNumberOfUnits || !hasRightNumberOfLines) {
 // if there is a set of article titles and that matches one of the 
 // linesWithWrongNumberOfArticles then ask user if they want to use them to generate articles
 // otherwise we ask them if they want to generate article titles for the next empty unit.
-console.log('Let\'s generate some article topics!')
 async function newPrompt() {
+  if (store.articleTopicPrompt) {
+    return
+  }
   while (!store.articleTopicPrompt) {
+    console.log('There is no article topics prompt stored.')
     const answers = await inquirer.prompt([
       {
         type: 'confirm',
@@ -99,10 +102,11 @@ async function newPrompt() {
     ])
     // if yes we open $EDITOR /tmp/topic-prompt
     if (answers.AddPrompt) {
-      await writeFile('/tmp/topic-prompt.txt', '# Write your prompt to generate article topics here.\n\n', 'utf8')
+      const tmpPromptFile = '/tmp/topic-prompt.txt'
       try {
-        await openEditor('/tmp/topic-prompt.txt')
-        const text = await readFile('/tmp/topic-prompt.txt', 'utf8')
+        await openEditor(tmpPromptFile)
+        const text = await readFile(tmpPromptFile, 'utf8')
+        await unlink(tmpPromptFile)
         const newPrompt = text.split('\n').slice(1).join('\n').trim()
         console.log('Your new article topics prompt: ')
         for (const line of newPrompt.split('\n')) {
