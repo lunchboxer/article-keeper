@@ -13,7 +13,7 @@ function removeBlankLines(string) {
   return string.replace(/\n\s*?\n/g, "\n", regex);
 }
 
-async function parseArticleFileName(fileName) {
+export async function parseArticleFileName(fileName) {
   const unitNumber = Number.parseInt(fileName.slice(0, 1))
   const lineNumber = Number.parseInt(fileName.slice(1, 2))
   const id = Number.parseInt(fileName.slice(2, 4))

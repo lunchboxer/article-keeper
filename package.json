@@ -6,6 +6,7 @@
     "dev": "vite dev",
     "index": "npm run lint:markdown && node ./make-index.js && prettier ./src/lib/article-index*.json --write",
     "generate-pdfs": "node ./generate-pdfs.js",
+    "prompter": "node ./prompter/index.js",
     "build": "npm run index && npm run generate-pdfs && vite build",
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
@@ -40,6 +41,7 @@
     "eslint-plugin-unicorn": "^48.0.0",
     "inquirer": "^9.2.8",
     "puppeteer": "^20.9.0",
-    "sluggo": "^1.0.0"
+    "sluggo": "^1.0.0",
+    "wordwrapjs": "^5.1.0"
   }
 }
