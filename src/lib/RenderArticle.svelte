@@ -8,7 +8,7 @@
   export let unitName = ''
   export let lineName = ''
 
-  const id = article && String(articleInfo.id).padStart(2, '0')
+  const id = articleInfo && String(articleInfo.id).padStart(2, '0')
   let showAnswers = false
 </script>
 
@@ -80,7 +80,9 @@
 {:else}
   <button on:click={() => (showAnswers = false)}>Hide answers</button>
 {/if}
+{#if articleInfo}
     <a class="button button-clear" href="/articles/{articleInfo.unitNumber}/{articleInfo.lineNumber}/{articleInfo.id}/{level}/answers">Answers</a>
+    {/if}
 
 {#if answers && answers.length > 0 && showAnswers}
   {@html answers}

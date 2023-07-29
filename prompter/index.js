@@ -389,7 +389,7 @@ async function generateAnArticle() {
       name: 'title',
       message: 'Which article would you like to generate?',
       choices,
-      default: nextTitle.value,
+      default: nextTitle?.value,
     },
   ])
   const promptWithSubstitution = store.articleGenerationPrompt.replace(

@@ -34,7 +34,9 @@ function parseArticleFileName(fileName) {
 function fileListDiff(list1, list2) {
   const noFileExtentionList1 = list1.map((file) => file.split('.')[0])
   const noFileExtentionList2 = new Set(list2.map((file) => file.split('.')[0]))
-  return noFileExtentionList1.filter((file) => !noFileExtentionList2.has(file))
+  return noFileExtentionList1
+    .filter((file) => !noFileExtentionList2.has(file))
+    .map((file) => file + '.md')
 }
 
 const footerTemplate = `<p 

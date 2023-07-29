@@ -273,13 +273,62 @@
               "id": 10,
               "title": "Clash of the Titans: Battles of the Ancient World",
               "slug": "clash-of-the-titans-battles-of-the-ancient-world"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Riddle of the ancients: Unexplained mysteries of ancient times",
+              "slug": "riddle-of-the-ancients-unexplained-mysteries-of-ancient-times"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "Fame and infamy: The most legendary leaders of ancient worlds",
+              "slug": "fame-and-infamy-the-most-legendary-leaders-of-ancient-worlds"
             }
           ]
         },
         {
           "id": 2,
           "name": "Innovations from the past",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "Plumbing through the ages: From aqueducts to toilets",
+              "slug": "plumbing-through-the-ages-from-aqueducts-to-toilets"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "Building wonders: Great buildings people made long ago",
+              "slug": "building-wonders-great-architectural-achievements-of-the-past"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "Amazing Ancient Inventions You Use Every Day",
+              "slug": "amazing-ancient-inventions-you-use-every-day"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Mechanical Marvels: Ancient Greek and Roman Machines",
+              "slug": "mechanical-marvels-ancient-greek-and-roman-machines"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Seafaring through history: The evolution of ships and sailing",
+              "slug": "seafaring-through-history-the-evolution-of-ships-and-sailing"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "Mapping it out: The history of cartography and navigation",
+              "slug": "mapping-it-out-the-history-of-cartography-and-navigation"
+            }
+          ]
         },
         {
           "id": 3,

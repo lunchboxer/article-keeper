@@ -8,6 +8,14 @@ const articles = await readdir(articlesDirectory)
 // function wrapLines(text) {
 //  wordwrap.wrap(text, { width: 80 })
 // }
+function fixWrongLevelheadings(text) {
+  let newText = text.replaceAll('# Glossary', '## Glossary')
+  newText = newText.replaceAll('### Glossary', '## Glossary')
+  newText = newText.replaceAll('# Reading Comprehension Questions', '## Reading Comprehension Questions')
+  newText = newText.replaceAll('### Reading Comprehension Questions', '## Reading Comprehension Questions')
+  newText = newText.replaceAll('# Answer Key', '## Answer Key')
+  return newText.replaceAll('### Answer Key', '## Answer Key')
+}
 
 // replace a) with a.
 function dotsNotParentheses(text) {
@@ -70,6 +78,7 @@ for (const article of articles) {
   cleanText = dotsNotParentheses(cleanText)
   cleanText = lowercaseAnswerLabels(cleanText)
   cleanText = removeExtraBlankLinesBetweenAnswers(cleanText)
+  cleanText = fixWrongLevelheadings(cleanText)
   cleanText = cleanText
     .split('\n')
     .map((line) => replaceWhitespace(line))

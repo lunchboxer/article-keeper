@@ -278,5 +278,61 @@
     "id": 10,
     "title": "Clash of the Titans: Battles of the Ancient World",
     "versions": ["A", "B"]
+  },
+  "riddle-of-the-ancients-unexplained-mysteries-of-ancient-times": {
+    "unitNumber": 2,
+    "lineNumber": 1,
+    "id": 11,
+    "title": "Riddle of the ancients: Unexplained mysteries of ancient times",
+    "versions": ["A", "B"]
+  },
+  "fame-and-infamy-the-most-legendary-leaders-of-ancient-worlds": {
+    "unitNumber": 2,
+    "lineNumber": 1,
+    "id": 12,
+    "title": "Fame and infamy: The most legendary leaders of ancient worlds",
+    "versions": ["A", "B"]
+  },
+  "plumbing-through-the-ages-from-aqueducts-to-toilets": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 1,
+    "title": "Plumbing through the ages: From aqueducts to toilets",
+    "versions": ["A", "B"]
+  },
+  "building-wonders-great-architectural-achievements-of-the-past": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 2,
+    "title": "Building wonders: Great buildings people made long ago",
+    "versions": ["A", "B"]
+  },
+  "amazing-ancient-inventions-you-use-every-day": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 3,
+    "title": "Amazing Ancient Inventions You Use Every Day",
+    "versions": ["A", "B"]
+  },
+  "mechanical-marvels-ancient-greek-and-roman-machines": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 4,
+    "title": "Mechanical Marvels: Ancient Greek and Roman Machines",
+    "versions": ["A", "B"]
+  },
+  "seafaring-through-history-the-evolution-of-ships-and-sailing": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 5,
+    "title": "Seafaring through history: The evolution of ships and sailing",
+    "versions": ["A", "B"]
+  },
+  "mapping-it-out-the-history-of-cartography-and-navigation": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 6,
+    "title": "Mapping it out: The history of cartography and navigation",
+    "versions": ["A", "B"]
   }
 }
