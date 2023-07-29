@@ -383,5 +383,12 @@
     "id": 1,
     "title": "No place like home: Housing through the ages",
     "versions": ["A", "B"]
+  },
+  "dress-for-success-fashions-and-clothing-over-time": {
+    "unitNumber": 2,
+    "lineNumber": 3,
+    "id": 2,
+    "title": "Dress for success: Fashions and clothing over time",
+    "versions": ["A", "B"]
   }
 }

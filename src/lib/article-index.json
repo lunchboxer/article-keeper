@@ -375,6 +375,12 @@
               "id": 1,
               "title": "No place like home: Housing through the ages",
               "slug": "no-place-like-home-housing-through-the-ages"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "Dress for success: Fashions and clothing over time",
+              "slug": "dress-for-success-fashions-and-clothing-over-time"
             }
           ]
         }
