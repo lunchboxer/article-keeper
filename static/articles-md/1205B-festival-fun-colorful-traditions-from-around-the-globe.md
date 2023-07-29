@@ -76,7 +76,7 @@ Let's celebrate our diverse planet! Festivals teach us about cultures. Trying ne
    c. They are colorful.
    d. They have yummy food.
 
-### Answer Key
+## Answer Key
 
 1. B
 2. B

@@ -20,13 +20,13 @@ Get ready for Las Fallas, Spain's loudest party! "Las Fallas" means "the fires" 
 
 From parades to pranks, people sure know how to live it up! What wild ways would you celebrate? Use your imagination to come up with your own crazy celebration!
 
-### Glossary
+## Glossary
 
 - Cajun - a type of spicy, hearty cuisine from the French-speaking region of Louisiana
 - Lent - the 40 days before Easter, when Christians traditionally fast or give up luxuries
 - Lanterns - decorations made from paper or fabric around a light source
 
-### Reading Comprehension Questions
+## Reading Comprehension Questions
 
 1. What are two things people do at Mardi Gras parades?
 
@@ -70,7 +70,7 @@ From parades to pranks, people sure know how to live it up! What wild ways would
    c. Gowks
    d. Ninots
 
-### Answer Key
+## Answer Key
 
 1. b
 2. b  
