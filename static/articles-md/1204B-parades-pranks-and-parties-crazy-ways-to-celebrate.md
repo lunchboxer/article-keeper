@@ -75,7 +75,7 @@ From parades to pranks, people sure have nutty ways to celebrate! What wacky way
    b. They are smashed
    c. They are thrown in a river
    d. They are put in a museum
-   
+
 5. Which celebration has people floating lanterns on rivers?
 
    a. April Fools' Day
