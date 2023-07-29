@@ -2,7 +2,6 @@ import { readdir, readFile, writeFile } from 'node:fs/promises'
 // import wordwrap from 'wordwrapjs'
 
 const articlesDirectory = './static/articles-md/'
-
 const articles = await readdir(articlesDirectory)
 
 // function wrapLines(text) {
@@ -105,7 +104,7 @@ function lowercaseAnswersInAnswerKey(text) {
 
 // replace A. with a.
 function lowercaseAnswerLabels(string_) {
-  return string_.replaceAll(/^\s*[A-D]\./gm, function (match) {
+  return string_.replaceAll(/^\s*[A-D]\./gm, function(match) {
     return match.toLowerCase()
   })
 }
@@ -145,6 +144,5 @@ for (const article of articles) {
   cleanText = eliminateSpacesBetweenAnswerKeyItems(cleanText)
   cleanText = addLineBeforeAnswerKey(cleanText)
   cleanText = lowercaseAnswersInAnswerKey(cleanText)
-
   await writeFile(articlesDirectory + article, cleanText)
 }
