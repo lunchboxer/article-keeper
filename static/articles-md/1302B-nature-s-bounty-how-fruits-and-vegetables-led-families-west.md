@@ -29,11 +29,11 @@ So next time you eat a juicy apple or fresh tomato, think of the pioneers. They 
 1. What fruits and vegetables did most people eat in early America?
 
    a. oranges and lemons
-   b. potatoes, cabbage, and onions  
+   b. potatoes, cabbage, and onions
    c. wheat and corn
    d. peaches and squash
 
-2. Why did pioneers want to move west in the 1800s?  
+2. Why did pioneers want to move west in the 1800s?
 
    a. for adventure
    b. for gold
@@ -66,13 +66,13 @@ So next time you eat a juicy apple or fresh tomato, think of the pioneers. They 
    a. Fruits and vegetables gave pioneers the nutrition they needed.
    b. Stories of great fruit and veggie harvests attracted pioneers west.
    c. Pioneers sold extra produce to buy supplies.
-   d. Eating more produce helped pioneers adapt out west.  
+   d. Eating more produce helped pioneers adapt out west.
 
 ## Answer Key
 
-1. B
-2. C
-3. C  
-4. D
-5. C
-6. B
+1. b
+2. c
+3. c
+4. d
+5. c
+6. b

@@ -13,7 +13,7 @@ While moving to a new country can be daunting, immigrants are hopeful for the fu
 ## Glossary
 
 - **immigrants** - people who come to a country to live there
-- **persecution** - treating someone cruelly or unfairly, especially because of their race or political or religious beliefs  
+- **persecution** - treating someone cruelly or unfairly, especially because of their race or political or religious beliefs
 - **determination** - firmness of purpose; resoluteness
 - **huddled masses** - crowds of poor, tired people
 
@@ -21,43 +21,43 @@ While moving to a new country can be daunting, immigrants are hopeful for the fu
 
 1. What are some reasons people immigrate to the United States?
 
-   a. To find jobs  
-   b. To get away from violence  
-   c. To be with family members  
+   a. To find jobs
+   b. To get away from violence
+   c. To be with family members
    d. All of the above
 
 2. Why might immigrating to America be difficult?
 
-   a. Learning English  
-   b. Finding work  
-   c. Adjusting to a new culture  
+   a. Learning English
+   b. Finding work
+   c. Adjusting to a new culture
    d. All of the above
 
 3. How can immigrants enrich America?
 
-   a. With their skills  
-   b. With their ideas  
-   c. With their cultures  
+   a. With their skills
+   b. With their ideas
+   c. With their cultures
    d. All of the above
 
 4. What promise welcomes immigrants to America?
 
-   a. Give me your money  
-   b. Bring me your cultures  
-   c. Welcome your poor  
+   a. Give me your money
+   b. Bring me your cultures
+   c. Welcome your poor
    d. Let me breathe free
 
-5. What helps immigrants achieve their dreams in America?  
+5. What helps immigrants achieve their dreams in America?
 
-   a. Luck  
-   b. Hard work  
-   c. Money  
+   a. Luck
+   b. Hard work
+   c. Money
    d. Determination
 
 6. What does the Statue of Liberty represent?
 
-   a. Strength  
-   b. Freedom  
+   a. Strength
+   b. Freedom
    c. Friendship
    d. America
 

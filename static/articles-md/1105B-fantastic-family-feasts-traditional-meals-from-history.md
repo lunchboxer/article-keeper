@@ -22,7 +22,6 @@ As you can see, traditional family feasts reflect history. The foods use ingredi
 - delicacy: a fancy, expensive food that's a treat
 - staple: a basic, commonly eaten food that's a major part of the diet
 - liberate: to set free from control
-  Here are 6 reading comprehension questions with an answer key for the 3rd grade version of the article:
 
 ## Reading Comprehension Questions
 

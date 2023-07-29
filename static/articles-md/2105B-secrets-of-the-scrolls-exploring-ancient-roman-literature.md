@@ -84,9 +84,9 @@ For centuries, scholars have treasured the literary treasures of Rome. But many 
 
 ## Answer Key
 
-1. A
-2. B
-3. B
-4. A
-5. A
-6. D
+1. a
+2. b
+3. b
+4. a
+5. a
+6. d

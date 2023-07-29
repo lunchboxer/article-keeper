@@ -41,51 +41,51 @@ With practice, even you could learn to decipher hieroglyphic puzzles! Next time 
 
 1. What are hieroglyphics?
 
-   - A. A language spoken by ancient Egyptians
-   - B. A system of writing using pictures and symbols
-   - C. Ancient Egyptian scrolls and tablets
-   - D. A cryptic code used by archaeologists
+   a. A language spoken by ancient Egyptians
+   b. A system of writing using pictures and symbols
+   c. Ancient Egyptian scrolls and tablets
+   d. A cryptic code used by archaeologists
 
 2. What was significant about the Rosetta Stone?
 
-   - A. It listed Egyptian kings and queens
-   - B. It was the key to deciphering hieroglyphics
-   - C. It revealed secrets of Egyptian tombs
-   - D. It explained rules for writing hieroglyphs
+   a. It listed Egyptian kings and queens
+   b. It was the key to deciphering hieroglyphics
+   c. It revealed secrets of Egyptian tombs
+   d. It explained rules for writing hieroglyphs
 
 3. Which statement best describes ancient Egyptian hieroglyphs?
 
-   - A. They all represent individual letters
-   - B. They can be read in two different directions
-   - C. They are written from left to right
-   - D. Vowels are never omitted
+   a. They all represent individual letters
+   b. They can be read in two different directions
+   c. They are written from left to right
+   d. Vowels are never omitted
 
 4. Based on the article, an owl hieroglyph most likely represents ___.
 
-   - A. the letter O  
-   - B. the sound M
-   - C. the word "bird"
-   - D. the sun god Ra
+   a. the letter O
+   b. the sound M
+   c. the word "bird"
+   d. the sun god Ra
 
 5. Egyptologists could not decipher hieroglyphics until ___.
 
-   - A. Greek scholars translated the symbols
-   - B. the Rosetta Stone was discovered
-   - C. ancient Egyptian scrolls were found
-   - D. hieratic and Demotic scripts were invented
+   a. Greek scholars translated the symbols
+   b. the Rosetta Stone was discovered
+   c. ancient Egyptian scrolls were found
+   d. hieratic and Demotic scripts were invented
 
 6. Why were hieroglyphics important to ancient Egyptian culture?
 
-   - A. Hieroglyphs were used purely for decorative purposes.
-   - B. Hieroglyphs allowed Egyptians to communicate complex ideas.
-   - C. Hieroglyphs revealed the secrets of Egyptian magic and religion.
-   - D. Hieroglyphs were mainly used by Egyptian rulers and priests.
+   a. Hieroglyphs were used purely for decorative purposes.
+   b. Hieroglyphs allowed Egyptians to communicate complex ideas.
+   c. Hieroglyphs revealed the secrets of Egyptian magic and religion.
+   d. Hieroglyphs were mainly used by Egyptian rulers and priests.
 
 ## Answer Key
 
-1. B
-2. B
-3. B
-4. B
-5. B
-6. B
+1. b
+2. b
+3. b
+4. b
+5. b
+6. b

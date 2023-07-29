@@ -71,11 +71,11 @@ We can't totally stop disasters. But technology helps lower the risks. Paying at
    c. Earthquakes
    d. Floods
 
-## Answer Key  
+## Answer Key
 
 1. a
 2. d
-3. d  
+3. d
 4. a
 5. d
 6. c

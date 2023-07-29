@@ -24,7 +24,7 @@ So the next time you dress up for a holiday or celebration, think about the stor
 1. What did medieval witches use pointy hats for?
 
    a. To look spooky
-   b. To brew potions  
+   b. To brew potions
    c. To scare children
    d. To fly on brooms
 

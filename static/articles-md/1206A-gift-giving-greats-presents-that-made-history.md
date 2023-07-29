@@ -65,7 +65,7 @@ As you can see, gift-giving has been huge throughout history. From pets to jewel
 6. Which sentence from the article is an opinion, not a fact?
 
    a. She even had a painting done showing it off on her wrist.
-   b. Thanks to their gift, this life-saving medicine still helps millions each year!  
+   b. Thanks to their gift, this life-saving medicine still helps millions each year!
    c. Speaking of royalty, when Prince Albert married Queen Victoria in 1840 he gave her a snake bracelet as a wedding gift!
    d. What a hip hiss-toric gift!
 

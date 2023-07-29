@@ -70,9 +70,9 @@ From sailing treacherous seas to traversing the world's great frontiers, these c
 
 ## Answer Key
 
-1. A
-2. A
-3. A
-4. C
-5. C
-6. C
+1. a
+2. a
+3. a
+4. c
+5. c
+6. c

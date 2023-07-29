@@ -70,9 +70,9 @@ The Roman roads connected their huge empire. Our fun pretend trip shows us how t
 
 ## Answer Key
 
-1. C
-2. A
-3. C
-4. A
-5. B
-6. C
+1. c
+2. a
+3. c
+4. a
+5. b
+6. c

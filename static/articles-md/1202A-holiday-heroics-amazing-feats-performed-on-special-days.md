@@ -8,7 +8,7 @@ In the USA, the Fourth of July is a chance to celebrate freedom with fireworks. 
 
 Halloween is a spooky night for wearing costumes. In 2018, illusionist David Blaine dressed up as his own floating balloon replica for a crazy holiday stunt. Over Arizona, he climbed a long cable from a real helium balloon up to the pretend balloon costume. He spent over an hour "floating" thousands of feet above the ground pretending to be a balloon himself. His silly holiday heroics scared and amazed the people who saw him.
 
-The Jewish holiday of Hanukkah was the night Chris McDougall ran the longest official race ever in 2005. He ran for 24 hours straight, covering over 175 miles around a high school track. That's like running from Philadelphia to New York City without a single break! McDougall ran all night and day, proving holiday heroics come in all forms.  
+The Jewish holiday of Hanukkah was the night Chris McDougall ran the longest official race ever in 2005. He ran for 24 hours straight, covering over 175 miles around a high school track. That's like running from Philadelphia to New York City without a single break! McDougall ran all night and day, proving holiday heroics come in all forms.
 
 On the Christian holiday of Easter, a huge annual egg hunt takes place on the White House lawn. In 1999, brave athlete GiGi Fernandez decided to find all the eggs while rolling an egg across her racquet like a tennis ball—over 200 times without dropping it! She bounced, batted and rolled the egg perfectly in an awesome holiday feat.
 
@@ -18,7 +18,7 @@ Holidays are the perfect time for people to challenge themselves in fun new ways
 
 - **Daredevil** - a person who likes danger and takes risks
 - **Illusionist** - an entertainer who does magic tricks and illusions
-- **Feat** - an act that requires great skill and effort  
+- **Feat** - an act that requires great skill and effort
 - **Ambitious** - having a strong desire to achieve something
 - **Oxygen** - a gas that humans and other animals need to breathe
 
@@ -68,9 +68,9 @@ Holidays are the perfect time for people to challenge themselves in fun new ways
 
 ## Answer Key
 
-1. B
-2. A
-3. D
-4. B
-5. C
-6. B
+1. b
+2. a
+3. d
+4. b
+5. c
+6. b

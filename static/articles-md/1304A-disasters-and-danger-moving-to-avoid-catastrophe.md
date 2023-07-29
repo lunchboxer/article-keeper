@@ -6,7 +6,7 @@ Natural disasters can strike anywhere at any time. From hurricanes to tornadoes,
 
 Different parts of the world are prone to different natural disasters. In the southeastern United States, hurricanes are a major threat. The coasts of the Gulf of Mexico and the Atlantic Ocean get hit by strong tropical storms each year between June and November. Further inland, tornadoes rip through Tornado Alley states like Oklahoma, Kansas, and Texas when conditions are right.
 
-In California, earthquakes are always a danger as the state sits on the San Andreas Fault. When two pieces of the earth's crust slip past each other, it can trigger a quake. Flooding happens often in low-lying states like Florida and Louisiana. Heavy rains quickly overwhelm rivers and flood towns and cities.  
+In California, earthquakes are always a danger as the state sits on the San Andreas Fault. When two pieces of the earth's crust slip past each other, it can trigger a quake. Flooding happens often in low-lying states like Florida and Louisiana. Heavy rains quickly overwhelm rivers and flood towns and cities.
 
 Disasters don't just happen in the U.S. Typhoons, which are the same as hurricanes, frequently strike countries in Southeast Asia. Japan's position on the seismically active Pacific Ring of Fire makes it prone to earthquakes, tsunamis, and volcanic eruptions. No place is completely safe from the possibility of a natural catastrophe.
 
@@ -27,7 +27,7 @@ While we can never fully prevent natural disasters, modern technology helps redu
 - hurricane - a large, dangerous storm that forms over warm ocean water and brings high winds, heavy rain, flooding, and storm surges
 - tornado - a violently rotating column of air that extends down from a thunderstorm cloud and can cause great destruction
 - earthquake - the shaking of the earth's surface caused by sudden movement of rock beneath
-- tsunami - an enormous ocean wave usually caused by an undersea earthquake or volcanic eruption  
+- tsunami - an enormous ocean wave usually caused by an undersea earthquake or volcanic eruption
 - meteorologist - a scientist who studies and forecasts weather and climate
 
 ## Reading Comprehension Questions

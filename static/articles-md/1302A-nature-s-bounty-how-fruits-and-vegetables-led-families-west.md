@@ -28,7 +28,7 @@ So next time you crunch into a juicy apple or pluck a ripe tomato off the vine, 
 
 1. What kinds of fruits and vegetables did most Americans eat in the early 1800s?
 
-   a. oranges, lemons, tomatoes  
+   a. oranges, lemons, tomatoes
    b. potatoes, cabbage, onions
    c. wheat, corn, apples
    d. peaches, squash, sweet corn
@@ -57,7 +57,7 @@ So next time you crunch into a juicy apple or pluck a ripe tomato off the vine, 
 5. The passage states that pioneers achieved their dream of a prosperous new life. Which sentence from the passage best supports this statement?
 
    a. "Imported fruits like oranges and lemons were very expensive."
-   b. "They were hoping to start new lives and settle the western frontier."  
+   b. "They were hoping to start new lives and settle the western frontier."
    c. "With hard work, the settlers achieved their dream of a prosperous new life sustained by the fruits of their labor and nature's bounty."
    d. "So next time you crunch into a juicy apple or pluck a ripe tomato off the vine, think of the pioneers who traveled west for the chance to grow such flavorful fruits and vegetables."
 
@@ -70,9 +70,9 @@ So next time you crunch into a juicy apple or pluck a ripe tomato off the vine, 
 
 ## Answer Key
 
-1. B
-2. C
-3. C
-4. D
-5. C
-6. B
+1. b
+2. c
+3. c
+4. d
+5. c
+6. b

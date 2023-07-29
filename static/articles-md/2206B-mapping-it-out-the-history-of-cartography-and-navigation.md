@@ -70,9 +70,9 @@ Mapping continues to evolve. New systems like GIS let us collect and analyze geo
 
 ## Answer Key
 
-1. C
-2. A
-3. C
-4. B
-5. B
-6. C
+1. c
+2. a
+3. c
+4. b
+5. b
+6. c

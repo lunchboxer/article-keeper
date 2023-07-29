@@ -52,7 +52,7 @@ Though daily life was hard for ancient youth, it wasn’t all work and no play. 
 4. What pets did wealthy ancient Egyptian kids have?
 
    a. Dogs, cats
-   b.Fish, turtles
+   b. Fish, turtles
    c. Monkeys, gazelles
    d. Parrots, chickens
 

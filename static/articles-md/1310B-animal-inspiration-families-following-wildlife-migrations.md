@@ -8,7 +8,7 @@ Monarch butterflies are known for their incredible migration each year from Cana
 
 Humpback whales are giant sea mammals that migrate through the oceans for very long distances. Every winter, humpbacks in Alaska swim over 3,000 miles south to breeding grounds near Hawaii and Mexico. Then when spring starts, the humpbacks make the long swim back north to Alaska to eat in its cold, rich waters. One special group swims the farthest - around 5,000 miles from eastern Australia to feed near Antarctica before heading back north to breed! Along their migration route, humpbacks sing pretty whale songs and breach from the water. Breaching is when the whale jumps mostly out of the water before splashing down. It's an amazing sight!
 
-Caribou are medium-sized deer famous for their giant migrations across the tundra. The tundra is a big, flat, treeless Arctic land. Every spring and fall, hundreds of thousands of caribou migrate in herds across the Arctic regions of North America and Eurasia. The caribou spend summers eating plants and grasses in the north. But when winter comes, food becomes scarce. So the caribou trek south again to find more food. Some herds' migrations are around 3,000 miles total per year! Caribou migrate in huge numbers to stay safe from predators like wolves and bears. They also work together to clear paths through deep snow. Talk about an epic road trip!  
+Caribou are medium-sized deer famous for their giant migrations across the tundra. The tundra is a big, flat, treeless Arctic land. Every spring and fall, hundreds of thousands of caribou migrate in herds across the Arctic regions of North America and Eurasia. The caribou spend summers eating plants and grasses in the north. But when winter comes, food becomes scarce. So the caribou trek south again to find more food. Some herds' migrations are around 3,000 miles total per year! Caribou migrate in huge numbers to stay safe from predators like wolves and bears. They also work together to clear paths through deep snow. Talk about an epic road trip!
 
 As you can see, animal migrations are really cool! Animals travel across whole continents over land, sea, and air to find food, shelter, and breeding grounds. Their epic journeys connect ecosystems around the world. Migrating animals play an important role in nature, spreading seeds, moving nutrients, controlling insect populations, and becoming food for other creatures. We're so lucky to live on this amazing planet with such remarkable migrating animals!
 
@@ -25,9 +25,9 @@ As you can see, animal migrations are really cool! Animals travel across whole c
 
 1. What makes the wildebeest migration happen in Africa every year?
 
-   a. The wildebeests get bored  
+   a. The wildebeests get bored
    b. The wildebeests follow the zebras
-   c. The wildebeests follow the rains  
+   c. The wildebeests follow the rains
    d. The wildebeests migrate randomly
 
 2. About how far is the monarch butterfly's migration from Canada to Mexico?
@@ -40,7 +40,7 @@ As you can see, animal migrations are really cool! Animals travel across whole c
 3. Why do humpback whales migrate all the way from Alaska to Hawaii and Mexico every year?
 
    a. To find warmer water for having babies
-   b. To follow their food  
+   b. To follow their food
    c. To perform whale songs
    d. To live in the oceans year round
 
@@ -67,9 +67,9 @@ As you can see, animal migrations are really cool! Animals travel across whole c
 
 ## Answer Key
 
-1. C
-2. C
-3. A  
-4. A
-5. B
-6. C
+1. c
+2. c
+3. a
+4. a
+5. b
+6. c

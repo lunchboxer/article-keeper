@@ -48,7 +48,7 @@ So would your family ever move overseas? If so, where? The possibilities are end
    a. Packing and shipping belongings
    b. Making friends and overcoming language barriers
    c. Getting lost and not having a car
-   d. Finding housing and securing visas  
+   d. Finding housing and securing visas
 
 5. Based on the article, why might living abroad lead to personal growth?
 
@@ -67,7 +67,7 @@ So would your family ever move overseas? If so, where? The possibilities are end
 ## Answer Key
 
 1. b
-2. b  
+2. b
 3. c
 4. b
 5. b

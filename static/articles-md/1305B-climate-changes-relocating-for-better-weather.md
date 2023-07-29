@@ -15,9 +15,9 @@ So now you know why some people move to get away from yucky weather. Our climate
 ## Glossary
 
 - **relocate** - move to a new place
-- **climate** - the weather in an area over time  
+- **climate** - the weather in an area over time
 - **hurricane** - a big storm with high winds and rain
-- **adjust** - get used to a new situation  
+- **adjust** - get used to a new situation
 
 ## Reading Comprehension Questions
 
@@ -51,7 +51,7 @@ So now you know why some people move to get away from yucky weather. Our climate
 
 5. What is the main idea of the article?
 
-   a. Kids should learn geography  
+   a. Kids should learn geography
    b. Climate change is a problem
    c. Moving can be exciting
    d. Families move due to weather changes
@@ -60,14 +60,14 @@ So now you know why some people move to get away from yucky weather. Our climate
 
    a. To be near family
    b. To avoid big storms
-   c. To find cooler temperatures  
+   c. To find cooler temperatures
    d. To experience new seasons
 
 ## Answer Key
 
 1. c
 2. a
-3. c  
+3. c
 4. c
 5. d
 6. a

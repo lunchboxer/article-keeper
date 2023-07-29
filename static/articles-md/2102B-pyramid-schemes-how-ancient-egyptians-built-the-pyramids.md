@@ -8,7 +8,7 @@ First, Khufu hired a very smart architect. The architect designed the pyramid to
 
 Next, workers cut big blocks into smaller sizes at quarries. Quarries are places where stones are dug up. Teams used ropes and levers to move blocks. They put blocks on sleds pulled by oxen to the pyramid.
 
-At the pyramid, ramps helped drag blocks into place. Using ropes, levers and muscle, they pushed blocks up ramps. Carefully, each stone was put where it belonged. Soon the wide base was done. Then inward layers tapered up into a point. Smooth casing stones were put on the outside.  
+At the pyramid, ramps helped drag blocks into place. Using ropes, levers and muscle, they pushed blocks up ramps. Carefully, each stone was put where it belonged. Soon the wide base was done. Then inward layers tapered up into a point. Smooth casing stones were put on the outside.
 
 Inside were shafts, tunnels and rooms. These let workers get around while building. Later they held treasures and the mummy of the pharaoh. The burial room was deep inside where no one could get to it. Building the pyramid was very hard work! But after many years, it was finally done.
 
@@ -18,58 +18,58 @@ This huge tomb was built just for one pharaoh! Myths say aliens or magic helped 
 
 - architect: person who designs buildings
 - quarries: where rocks are dug up
-- pharaoh: king of ancient Egypt  
+- pharaoh: king of ancient Egypt
 - casing stones: smooth stones on outside
 
 ## Reading Comprehension Questions
 
 1. What were the pyramids made of?
 
-   - a. Wood  
-   - b. Brick
-   - c. Stone
-   - d. Steel
+   a. Wood
+   b. Brick
+   c. Stone
+   d. Steel
 
 2. About how many years did it take to build the Great Pyramid?
 
-   - a. 2
-   - b. 5
-   - c. 20
-   - d. 100
+   a. 2
+   b. 5
+   c. 20
+   d. 100
 
 3. How did they move heavy blocks to the pyramid site?
 
-   - a. Wheels
-   - b. Sleds
-   - c. Helicopters
-   - d. Space ships
+   a. Wheels
+   b. Sleds
+   c. Helicopters
+   d. Space ships
 
 4. Where was the pharaoh's burial room?
 
-   - a. At the bottom
-   - b. In the middle
-   - c. Near the top
-   - d. Deep inside
+   a. At the bottom
+   b. In the middle
+   c. Near the top
+   d. Deep inside
 
 5. Why did they build tunnels and rooms inside?
 
-   - a. For light
-   - b. For air
-   - c. For workers
-   - d. To confuse robbers
+   a. For light
+   b. For air
+   c. For workers
+   d. To confuse robbers
 
 6. What allowed Egyptians to build pyramids?
 
-   - a. Aliens  
-   - b. Machines
-   - c. Hard work
-   - d. Magic
+   a. Aliens
+   b. Machines
+   c. Hard work
+   d. Magic
 
 ## Answer Key
 
 1. c
 2. c
-3. b  
+3. b
 4. d
 5. c
 6. c

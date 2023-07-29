@@ -4,7 +4,7 @@ Hey kids! When there's a holiday or special event, people wear certain clothes a
 
 On Halloween, witches wear tall black pointy hats. A long time ago, wise women called witches used pointy hats to help them mix potions to make sick people feel better. Later, when people got scared of witchcraft, the pointy hat became a spooky symbol. Now witches wear pointy black hats as part of their Halloween costume.
 
-Brides wear pretty white wedding dresses. In the old days, rich brides would wear fancy blue or pink dresses. But in 1840, Queen Victoria made white dresses popular. She wore a beautiful white gown on her wedding day. White meant purity and innocence. Since then, white wedding gowns have been worn by brides around the world. They show the joy of getting married.  
+Brides wear pretty white wedding dresses. In the old days, rich brides would wear fancy blue or pink dresses. But in 1840, Queen Victoria made white dresses popular. She wore a beautiful white gown on her wedding day. White meant purity and innocence. Since then, white wedding gowns have been worn by brides around the world. They show the joy of getting married.
 
 People wear green on St. Patrick's Day. St. Patrick is the saint that protects Ireland. The color green is the color of Ireland. There is a story that St. Patrick used three-leaf clover plants to teach about God. The green shamrocks became a symbol of St. Patrick's Day everywhere. Many people wear green on March 17 to celebrate Irish culture. Green is the official color of the country of Ireland.
 
@@ -15,7 +15,7 @@ So the next holiday you get dressed up, think about what your outfit means! Clot
 ## Glossary
 
 - **potions**: special mixtures made by witches
-- **symbol**: a picture or thing that stands for something else  
+- **symbol**: a picture or thing that stands for something else
 - **legend**: an old story from the past that may be true
 - **purity**: being morally clean and innocent
 
@@ -67,7 +67,7 @@ So the next holiday you get dressed up, think about what your outfit means! Clot
 
 1. b
 2. d
-3. b  
+3. b
 4. b
 5. b
 6. a

@@ -8,15 +8,59 @@ const articles = await readdir(articlesDirectory)
 // function wrapLines(text) {
 //  wordwrap.wrap(text, { width: 80 })
 // }
-function fixWrongLevelheadings(text) {
+//
+function addLineBeforeAnswerKey(text) {
+  const lines = text.split('\n')
+  const AnswerKeyHeadingIndex = lines.findIndex((line) =>
+    line.startsWith('## Answer Key'),
+  )
+  // is it preceded by a blank line?
+  if (lines[AnswerKeyHeadingIndex - 1]?.trim()) {
+    lines.splice(AnswerKeyHeadingIndex, 0, '')
+  }
+  return lines.join('\n')
+}
+
+function eliminateSpacesBetweenAnswerKeyItems(text) {
+  const lines = text.split('\n').map((line) => line)
+  const AnswerKeyHeadingIndex = lines.findIndex((line) =>
+    line.startsWith('## Answer Key'),
+  )
+  const cleanedLines = lines.filter((line, index) => {
+    if (index > AnswerKeyHeadingIndex + 1 && !line) {
+      return false
+    }
+    return true
+  })
+  return cleanedLines.join('\n')
+}
+
+function fixWrongLevelHeadings(text) {
   let newText = text.replaceAll('# Glossary', '## Glossary')
   newText = newText.replaceAll('### Glossary', '## Glossary')
-  newText = newText.replaceAll('# Reading Comprehension Questions', '## Reading Comprehension Questions')
-  newText = newText.replaceAll('### Reading Comprehension Questions', '## Reading Comprehension Questions')
+  newText = newText.replaceAll(
+    '# Reading Comprehension Questions',
+    '## Reading Comprehension Questions',
+  )
+  newText = newText.replaceAll(
+    '### Reading Comprehension Questions',
+    '## Reading Comprehension Questions',
+  )
   newText = newText.replaceAll('# Answer Key', '## Answer Key')
   return newText.replaceAll('### Answer Key', '## Answer Key')
 }
 
+// replace '- A. dog' with 'A. dog'
+function noLIanswers(text) {
+  const lines = text.split('\n')
+  for (const line in lines) {
+    const answersRegex = /^\s*-\s[A-Da-d]\.|\)\s/
+    if (answersRegex.test(lines[line])) {
+      lines[line] = lines[line].replace('-', '')
+    }
+  }
+  return lines.join('\n')
+}
 // replace a) with a.
 function dotsNotParentheses(text) {
   const lines = text.split('\n')
@@ -38,11 +82,25 @@ function dotsNotParentheses(text) {
 
 // exactly three spaces before answers
 function replaceWhitespace(line) {
-  const answersRegex = /^\s*[a-d]\.\s/
+  const answersRegex = /^\s*[A-Da-d]\.\s/
   if (answersRegex.test(line)) {
     return line.replace(/^\s*/, '   ')
   }
   return line
+}
+
+function lowercaseAnswersInAnswerKey(text) {
+  const lines = text.split('\n')
+  const AnswerKeyHeadingIndex = lines.findIndex((line) =>
+    line.startsWith('## Answer Key'),
+  )
+  const cleanedLines = lines.map((line, index) => {
+    if (index > AnswerKeyHeadingIndex + 1 && line) {
+      return line.toLowerCase()
+    }
+    return line
+  })
+  return cleanedLines.join('\n')
 }
 
 // replace A. with a.
@@ -76,13 +134,17 @@ for (const article of articles) {
   // consider just skipping answers when running it
   // cleanText = wordwrap.wrap(cleanText, { width: 80 })
   cleanText = dotsNotParentheses(cleanText)
+  cleanText = noLIanswers(cleanText)
   cleanText = lowercaseAnswerLabels(cleanText)
   cleanText = removeExtraBlankLinesBetweenAnswers(cleanText)
-  cleanText = fixWrongLevelheadings(cleanText)
+  cleanText = fixWrongLevelHeadings(cleanText)
   cleanText = cleanText
     .split('\n')
     .map((line) => replaceWhitespace(line))
     .join('\n')
+  cleanText = eliminateSpacesBetweenAnswerKeyItems(cleanText)
+  cleanText = addLineBeforeAnswerKey(cleanText)
+  cleanText = lowercaseAnswersInAnswerKey(cleanText)
 
   await writeFile(articlesDirectory + article, cleanText)
 }

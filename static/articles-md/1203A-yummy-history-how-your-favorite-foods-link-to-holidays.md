@@ -23,7 +23,7 @@ Which holiday foods do you look forward to the most each year? Understanding the
 ## Glossary
 
 - Crucifixion: An ancient punishment where a person was nailed to a cross and left to die
-- Medieval: Related to the Middle Ages between 500-1500 AD  
+- Medieval: Related to the Middle Ages between 500-1500 AD
 - Legend: An old story passed down over generations that may be based on truth
 - Prosperity: Having lots of money and success
 
@@ -73,9 +73,9 @@ Which holiday foods do you look forward to the most each year? Understanding the
 
 ## Answer Key
 
-1. B
-2. A
-3. C
-4. C
-5. C
-6. C
+1. b
+2. a
+3. c
+4. c
+5. c
+6. c

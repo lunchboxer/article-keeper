@@ -65,7 +65,7 @@ These fortune hunters let their sense of adventure drive them to faraway places.
 ## Answer Key
 
 1. b
-2. a  
+2. a
 3. a
 4. b
 5. b

@@ -327,13 +327,56 @@
               "id": 6,
               "title": "Mapping it out: The history of cartography and navigation",
               "slug": "mapping-it-out-the-history-of-cartography-and-navigation"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "Money matters: The origins of currency and money",
+              "slug": "money-matters-the-origins-of-currency-and-money"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "Amazing Ancient Roads, Bridges and Tunnels",
+              "slug": "amazing-ancient-roads-bridges-and-tunnels"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "The rise of writing: From cave paintings to printed books",
+              "slug": "the-rise-of-writing-from-cave-paintings-to-printed-books"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "Time travel: The history and science of clocks and calendars",
+              "slug": "time-travel-the-history-and-science-of-clocks-and-calendars"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Fabulous fabrics: The development of ancient textiles",
+              "slug": "fabulous-fabrics-the-development-of-ancient-textiles"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "Pure poetry: The history of writing and literature",
+              "slug": "pure-poetry-the-history-of-writing-and-literature"
             }
           ]
         },
         {
           "id": 3,
           "name": "Society and life in ancient and modern times",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "No place like home: Housing through the ages",
+              "slug": "no-place-like-home-housing-through-the-ages"
+            }
+          ]
         }
       ]
     },

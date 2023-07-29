@@ -24,50 +24,50 @@ After decades of backbreaking labor under the hot Egyptian sun, the last block w
 
 1. What material were the pyramids made from?
 
-   - a. Wood
-   - b. Brick
-   - c. Stone
-   - d. Concrete
+   a. Wood
+   b. Brick
+   c. Stone
+   d. Concrete
 
-2. About how long did it take to build the Great Pyramid?  
+2. About how long did it take to build the Great Pyramid?
 
-   - a. 2 years
-   - b. 10 years
-   - c. 20 years
-   - d. 100 years
+   a. 2 years
+   b. 10 years
+   c. 20 years
+   d. 100 years
 
 3. What was one method used to move heavy stones during pyramid construction?
 
-   - a. Cranes
-   - b. Wheels
-   - c. Rolling on logs
-   - d. Sleds
+   a. Cranes
+   b. Wheels
+   c. Rolling on logs
+   d. Sleds
 
 4. Where was the pharaoh's burial chamber located?
 
-   - a. At the base
-   - b. In the middle
-   - c. Near the top
-   - d. Deep inside
+   a. At the base
+   b. In the middle
+   c. Near the top
+   d. Deep inside
 
 5. Why did workers build shafts, tunnels and chambers inside the pyramids?
 
-   - a. For light
-   - b. For ventilation
-   - c. For construction access
-   - d. To confuse tomb raiders
+   a. For light
+   b. For ventilation
+   c. For construction access
+   d. To confuse tomb raiders
 
 6. What allowed ancient Egyptians to successfully build the pyramids?
 
-   - a. Help from aliens
-   - b. Advanced technology
-   - c. Determination and hard work
-   - d. Magic spells
+   a. Help from aliens
+   b. Advanced technology
+   c. Determination and hard work
+   d. Magic spells
 
 ## Answer Key
 
 1. c
-2. c  
+2. c
 3. d
 4. d
 5. c

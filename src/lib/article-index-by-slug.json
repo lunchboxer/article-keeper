@@ -334,5 +334,54 @@
     "id": 6,
     "title": "Mapping it out: The history of cartography and navigation",
     "versions": ["A", "B"]
+  },
+  "money-matters-the-origins-of-currency-and-money": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 7,
+    "title": "Money matters: The origins of currency and money",
+    "versions": ["A", "B"]
+  },
+  "amazing-ancient-roads-bridges-and-tunnels": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 8,
+    "title": "Amazing Ancient Roads, Bridges and Tunnels",
+    "versions": ["A", "B"]
+  },
+  "the-rise-of-writing-from-cave-paintings-to-printed-books": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 9,
+    "title": "The rise of writing: From cave paintings to printed books",
+    "versions": ["A", "B"]
+  },
+  "time-travel-the-history-and-science-of-clocks-and-calendars": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 10,
+    "title": "Time travel: The history and science of clocks and calendars",
+    "versions": ["A", "B"]
+  },
+  "fabulous-fabrics-the-development-of-ancient-textiles": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 11,
+    "title": "Fabulous fabrics: The development of ancient textiles",
+    "versions": ["A", "B"]
+  },
+  "pure-poetry-the-history-of-writing-and-literature": {
+    "unitNumber": 2,
+    "lineNumber": 2,
+    "id": 12,
+    "title": "Pure poetry: The history of writing and literature",
+    "versions": ["A", "B"]
+  },
+  "no-place-like-home-housing-through-the-ages": {
+    "unitNumber": 2,
+    "lineNumber": 3,
+    "id": 1,
+    "title": "No place like home: Housing through the ages",
+    "versions": ["A", "B"]
   }
 }

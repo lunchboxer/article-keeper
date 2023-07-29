@@ -10,7 +10,7 @@ During the Age of Exploration starting in the 1400s, European sailors used compa
 
 Mapmaking improved a lot during the Renaissance. New tools like the telescope, quadrant and mechanical clock helped explorers determine their latitude and longitude at sea. Maps became more detailed and realistic.
 
-Today, cartography (mapmaking) uses cutting-edge technology. Satellite imagery, aerial photography, computers and software allow modern mapmakers to create accurate 3D maps that show landscape, buildings, roads and more. Apps like Google Maps use global positioning systems (GPS) to track a phone or car's location anywhere on Earth.
+Today, cartography (mapmaking) uses cuttingedge technology. Satellite imagery, aerial photography, computers and software allow modern mapmakers to create accurate 3D maps that show landscape, buildings, roads and more. Apps like Google Maps use global positioning systems (GPS) to track a phone or car's location anywhere on Earth.
 
 Mapping our world continues to evolve. New techniques like GIS (geographic information systems) allow us to collect, store and analyze all kinds of geographic data. Scientists are even mapping outer space! The future of navigation promises to be out of this world.
 
@@ -68,9 +68,9 @@ Mapping our world continues to evolve. New techniques like GIS (geographic infor
 
 ## Answer Key
 
-1. B
-2. A
-3. B
-4. A
-5. B
-6. B
+1. b
+2. a
+3. b
+4. a
+5. b
+6. b

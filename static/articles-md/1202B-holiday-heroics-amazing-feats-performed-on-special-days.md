@@ -10,7 +10,7 @@ Halloween is a spooky night for costumes. In 2018, magician David Blaine dressed
 
 Hanukkah is a Jewish holiday with candles and songs. In 2005, Chris McDougall ran the longest race ever on Hanukkah! He ran for 24 hours around a school track. That's like running from Philly to New York City without any breaks! McDougall ran all night and day, showing holiday feats come in many forms.
 
-On Easter, a big egg hunt happens on the White House lawn. In 1999, athlete GiGi Fernandez found all the eggs in a fun way. She bounced a tennis ball on a racket with an egg on top over 200 times without dropping it! She batted the egg perfectly in an awesome holiday trick.  
+On Easter, a big egg hunt happens on the White House lawn. In 1999, athlete GiGi Fernandez found all the eggs in a fun way. She bounced a tennis ball on a racket with an egg on top over 200 times without dropping it! She batted the egg perfectly in an awesome holiday trick.
 
 Holidays are perfect for trying new things! What amazing holiday feats can you think up? Holidays are a good excuse to go after big goals and dreams. With creativity and effort, you could end up in the record books too!
 
@@ -67,9 +67,9 @@ Holidays are perfect for trying new things! What amazing holiday feats can you t
 
 ## Answer Key
 
-1. B
-2. A
-3. D
-4. B
-5. C  
-6. B
+1. b
+2. a
+3. d
+4. b
+5. c
+6. b

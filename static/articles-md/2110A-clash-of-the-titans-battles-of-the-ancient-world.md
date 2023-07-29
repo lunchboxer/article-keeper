@@ -66,9 +66,9 @@ While weapons and battle tactics have certainly changed over the millennia, thes
 
 ## Answer Key
 
-1. A
-2. A
-3. C
-4. A
-5. D
-6. D
+1. a
+2. a
+3. c
+4. a
+5. d
+6. d

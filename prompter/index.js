@@ -93,8 +93,8 @@ function showTextBlock(text) {
 function showHeadline(string) {
   console.log(
     '\n' +
-    chalk.underline.magentaBright('   ' + string + '   ') +
-    chalk.reset('\n'),
+      chalk.underline.magentaBright('   ' + string + '   ') +
+      chalk.reset('\n'),
   )
 }
 
@@ -103,7 +103,8 @@ function statusCheck() {
   const unitsWithWrongNumberOfLines = []
   linesWithWrongNumberOfArticles = []
   console.log(
-    `${articleIndex.unitsOfInquiry.length === numberOfUnits ? '✅' : '❌'
+    `${
+      articleIndex.unitsOfInquiry.length === numberOfUnits ? '✅' : '❌'
     } ${numberOfUnits} units in index`,
   )
   // check each unit for number of lines
@@ -123,7 +124,8 @@ function statusCheck() {
     }
   }
   console.log(
-    `${unitsWithWrongNumberOfLines.length > 0 ? '❌' : '✅'
+    `${
+      unitsWithWrongNumberOfLines.length > 0 ? '❌' : '✅'
     } ${linesPerUnit} lines in all units.`,
   )
   if (unitsWithWrongNumberOfLines.length > 0) {
@@ -132,7 +134,8 @@ function statusCheck() {
     )
   }
   console.log(
-    `${linesWithWrongNumberOfArticles.length > 0 ? '❌' : '✅'
+    `${
+      linesWithWrongNumberOfArticles.length > 0 ? '❌' : '✅'
     } ${articlesPerLine} articles in each line.`,
   )
   console.log(
@@ -140,11 +143,13 @@ function statusCheck() {
   )
   console.log(`${store.articleTopics ? '✅' : '❌'} Article topics stored.`)
   console.log(
-    `${store.articleGenerationPrompt ? '✅' : '❌'
+    `${
+      store.articleGenerationPrompt ? '✅' : '❌'
     } Article generation prompt stored.`,
   )
   console.log(
-    `${store.articleGenerationPromptB ? '✅' : '❌'
+    `${
+      store.articleGenerationPromptB ? '✅' : '❌'
     } Alternate level article generation prompt stored.`,
   )
 }
@@ -336,7 +341,7 @@ async function generateAnArticle() {
     ),
   )
   const defaultLine = linesWithWrongNumberOfArticles
-    .filter(line => line.slice(0, 1) === unit)[0]
+    .find((line) => line.slice(0, 1) === unit)
     ?.slice(2, 3)
 
   const answersLine = await inquirer.prompt([
@@ -367,7 +372,7 @@ async function generateAnArticle() {
           value: '3',
         },
       ],
-      default: defaultLine
+      default: defaultLine,
     },
   ])
 
@@ -376,7 +381,7 @@ async function generateAnArticle() {
   })
   const nextNumber =
     Number.parseInt(answersLine.line) ===
-      Number.parseInt(lastArticle.lineNumber)
+    Number.parseInt(lastArticle.lineNumber)
       ? Number.parseInt(lastArticle.id) + 1
       : '1'
   const nextTitle = choices[nextNumber - 1]

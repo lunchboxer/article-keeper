@@ -65,9 +65,9 @@ Times have changed, but these ancient battles still fill us with awe! Just imagi
 
 ## Answer Key
 
-1. C
-2. D
-3. C
-4. A
-5. C
-6. C
+1. c
+2. d
+3. c
+4. a
+5. c
+6. c

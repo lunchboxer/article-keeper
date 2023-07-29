@@ -78,9 +78,9 @@ Let's celebrate our planet's diversity! Festivals help us honor history and shar
 
 ## Answer Key
 
-1. B
-2. B
-3. D
-4. B
-5. C
-6. B
+1. b
+2. b
+3. d
+4. b
+5. c
+6. b

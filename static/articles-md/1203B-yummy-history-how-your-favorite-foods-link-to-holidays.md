@@ -10,13 +10,13 @@ Thanksgiving just isn't the same without a big roasted turkey! Eating turkey goe
 
 Candy canes are a yummy treat many kids hope to find in their stockings on Christmas day. But did you know candy canes may have religious beginnings? Some stories say a choir teacher in Germany made sugar sticks shaped like shepherds' canes to keep kids in his choir quiet during long church services. Others believe the shape is a "J" for Jesus. The red stripes were thought to be like Christ's blood.
 
-## Hot Cross Buns on Good Friday  
+## Hot Cross Buns on Good Friday
 
 Have you tried these sweet, spiced buns with icing crosses? They are traditionally eaten on Good Friday, the Friday before Easter Sunday. Hot cross buns go back to medieval times in England. Monks baked and shared them with the poor on Good Friday. The cross on top was for the crucifixion of Jesus Christ. Queen Elizabeth I later banned hot cross buns except at Easter time.
 
 ## Mooncakes on Chinese Mid-Autumn Festival
 
-The Mid-Autumn Festival is a big holiday in China that celebrates the fall harvest. Round mooncakes with sweet or savory fillings are traditionally eaten while spending time with family under the bright harvest moon. Mooncakes show family togetherness. The rich eggs and oil were thought to bring success for the next year. Sharing mooncakes under the full moon brings good luck according to legend.  
+The Mid-Autumn Festival is a big holiday in China that celebrates the fall harvest. Round mooncakes with sweet or savory fillings are traditionally eaten while spending time with family under the bright harvest moon. Mooncakes show family togetherness. The rich eggs and oil were thought to bring success for the next year. Sharing mooncakes under the full moon brings good luck according to legend.
 
 Which holiday foods do you look forward to the most each year? Knowing the history behind foods we love makes eating them even more exciting!
 
@@ -24,7 +24,7 @@ Which holiday foods do you look forward to the most each year? Knowing the histo
 
 - Crucifixion: An old punishment where a person was nailed to a cross to die
 - Medieval: Related to the Middle Ages between 500-1500 AD
-- Legend: An old story passed down over generations that may be true  
+- Legend: An old story passed down over generations that may be true
 - Success: Doing well, having good luck
 
 ## Reading Comprehension Questions
@@ -41,14 +41,14 @@ Which holiday foods do you look forward to the most each year? Knowing the histo
    a. To keep kids quiet in church
    b. To celebrate the winter harvest
    c. To show Jesus's family
-   d. To look like holiday candles  
+   d. To look like holiday candles
 
 3. When were hot cross buns commonly eaten in England?
 
    a. Christmas morning
    b. Chinese New Year
    c. Good Friday
-   d. Halloween  
+   d. Halloween
 
 4. What does the round shape of mooncakes show?
 
@@ -62,20 +62,20 @@ Which holiday foods do you look forward to the most each year? Knowing the histo
    a. Because they taste good
    b. To know history
    c. To show important symbols
-   d. To celebrate with family  
+   d. To celebrate with family
 
 6. Based on the passage, which statement is true?
 
    a. Candy canes were created to decorate trees.
    b. The first Thanksgiving was in Germany.
    c. Mooncakes have eggs and oil inside.
-   d. Hot cross buns were eaten every Sunday in medieval England.  
+   d. Hot cross buns were eaten every Sunday in medieval England.
 
 ## Answer Key
 
-1. B
-2. A
-3. C
-4. C
-5. C
-6. C
+1. b
+2. a
+3. c
+4. c
+5. c
+6. c

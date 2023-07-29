@@ -45,7 +45,7 @@ As you can see, giving gifts has been a big deal throughout history. From pets t
 3. How did the gift to develop penicillin change things?
 
    a. It helped heal people faster.
-   b. It made scientists famous.  
+   b. It made scientists famous.
    c. It showed science is important.
    d. It proved medicine could be discovered.
 
@@ -60,7 +60,7 @@ As you can see, giving gifts has been a big deal throughout history. From pets t
 
    a. Presents show love and care.
    b. Royal people got weird gifts.
-   c. Fancy gifts like pets and jewels are fun.  
+   c. Fancy gifts like pets and jewels are fun.
    d. Abraham Lincoln's speech was an important gift.
 
 6. Which sentence from the article is an opinion?

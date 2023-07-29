@@ -41,51 +41,51 @@ With practice, you could decode hieroglyphic messages too! What secrets might th
 
 1. What are hieroglyphics?
 
-   - A. A language spoken in Egypt
-   - B. A way of writing using pictures
-   - C. Ancient Egyptian scrolls
-   - D. A code used by archeologists
+   a. A language spoken in Egypt
+   b. A way of writing using pictures
+   c. Ancient Egyptian scrolls
+   d. A code used by archeologists
 
 2. Why was the Rosetta Stone important?
 
-   - A. It showed Egyptian rulers
-   - B. It helped translate hieroglyphics
-   - C. It revealed tomb secrets
-   - D. It explained hieroglyph rules
+   a. It showed Egyptian rulers
+   b. It helped translate hieroglyphics
+   c. It revealed tomb secrets
+   d. It explained hieroglyph rules
 
 3. Which statement is true about hieroglyphs?
 
-   - A. They all stand for letters
-   - B. They can go two directions
-   - C. They only go left to right
-   - D. Vowels are never left out
+   a. They all stand for letters
+   b. They can go two directions
+   c. They only go left to right
+   d. Vowels are never left out
 
 4. An owl hieroglyph likely means ___.
 
-   - A. the letter O
-   - B. the sound M  
-   - C. the word "bird"
-   - D. the sun god Ra
+   a. the letter O
+   b. the sound M
+   c. the word "bird"
+   d. the sun god Ra
 
 5. Scholars learned to read hieroglyphics after ___.
 
-   - A. Greek scholars translated them
-   - B. finding the Rosetta Stone
-   - C. discovering Egyptian scrolls
-   - D. inventing other scripts
+   a. Greek scholars translated them
+   b. finding the Rosetta Stone
+   c. discovering Egyptian scrolls
+   d. inventing other scripts
 
 6. Why were hieroglyphics important to ancient Egyptians?
 
-   - A. For decorating temples
-   - B. For communicating ideas
-   - C. For keeping religion secrets
-   - D. Only for rulers and priests
+   a. For decorating temples
+   b. For communicating ideas
+   c. For keeping religion secrets
+   d. Only for rulers and priests
 
 ## Answer Key
 
-1. B
-2. B
-3. B  
-4. B
-5. B
-6. B
+1. b
+2. b
+3. b
+4. b
+5. b
+6. b

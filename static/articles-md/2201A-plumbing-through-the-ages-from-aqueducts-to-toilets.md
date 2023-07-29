@@ -69,9 +69,9 @@ Pretty cool how plumbing has evolved over time, huh? From mountain aqueducts mov
 
 ## Answer Key
 
-1. C
-2. A
-3. B
-4. D
-5. C
-6. C
+1. c
+2. a
+3. b
+4. d
+5. c
+6. c

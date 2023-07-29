@@ -66,9 +66,9 @@ Architects and engineers continue to push the boundaries of design and construct
 
 ## Answer Key
 
-1. C
-2. B
-3. C
-4. A
-5. A
-6. A
+1. c
+2. b
+3. c
+4. a
+5. a
+6. a

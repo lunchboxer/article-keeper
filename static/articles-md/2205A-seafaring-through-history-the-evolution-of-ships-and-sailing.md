@@ -71,9 +71,9 @@ Over thousands of years, ships have gone from small reed rafts to enormous cruis
 
 ## Answer Key
 
-1. B
-2. D
-3. B
-4. D
-5. D
-6. D
+1. b
+2. d
+3. b
+4. d
+5. d
+6. d

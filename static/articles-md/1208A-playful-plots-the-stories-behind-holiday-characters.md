@@ -21,7 +21,7 @@ The next time you spot these characters, remember the fascinating stories behind
 ## Glossary
 
 - **Psychedelic** - producing hallucinations and an altered state of consciousness
-- **Fertility** - the ability to produce offspring or abundance  
+- **Fertility** - the ability to produce offspring or abundance
 - **Immigrants** - people who come to a country to live there
 - **Hallow's Eve** - Halloween
 
@@ -72,7 +72,7 @@ The next time you spot these characters, remember the fascinating stories behind
 ## Answer Key
 
 1. b
-2. a  
+2. a
 3. b
 4. c
 5. c

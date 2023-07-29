@@ -25,7 +25,7 @@ As you can see, animal migrations are pretty amazing! Animals traverse entire co
 
 1. What causes the wildebeest migration in Africa every year?
 
-   a. The wildebeests get tired of the scenery  
+   a. The wildebeests get tired of the scenery
    b. The wildebeests follow the zebras
    c. The wildebeests follow the seasonal rains
    d. The wildebeests migrate randomly
@@ -48,7 +48,7 @@ As you can see, animal migrations are pretty amazing! Animals traverse entire co
 
    a. It helps avoid predators
    b. It makes the journey shorter
-   c. It lets them share body heat  
+   c. It lets them share body heat
    d. It clears paths through the snow
 
 5. Which animal migration involves the most individual animals?
@@ -67,9 +67,9 @@ As you can see, animal migrations are pretty amazing! Animals traverse entire co
 
 ## Answer Key
 
-1. C
-2. C  
-3. A
-4. A
-5. B
-6. C
+1. c
+2. c
+3. a
+4. a
+5. b
+6. c

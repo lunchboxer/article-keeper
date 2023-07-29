@@ -73,9 +73,9 @@ So take a minute to look at ancient Greek pots if you go to a museum. Each one g
 
 ## Answer Key
 
-1. C
-2. C
-3. A, C
-4. B, D
-5. C
-6. A
+1. c
+2. c
+3. a, c
+4. b, d
+5. c
+6. a

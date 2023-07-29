@@ -66,9 +66,9 @@ Visiting the ruins and artifacts of ancient Greece is an awesome way to connect 
 
 ## Answer Key
 
-1. D
-2. B
-3. C  
-4. D
-5. C
-6. B
+1. d
+2. b
+3. c
+4. d
+5. c
+6. b

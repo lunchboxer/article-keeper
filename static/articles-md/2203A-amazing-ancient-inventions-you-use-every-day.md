@@ -4,7 +4,7 @@ Get ready to travel way back in time! Believe it or not, people thousands of yea
 
 ## The Wheel
 
-Wheels first started rolling around Mesopotamia (near modern-day Iraq) around 3500 BC. Before the wheel, people had to drag and carry everything. Can you imagine lugging heavy jugs of water or large sacks of grain without anything to roll them on? Wheels made hauling heavy loads so much easier. Now we use wheels for cars, skateboards, wheelbarrows, and all kinds of other vehicles and gadgets. Life would be a lot tougher without wheels!
+Wheels first started rolling around Mesopotamia (near modernday Iraq) around 3500 BC. Before the wheel, people had to drag and carry everything. Can you imagine lugging heavy jugs of water or large sacks of grain without anything to roll them on? Wheels made hauling heavy loads so much easier. Now we use wheels for cars, skateboards, wheelbarrows, and all kinds of other vehicles and gadgets. Life would be a lot tougher without wheels!
 
 ## Paper
 
@@ -78,9 +78,9 @@ Let's hear it for these clever ancient inventors! From simple tools like the whe
 
 ## Answer Key
 
-1. A
-2. B
-3. A
-4. C
-5. A
-6. B
+1. a
+2. b
+3. a
+4. c
+5. a
+6. b

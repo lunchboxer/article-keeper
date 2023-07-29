@@ -82,9 +82,9 @@ Let’s cheer for these smart ancient inventors! From simple tools like the whee
 
 ## Answer Key
 
-1. A
-2. B
-3. A
-4. C
-5. A
-6. B
+1. a
+2. b
+3. a
+4. c
+5. a
+6. b

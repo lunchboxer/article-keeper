@@ -33,7 +33,7 @@ So next time you're planning a birthday bash or fun get together, think about in
    a. When there are other animals around
    b. When they get new toys
    c. When there's happy energy and playtime
-   d. When they wear funny hats  
+   d. When they wear funny hats
 
 3. What are two things cats like to do at parties?
 
@@ -60,7 +60,7 @@ So next time you're planning a birthday bash or fun get together, think about in
 
    a. How to train pets to help at parties
    b. Fun party games to play with pets
-   c. Different pets that like to participate in celebrations  
+   c. Different pets that like to participate in celebrations
    d. Making party foods and treats for pets
 
 ## Answer Key

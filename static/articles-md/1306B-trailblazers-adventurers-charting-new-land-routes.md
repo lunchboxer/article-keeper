@@ -25,7 +25,7 @@ From sailing seas to crossing mountains, these courageous trailblazers changed h
 
 1. What did Christopher Columbus want to find by sailing across the Atlantic?
 
-   a. A new way to trade with Asia  
+   a. A new way to trade with Asia
    b. Land in the Americas
    c. Treasure
    d. Adventures
@@ -67,9 +67,9 @@ From sailing seas to crossing mountains, these courageous trailblazers changed h
 
 ## Answer Key
 
-1. A
-2. A
-3. A
-4. A
-5. A
-6. B
+1. a
+2. a
+3. a
+4. a
+5. a
+6. b

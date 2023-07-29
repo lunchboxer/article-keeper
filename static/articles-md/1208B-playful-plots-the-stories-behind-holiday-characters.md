@@ -76,7 +76,7 @@ As you can see, many holiday characters have interesting stories behind them! Im
 
 1. a
 2. b
-3. b  
+3. b
 4. c
 5. b
 6. c

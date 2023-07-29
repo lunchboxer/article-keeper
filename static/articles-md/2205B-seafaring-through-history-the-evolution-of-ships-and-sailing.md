@@ -69,9 +69,9 @@ Over time, ships went from small reed rafts to massive cruise ships and cargo sh
 
 ## Answer Key
 
-1. B
-2. C
-3. B
-4. D
-5. D
-6. D
+1. b
+2. c
+3. b
+4. d
+5. d
+6. d
