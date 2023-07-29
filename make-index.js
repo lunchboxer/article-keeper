@@ -8,12 +8,8 @@ import sluggo from 'sluggo'
 // - third and fourth character = articleNumber (integer)
 // - fifth character = level (string)
 // - everything from sixth character to '.md' is the slug
-function removeBlankLines(string) {
-  const regex = /^[ \w.)]+\s/;
-  return string.replace(/\n\s*?\n/g, "\n", regex);
-}
 
-export async function parseArticleFileName(fileName) {
+async function parseArticleFileName(fileName) {
   const unitNumber = Number.parseInt(fileName.slice(0, 1))
   const lineNumber = Number.parseInt(fileName.slice(1, 2))
   const id = Number.parseInt(fileName.slice(2, 4))
@@ -79,7 +75,10 @@ for (const article of parsedFiles) {
 // write the index to a file
 const slugIndexFilePath = './src/lib/article-index-by-slug.json'
 console.log(`Writing index to ${slugIndexFilePath}`)
-await writeFile(slugIndexFilePath, JSON.stringify(articleIndexBySlug, undefined, 2))
+await writeFile(
+  slugIndexFilePath,
+  JSON.stringify(articleIndexBySlug, undefined, 2),
+)
 
 console.log('Get existing article index')
 // grab the article index

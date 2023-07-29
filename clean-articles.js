@@ -5,18 +5,18 @@ const articlesDirectory = './static/articles-md/'
 
 const articles = await readdir(articlesDirectory)
 
-function wrapLines(text) {
-  wordwrap.wrap(text, { width: 80 })
-}
+// function wrapLines(text) {
+//  wordwrap.wrap(text, { width: 80 })
+// }
 
 // replace a) with a.
 function dotsNotParentheses(text) {
   const lines = text.split('\n')
   for (const line in lines) {
-    const answersRegex = /^\s*[a-dA-D]\.|\)\s/;
+    const answersRegex = /^\s*[A-Da-d]\.|\)\s/
     if (answersRegex.test(lines[line])) {
-      const regex = /^(\s*[a-dA-D]\))|(\s*[a-dA-D]\.\s*)/
-      const replacement = (match, p1, p2) => {
+      const regex = /^(\s*[A-Da-d]\))|(\s*[A-Da-d]\.\s*)/
+      const replacement = (match, p1) => {
         if (p1) {
           return p1.replace(')', '.')
         }
@@ -26,39 +26,38 @@ function dotsNotParentheses(text) {
     }
   }
   return lines.join('\n')
-
 }
 
 // exactly three spaces before answers
-function replaceWhitespace(str) {
-  const answersRegex = /^\s*[a-d]\.\s/;
-  if (answersRegex.test(str)) {
-    return str.replace(/^\s*/, '   ');
+function replaceWhitespace(line) {
+  const answersRegex = /^\s*[a-d]\.\s/
+  if (answersRegex.test(line)) {
+    return line.replace(/^\s*/, '   ')
   }
-  return str
+  return line
 }
 
 // replace A. with a.
-function lowercaseAnswerLabels(str) {
-  return str.replace(/^\s*[A-D]\./gm, function(match) {
-    return match.toLowerCase();
-  });
+function lowercaseAnswerLabels(string_) {
+  return string_.replaceAll(/^\s*[A-D]\./gm, function (match) {
+    return match.toLowerCase()
+  })
 }
 
 function deleteBeforeFirstHeading(markdownText) {
-  const lines = markdownText.split('\n');
-  const firstHeadingIndex = lines.findIndex(line => line.startsWith('# '));
+  const lines = markdownText.split('\n')
+  const firstHeadingIndex = lines.findIndex((line) => line.startsWith('# '))
   if (firstHeadingIndex !== -1) {
-    return lines.slice(firstHeadingIndex).join('\n');
+    return lines.slice(firstHeadingIndex).join('\n')
   }
   // If no first-level heading is found, return the original text
-  return markdownText;
+  return markdownText
 }
 
 function removeExtraBlankLinesBetweenAnswers(text) {
-  const regexAnswerBlanks = /(?<=\n\s*[a-d]\.\s*.*$)(\n\s*\n)(?!\d)/gm;
-  const substAnswerBlanks = `\n`;
-  return text.replace(regexAnswerBlanks, substAnswerBlanks);
+  const regexAnswerBlanks = /(?<=\n\s*[a-d]\.\s*.*$)(\n\s*\n)(?!\d)/gm
+  const substAnswerBlanks = '\n'
+  return text.replaceAll(regexAnswerBlanks, substAnswerBlanks)
 }
 
 for (const article of articles) {
@@ -71,8 +70,10 @@ for (const article of articles) {
   cleanText = dotsNotParentheses(cleanText)
   cleanText = lowercaseAnswerLabels(cleanText)
   cleanText = removeExtraBlankLinesBetweenAnswers(cleanText)
-  cleanText = cleanText.split('\n').map(replaceWhitespace).join('\n');
+  cleanText = cleanText
+    .split('\n')
+    .map((line) => replaceWhitespace(line))
+    .join('\n')
 
   await writeFile(articlesDirectory + article, cleanText)
 }
-

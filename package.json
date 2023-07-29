@@ -5,9 +5,10 @@
   "scripts": {
     "dev": "vite dev",
     "index": "npm run lint:markdown && node ./make-index.js && prettier ./src/lib/article-index*.json --write",
-    "generate-pdfs": "node ./generate-pdfs.js",
+    "generate-pdfs:all": "node ./generate-pdfs.js",
+    "generate-pdfs:new": "node ./generate-some-pdfs.js",
     "prompter": "node ./prompter/index.js",
-    "build": "npm run index && npm run generate-pdfs && vite build",
+    "build": "npm run index && npm run generate-pdfs:new && vite build",
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
