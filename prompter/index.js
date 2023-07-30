@@ -427,39 +427,30 @@ async function generateAnArticle() {
   if (!answersDone.continue) {
     return
   }
-  const answerCopy = await inquirer.prompt([
-    {
-      type: 'confirm',
-      name: 'copied',
-      message: 'Have you copied the first article to the clipboard?',
-      default: true,
-    },
-  ])
-  const text = answerCopy.copied ? clipboard.readSync() : undefined
-  await editArticle(text, unit, answersLine.line, nextNumber, 'A')
-
-  // const answersNext = await inquirer.prompt([
-  //  {
-  //   type: 'confirm',
-  //    name: 'continue',
-  //    message: 'Ready to do the same thing with the alternate text?',
-  //    default: true,
-  //  },
-  // ])
-  // if (!answersNext.continue) {
-  //  return
-  // }
-
+  await editArticle(undefined, unit, answersLine.line, nextNumber, 'A')
   await editArticle(undefined, unit, answersLine.line, nextNumber, 'B')
   continuePrompt()
 }
 
 async function editArticle(text, unit, line, articleNumber, level) {
+  if (!text) {
+    const answerCopy = await inquirer.prompt([
+      {
+        type: 'confirm',
+        name: 'copy',
+        messsage: 'Insert text from clipboard automatically?',
+        default: true,
+      },
+    ])
+    if (answerCopy.copy) {
+      text = clipboard.readSync()
+    }
+  }
   const answersWriteArticle = await inquirer.prompt([
     {
       type: 'editor',
       name: 'writeArticle',
-      message: 'Save the generated article to file',
+      message: "Let's edit the text and save it to file",
       postfix: '.md',
       default: text,
     },
