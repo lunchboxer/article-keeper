@@ -35,7 +35,8 @@ function eliminateSpacesBetweenAnswerKeyItems(text) {
 }
 
 function fixThirdLevelHeadings(text) {
-  return text.replaceAll('### Glossary', '## Glossary')
+  return text
+    .replaceAll('### Glossary', '## Glossary')
     .replaceAll(
       '### Reading Comprehension Questions',
       '## Reading Comprehension Questions',
@@ -99,7 +100,7 @@ function lowercaseAnswersInAnswerKey(text) {
 
 // replace A. with a.
 function lowercaseAnswerLabels(string_) {
-  return string_.replaceAll(/^\s*[A-D]\./gm, function(match) {
+  return string_.replaceAll(/^\s*[A-D]\./gm, function (match) {
     return match.toLowerCase()
   })
 }

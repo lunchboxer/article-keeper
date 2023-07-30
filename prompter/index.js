@@ -438,25 +438,19 @@ async function generateAnArticle() {
   const text = answerCopy.copied ? clipboard.readSync() : undefined
   await editArticle(text, unit, answersLine.line, nextNumber, 'A')
 
-  const answersNext = await inquirer.prompt([
-    {
-      type: 'confirm',
-      name: 'continue',
-      message: 'Ready to do the same thing with the alternate text?',
-      default: true,
-    },
-  ])
-  if (!answersNext.continue) {
-    return
-  }
-  await editArticle(undefined, unit, answersLine.line, nextNumber, 'B')
-  console.log('🥳 Another article fully generated and saved.')
-  console.log(
-    `Run ${chalk.redBright(
-      'npm run index',
-    )} to complete processing of your new article.`,
-  )
+  // const answersNext = await inquirer.prompt([
+  //  {
+  //   type: 'confirm',
+  //    name: 'continue',
+  //    message: 'Ready to do the same thing with the alternate text?',
+  //    default: true,
+  //  },
+  // ])
+  // if (!answersNext.continue) {
+  //  return
+  // }
 
+  await editArticle(undefined, unit, answersLine.line, nextNumber, 'B')
   continuePrompt()
 }
 
@@ -533,6 +527,7 @@ async function editArticleTopics() {
       store.articleTopics = answers.articleTopics
       await writeStore()
       console.log('Article topics saved')
+      await continuePrompt()
     }
   } catch (error) {
     console.error(error)
@@ -540,47 +535,51 @@ async function editArticleTopics() {
 }
 
 async function topicsMenu() {
-  while (true) {
+  let keepGoing = true
+  while (keepGoing) {
     newPage('Article Topics')
-    console.log('We have the following prompt to generate article topics')
-    showTextBlock(store.articleTopicPrompt)
-    // ask if they want to use the prompt or edit it
-    const answers = await inquirer.prompt([
+    const choices = ['Generate new topics', 'View prompt', 'Edit prompt']
+    if (store.articleTopics) choices.push('View topics', 'Edit topics')
+    choices.push('Go back', 'Exit')
+    const answersMenu = await inquirer.prompt([
       {
-        type: 'confirm',
-        name: 'useTopicsPrompt',
-        message: 'Use the above prompt?',
-        default: true,
+        type: 'list',
+        name: 'whatToDo',
+        message: 'What would you like to do?',
+        choices,
       },
     ])
-    // if yes it to the clipboard with clipboardy
-    if (answers.useTopicsPrompt) {
-      console.log('Prompt has been copied to clipoard and is ready to use.')
-      clipboard.writeSync(store.articleTopicPrompt)
-      // ask them if they are ready. Then when they press enter open the editor again
-      await editArticleTopics()
-    } else {
-      const answersMenu = await inquirer.prompt([
-        {
-          type: 'list',
-          name: 'whatToDo',
-          message: 'What would you like to do?',
-          choices: ['Go Back', 'Exit', 'Edit', 'Delete'],
-        },
-      ])
-      if (answersMenu.whatToDo === 'Go Back') {
+    switch (answersMenu.whatToDo) {
+      case 'Generate new topics': {
+        clipboard.writeSync(store.articleTopicPrompt)
+        console.log('Prompt has been copied to clipoard and is ready to use.')
+        await editArticleTopics()
         break
       }
-      if (answersMenu.whatToDo === 'Exit') {
-        exit()
+      case 'View prompt': {
+        showTextBlock(store.articleTopicPrompt)
+        await continuePrompt()
+        break
       }
-      if (answersMenu.whatToDo === 'Edit') {
+      case 'View topics': {
+        showTextBlock(store.articleTopics)
+        await continuePrompt()
+        break
+      }
+      case 'Edit topics': {
+        await editArticleTopics()
+        break
+      }
+      case 'Edit prompt': {
         await promptEditMenu('articleTopicPrompt', 'Article topics')
+        break
       }
-      if (answersMenu.whatToDo === 'Delete') {
-        delete store.articleTopicPrompt
-        await writeStore()
-        console.log('Prompt has been deleted.')
+      case 'Go back': {
+        keepGoing = false
+        break
+      }
+      case 'Exit': {
+        exit()
       }
     }
   }
