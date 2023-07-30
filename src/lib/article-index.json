@@ -435,6 +435,12 @@
               "id": 11,
               "title": "Wild and wonderful animals: Ancient vs. modern relationships with animals",
               "slug": "wild-and-wonderful-animals-ancient-vs-modern-relationships-with-animals"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "Farms and food: Agriculture methods through time",
+              "slug": "farms-and-food-agriculture-methods-through-time"
             }
           ]
         }
