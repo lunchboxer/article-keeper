@@ -18,7 +18,7 @@ These are just some weird and wacky sculptures around the world. Sculptures like
 - **diameter**: how wide across a circle is
 - **graceful**: moving in a smooth, pretty way
 - **museum**: a place with old things on display
-- **mythical**: make-believe, not real  
+- **mythical**: make-believe, not real
 - **pretend**: not real, just for fun
 - **surprise**: something unexpected
 
@@ -50,7 +50,7 @@ These are just some weird and wacky sculptures around the world. Sculptures like
    a. In 2014, two huge fake Kelpie heads were built in Scotland.
    b. They stand 10 stories high!
    c. Sculptures like these take art out of stuffy museums.
-   d. The metal spoon is 7 meters wide.  
+   d. The metal spoon is 7 meters wide.
 
 5. Why did the author write this article?
 
@@ -70,7 +70,7 @@ These are just some weird and wacky sculptures around the world. Sculptures like
 
 1. c
 2. d
-3. c  
+3. c
 4. c
 5. a
 6. b

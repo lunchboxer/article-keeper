@@ -54,7 +54,7 @@ From parades to pranks, people sure know how to live it up! What wild ways would
    a. They are smashed
    b. They are burned in a bonfire
    c. They are put in a museum
-   d. They are thrown in a river  
+   d. They are thrown in a river
 
 5. Which of these celebrations involves eating spicy, Cajun food?
 
@@ -73,7 +73,7 @@ From parades to pranks, people sure know how to live it up! What wild ways would
 ## Answer Key
 
 1. b
-2. b  
+2. b
 3. c
 4. b
 5. d

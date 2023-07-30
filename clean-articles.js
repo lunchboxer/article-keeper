@@ -100,7 +100,7 @@ function lowercaseAnswersInAnswerKey(text) {
 
 // replace A. with a.
 function lowercaseAnswerLabels(string_) {
-  return string_.replaceAll(/^\s*[A-D]\./gm, function (match) {
+  return string_.replaceAll(/^\s*[A-D]\./gm, function(match) {
     return match.toLowerCase()
   })
 }
@@ -113,6 +113,10 @@ function deleteBeforeFirstHeading(markdownText) {
   }
   // If no first-level heading is found, return the original text
   return markdownText
+}
+
+function removeExtraWhitespaceAtEnds(text) {
+  return text.split('\n').map(line => line.trimEnd()).join('\n')
 }
 
 function removeExtraBlankLinesBetweenAnswers(text) {
@@ -140,5 +144,6 @@ for (const article of articles) {
   cleanText = eliminateSpacesBetweenAnswerKeyItems(cleanText)
   cleanText = addLineBeforeAnswerKey(cleanText)
   cleanText = lowercaseAnswersInAnswerKey(cleanText)
+  cleanText = removeExtraWhitespaceAtEnds(cleanText)
   await writeFile(articlesDirectory + article, cleanText)
 }

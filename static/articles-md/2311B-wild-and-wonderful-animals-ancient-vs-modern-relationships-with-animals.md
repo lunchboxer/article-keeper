@@ -72,7 +72,7 @@ Human and animal relationships changed a whole lot from long ago to today. As so
 
 1. c
 2. c
-3. c  
+3. c
 4. c
 5. c
 6. a

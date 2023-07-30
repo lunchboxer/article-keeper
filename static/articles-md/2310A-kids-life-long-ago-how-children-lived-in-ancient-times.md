@@ -54,7 +54,7 @@ While kids' chores, clothes, food, and schools were different in the ancient wor
    c. Kids wore simple clothes
    d. Kids played with balls and tops
 
-5. Based on the article, childhood in ancient times was ________ than today.  
+5. Based on the article, childhood in ancient times was ________ than today.
 
    a. healthier
    b. safer

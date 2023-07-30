@@ -29,7 +29,7 @@ The Olympic spirit connects athletes and fans across many years. So next time yo
    a. Greece
    b. Rome
    c. Egypt
-   d. China  
+   d. China
 
 2. How often were the ancient Greek Olympics held?
 
@@ -70,7 +70,7 @@ The Olympic spirit connects athletes and fans across many years. So next time yo
 
 1. a
 2. b
-3. a  
+3. a
 4. d
 5. c
 6. c

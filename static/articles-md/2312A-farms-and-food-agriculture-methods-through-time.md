@@ -18,59 +18,59 @@ From ancient sickles to GPS tractors, farming technology has come a long way! Be
 
 ## Glossary
 
-- Labor-intensive: Requiring a lot of human work and effort  
+- Labor-intensive: Requiring a lot of human work and effort
 - Irrigation: Supplying water to land and crops
 - Tilling: Preparing soil for planting by turning and breaking up the earth
-- Thresh: Separate grain from straw and husks  
+- Thresh: Separate grain from straw and husks
 - Yield: Amount of crop produced
 
 ## Reading Comprehension Questions
 
 1. What was a main farming method used by early civilizations like Ancient Egypt?
 
-   a. Advanced irrigation systems  
+   a. Advanced irrigation systems
    b. Machine-powered tractors
    c. Basic hand tools like hoes
    d. Greenhouse technology
 
 2. Which innovation allowed farms to cultivate more acres of land?
 
-   a. Mechanical reapers  
+   a. Mechanical reapers
    b. Cover crops
-   c. No-till methods  
+   c. No-till methods
    d. Steel plows
 
 3. How did the three-field system help improve farming?
 
    a. It allowed more animal breeding.
-   b. It increased transportation options.  
-   c. It rotated different crops for better yields.  
+   b. It increased transportation options.
+   c. It rotated different crops for better yields.
    d. It delivered water directly to plant roots.
 
 4. What technology in the 1700-1800s allowed crops to be preserved longer?
 
    a. Refrigerated train cars
    b. GPS mapping
-   c. Tractors  
+   c. Tractors
    d. Milking machines
 
 5. How can technology like GPS and satellites help modern farms?
 
-   a. Monitor crop irrigation needs  
+   a. Monitor crop irrigation needs
    b. Hand harvest crops faster
    c. Provide natural fertilizers
    d. Reduce greenhouse gas emissions
 
 6. Which recent farming method helps the environment?
 
-   a. Mechanical threshers  
+   a. Mechanical threshers
    b. Chemical fertilizers
    c. Clear-cutting fields
    d. Cover crops
 
 ## Answer Key
 
-1. c  
+1. c
 2. d
 3. c
 4. a

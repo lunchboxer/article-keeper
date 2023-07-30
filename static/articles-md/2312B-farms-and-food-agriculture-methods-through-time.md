@@ -18,12 +18,12 @@ From old hoes to GPS tractors, farms sure have changed! Better tools help farmer
 
 ## Glossary
 
-- Tools: Things that help people work  
+- Tools: Things that help people work
 - Irrigation: Giving water to plants
-- Fertilizer: Nutrients that help plants grow  
+- Fertilizer: Nutrients that help plants grow
 - Shipping: Transporting things like food
 
-## Reading Comprehension Questions  
+## Reading Comprehension Questions
 
 1. What did ancient people do to get food before farming?
 
@@ -34,7 +34,7 @@ From old hoes to GPS tractors, farms sure have changed! Better tools help farmer
 
 2. What made farming hard work at first?
 
-   a. Too much manure  
+   a. Too much manure
    b. Basic hand tools
    c. Train refrigerator cars
    d. Tractors with GPS
@@ -55,8 +55,8 @@ From old hoes to GPS tractors, farms sure have changed! Better tools help farmer
 
 5. What do cover crops help improve?
 
-   a. Tractor GPS  
-   b. Farm soil  
+   a. Tractor GPS
+   b. Farm soil
    c. Greenhouse temperature
    d. Food shipping
 
@@ -70,7 +70,7 @@ From old hoes to GPS tractors, farms sure have changed! Better tools help farmer
 ## Answer Key
 
 1. c
-2. b  
+2. b
 3. b
 4. b
 5. b

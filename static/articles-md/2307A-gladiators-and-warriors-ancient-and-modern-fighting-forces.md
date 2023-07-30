@@ -14,7 +14,7 @@ Knights rode into battle on horses called destriers. When two groups of knights 
 
 Now let's look at some modern warriors. Navy SEALs are elite American special forces soldiers who carry out dangerous military missions on sea, air, and land. Their training puts recruits through intense physical and mental challenges. SEALs must be able to run several miles wearing heavy gear, swim long distances, survive wilderness survival training, and more - all on little food and sleep!
 
-Because their missions are top secret, Navy SEALs' identities and activities are not revealed to the public. However, it is known that they use advanced technology and weapons for their missions. SEALs are deployed all over the world to carry out raids, rescue hostages, gather intelligence, and other duties. Their motto is "the only easy day was yesterday" - reminding them that every day brings new obstacles to overcome.  
+Because their missions are top secret, Navy SEALs' identities and activities are not revealed to the public. However, it is known that they use advanced technology and weapons for their missions. SEALs are deployed all over the world to carry out raids, rescue hostages, gather intelligence, and other duties. Their motto is "the only easy day was yesterday" - reminding them that every day brings new obstacles to overcome.
 
 From gladiators entertaining Ancient Roman crowds to knights charging into medieval battles to Navy SEALs on 21st century covert missions, warriors and fighters throughout history have shown incredible skills. Would you last a day in their shoes? While their world was very different from ours, we can still be impressed by their dedication and bravery.
 

@@ -37,13 +37,13 @@ Next time you come across an illusion that makes you look twice, think about the
 2. What technique makes objects look strangely stretched or squished?
 
    a. shadow
-   b. size contrast  
+   b. size contrast
    c. distortion
    d. convergence
 
 3. What is one way artists use light and shadow to create optical illusions?
 
-   a. by making a gray spot disappear  
+   a. by making a gray spot disappear
    b. by tricking you into seeing movement
    c. by making shapes in clouds
    d. by distorting perspective
@@ -59,7 +59,7 @@ Next time you come across an illusion that makes you look twice, think about the
 
    a. They like being tricked.
    b. They find the brain fascinating.
-   c. Illusions are mysterious.  
+   c. Illusions are mysterious.
    d. Artists have always experimented with techniques.
 
 6. Based on the article, what do you need most to create optical illusions?

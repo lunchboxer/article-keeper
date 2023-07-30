@@ -21,14 +21,14 @@ Today, animators combine digital and traditional techniques. Shows like SpongeBo
 1. What was one of the first animation techniques used in cartoons?
 
    a. CGI
-   b. Stop motion  
+   b. Stop motion
    c. Hand-drawn cel animation
    d. Digital ink and paint
 
 2. How did the rise of computer animation change animation?
 
    a. It made animation much slower.
-   b. It allowed more fantastical stories to be told.  
+   b. It allowed more fantastical stories to be told.
    c. It required animators to learn new technical skills.
    d. It caused traditional cel animation to go extinct.
 
@@ -49,7 +49,7 @@ Today, animators combine digital and traditional techniques. Shows like SpongeBo
 5. How can animated shows blend digital and traditional techniques today?
 
    a. By using CGI characters on hand-drawn backgrounds
-   b. By combining 3D models with 2D hand-drawn effects  
+   b. By combining 3D models with 2D hand-drawn effects
    c. By drawing digital cels and characters
    d. By animating with stop motion and CGI
 
@@ -63,7 +63,7 @@ Today, animators combine digital and traditional techniques. Shows like SpongeBo
 ## Answer Key
 
 1. c
-2. c  
+2. c
 3. a
 4. a
 5. b

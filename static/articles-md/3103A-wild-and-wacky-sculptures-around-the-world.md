@@ -69,7 +69,7 @@ These are just a few examples of the wild, creative, and larger-than-life sculpt
 ## Answer Key
 
 1. c
-2. d  
+2. d
 3. c
 4. c
 5. a

@@ -77,7 +77,7 @@ This quick history lesson shows us that while ancient rulers could often act lik
 
 1. c
 2. c
-3. b  
+3. b
 4. c
 5. a
 6. b

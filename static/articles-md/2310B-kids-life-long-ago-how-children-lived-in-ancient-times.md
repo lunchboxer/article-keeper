@@ -50,7 +50,7 @@ While ancient kids' chores, clothes, food, and schools were different, they stil
    a. more fun
    b. safer
    c. harder
-   d. more modern  
+   d. more modern
 
 5. What's the main idea of the article?
 
@@ -63,6 +63,6 @@ While ancient kids' chores, clothes, food, and schools were different, they stil
 
 1. b
 2. d
-3. a  
+3. a
 4. c
 5. b

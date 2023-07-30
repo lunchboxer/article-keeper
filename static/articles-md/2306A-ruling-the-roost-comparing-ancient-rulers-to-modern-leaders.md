@@ -57,7 +57,7 @@ So what does this quick history lesson teach us? While ancient rulers could ofte
 
    a. Lack of loyalty
    b. Burning books
-   c. Foreign invasions  
+   c. Foreign invasions
    d. Building projects
 
 5. How are ancient rulers different from modern leaders?
@@ -77,7 +77,7 @@ So what does this quick history lesson teach us? While ancient rulers could ofte
 ## Answer Key
 
 1. c
-2. b  
+2. b
 3. b
 4. b
 5. b

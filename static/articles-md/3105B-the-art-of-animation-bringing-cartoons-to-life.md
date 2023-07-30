@@ -23,13 +23,13 @@ Today, animators mix computer animation with hand-drawn looks. SpongeBob SquareP
    a. Computer animation
    b. Stop motion
    c. Cel animation
-   d. Digital coloring  
+   d. Digital coloring
 
 2. How did computer animation change how cartoons were made?
 
    a. It made them slower to create.
    b. It let them tell more imaginary stories.
-   c. Animators had to learn new computer skills.  
+   c. Animators had to learn new computer skills.
    d. It stopped cel animation from being used.
 
 3. What are some tricks animators use to make movements look more real?
@@ -43,15 +43,15 @@ Today, animators mix computer animation with hand-drawn looks. SpongeBob SquareP
 
    a. The first cel cartoons and computer cartoons
    b. The most popular old and new cartoons
-   c. The oldest and newest tricks  
+   c. The oldest and newest tricks
    d. The best ages of cartoons
 
 5. How do some cartoons mix computer and hand-made today?
 
    a. CGI characters on hand-drawn backgrounds
    b. Mixing 3D computer models with hand-drawn looks
-   c. Drawing digital cels  
-   d. Mixing stop motion and computer animation  
+   c. Drawing digital cels
+   d. Mixing stop motion and computer animation
 
 6. According to the article, why are cartoons such fun art?
 
@@ -64,7 +64,7 @@ Today, animators mix computer animation with hand-drawn looks. SpongeBob SquareP
 
 1. c
 2. b
-3. a  
+3. a
 4. c
 5. b
 6. b

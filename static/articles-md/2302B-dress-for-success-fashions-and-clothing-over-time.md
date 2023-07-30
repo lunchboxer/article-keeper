@@ -20,7 +20,7 @@ Nowadays, people mix together elements from many different eras and cultures. Je
 
 - tunic - a long, loose shirt
 - linen - cloth made from flax plants
-- velvet - fabric with thick pile  
+- velvet - fabric with thick pile
 - satin - smooth shiny fabric
 - corset - tight undergarment
 

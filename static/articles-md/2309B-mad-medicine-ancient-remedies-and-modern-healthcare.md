@@ -2,7 +2,7 @@
 
 A long time ago, people had funny ideas about how to get healthy. Back then, doctors did not know as much about illnesses and ouchies as doctors today. People made up their own cures using plants, animals, and rocks. Some of these old-timey remedies worked, but others were very weird!
 
-In ancient Egypt, folks drank beer as medicine. Egyptian doctors thought beer could stop diseases and help fix boo-boos. Now, doctors know beer does not really cure illnesses. But beer does have some good stuff and minerals inside.  
+In ancient Egypt, folks drank beer as medicine. Egyptian doctors thought beer could stop diseases and help fix boo-boos. Now, doctors know beer does not really cure illnesses. But beer does have some good stuff and minerals inside.
 
 Ancient Greek doctors believed sickness happened when a person’s four humors got out of whack: blood, phlegm, yellow bile, and black bile. To fix the imbalance, doctors would bleed their patients! They thought draining blood would make the humors balanced again. We now know bleeding sick people usually made them weaker.
 
@@ -18,7 +18,7 @@ Of course, even modern medicine has some “mad” ideas! In 100 years, people m
 
 ## Glossary
 
-- **shamans** - healers and leaders of old tribes who used herbs, ceremonies, and magic to treat illnesses  
+- **shamans** - healers and leaders of old tribes who used herbs, ceremonies, and magic to treat illnesses
 - **toxins** - poisons and bad stuff in the body
 - **humors** - Greeks thought 4 body fluids that control feelings and health: blood, phlegm, yellow bile, black bile
 
@@ -36,7 +36,7 @@ Of course, even modern medicine has some “mad” ideas! In 100 years, people m
    a. To drain extra blood from the body
    b. To balance the four humors
    c. To relax the patient
-   d. To remove toxins  
+   d. To remove toxins
 
 3. How did Chinese healers use moxa?
 

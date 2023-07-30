@@ -1,6 +1,6 @@
 # Urban Uprooting: Escaping Crowded Cities for Open Spaces
 
-Do you feel like your city has too many people? More folks are leaving big cities for smaller towns. This is called "urban uprooting." Read this to find out why people want to get out of the city. Plus, learn what life can be like in small towns.  
+Do you feel like your city has too many people? More folks are leaving big cities for smaller towns. This is called "urban uprooting." Read this to find out why people want to get out of the city. Plus, learn what life can be like in small towns.
 
 Many people go because cities cost a lot. Rent and houses cost way more in huge cities. In tiny towns, life is cheaper. Your money goes further there. You can get a bigger home for less cash.
 
@@ -68,7 +68,7 @@ Moving from the big city to the country is different. But many people feel happi
 
 1. c
 2. b
-3. b  
+3. b
 4. a
 5. d
 6. b

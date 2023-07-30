@@ -30,7 +30,7 @@ Once the parts are placed, add details! Draw pupils, eyelashes, nostrils and ear
 
 Bodies are tricky, but here’s a cool tip. Most people are about 7 1/2 heads tall. Keep this in mind when you draw.
 
-First, lightly sketch a stick figure. Draw circles at the shoulders, elbows, hips and knees. Connect with lines - these are your guide.  
+First, lightly sketch a stick figure. Draw circles at the shoulders, elbows, hips and knees. Connect with lines - these are your guide.
 
 Now add shapes for torso, arms and legs. The torso is an oval, arms are tubes, legs tapered tubes. Hands and feet are mittens and boots for now.
 
@@ -63,14 +63,14 @@ In time you’ll get better at drawing faces and people from your imagination. K
 1. What easy shapes are used to start drawing a person?
 
    a. circles, squares and lines
-   b. circles, triangles and lines  
+   b. circles, triangles and lines
    c. circles, rectangles and triangles
    d. squares, triangles and ovals
 
 2. Where should you draw eyes on a face?
 
    a. at the very top
-   b. about halfway between top and chin  
+   b. about halfway between top and chin
    c. near the bottom
    d. wherever you want
 
@@ -90,7 +90,7 @@ In time you’ll get better at drawing faces and people from your imagination. K
 
 5. How much daily practice helps drawing skills improve?
 
-   a. 10 minutes  
+   a. 10 minutes
    b. 30 minutes
    c. 1 hour
    d. No set time is recommended
@@ -106,7 +106,7 @@ In time you’ll get better at drawing faces and people from your imagination. K
 
 1. c
 2. b
-3. d  
+3. d
 4. b
 5. no set time is recommended
 6. b

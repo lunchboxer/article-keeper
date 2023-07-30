@@ -17,7 +17,7 @@ So next time you hear about gods riding lightning bolts or living atop Mount Oly
 ## Glossary
 
 - monotheistic - believing in one god
-- polytheistic - believing in many gods  
+- polytheistic - believing in many gods
 - pagan - believing in and worshipping many gods or goddesses
 - mythology - traditional stories about gods, heroes, and magical beings
 - legends - old stories passed down through generations that may be based on real events
@@ -70,7 +70,7 @@ So next time you hear about gods riding lightning bolts or living atop Mount Oly
 
 1. d
 2. b
-3. c  
+3. c
 4. c
 5. c
 6. c

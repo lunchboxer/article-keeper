@@ -21,7 +21,7 @@ Next time you see an illusion that makes you look twice, think about the artist'
 ## Glossary
 
 - perspective - how things look smaller and closer together when far away
-- contrast - differences between things, like light and dark  
+- contrast - differences between things, like light and dark
 - distortion - when something is warped or looks strange
 - silhouette - the outline or shape of something, usually black
 
@@ -29,14 +29,14 @@ Next time you see an illusion that makes you look twice, think about the artist'
 
 1. What do artists use to create the café wall illusion?
 
-   a. perspective  
+   a. perspective
    b. light
    c. repetition
    d. contrast
 
 2. What technique makes things look oddly stretched or squished?
 
-   a. shadow  
+   a. shadow
    b. size tricks
    c. distortion
    d. lines meeting
@@ -45,7 +45,7 @@ Next time you see an illusion that makes you look twice, think about the artist'
 
    a. by making a gray spot vanish
    b. by tricking you into seeing movement
-   c. by making shapes in clouds  
+   c. by making shapes in clouds
    d. by warping perspective
 
 4. How are the Penrose stairs and Ames room alike?
@@ -73,7 +73,7 @@ Next time you see an illusion that makes you look twice, think about the artist'
 
 1. d
 2. c
-3. c  
+3. c
 4. a
 5. d
 6. a

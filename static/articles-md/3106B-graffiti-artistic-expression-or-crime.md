@@ -6,7 +6,7 @@ People have made graffiti for thousands of years. In ancient times, tribes drew 
 
 In the 1960s, graffiti got very popular again. Teens and young adults began using spray paint to write their names or draw pictures on city walls and subway trains. This was called "tagging." Tagging started in Philadelphia and New York. Some taggers were gang members marking their areas. Others were just kids showing their art.
 
-Soon, graffiti art spread all over. By the 1980s, you could see it in big cities across America and Europe. Graffiti writing got more fancy. Taggers started adding cartoon characters, bubbles, and stylish letters. Their tags went from simple to very colorful and complex.  
+Soon, graffiti art spread all over. By the 1980s, you could see it in big cities across America and Europe. Graffiti writing got more fancy. Taggers started adding cartoon characters, bubbles, and stylish letters. Their tags went from simple to very colorful and complex.
 
 Some graffiti writers see tagging like a sport. They try to tag risky spots without getting caught. Others focus on being creative. Their paintings can be beautiful. Famous graffiti artists like Banksy make amazing street art that makes you think.
 
@@ -28,14 +28,14 @@ Do you think graffiti should be allowed? Or should all tagging be treated as a c
 
 1. When did graffiti first become popular in modern times?
 
-   a. In ancient Egypt and Pompeii  
-   b. In the 1960s  
+   a. In ancient Egypt and Pompeii
+   b. In the 1960s
    c. In the 1980s
    d. In the 2000s
 
 2. What is tagging?
 
-   a. Cleaning up graffiti  
+   a. Cleaning up graffiti
    b. Putting gang signs on buildings
    c. Spray painting your name or art
    d. Making cave paintings
@@ -49,7 +49,7 @@ Do you think graffiti should be allowed? Or should all tagging be treated as a c
 
 4. Why might some people think graffiti is bad?
 
-   a. It can be inappropriate.  
+   a. It can be inappropriate.
    b. It can promote gangs.
    c. It costs money to clean up.
    d. All of the above.
@@ -57,7 +57,7 @@ Do you think graffiti should be allowed? Or should all tagging be treated as a c
 5. How would you feel if you saw graffiti spray painted on your school?
 
    a. Happy, because I like graffiti
-   b. Angry, because I don't want graffiti on my school  
+   b. Angry, because I don't want graffiti on my school
    c. Confused about who did it
    d. I wouldn't care
 
@@ -72,7 +72,7 @@ Do you think graffiti should be allowed? Or should all tagging be treated as a c
 
 1. b
 2. c
-3. b  
+3. b
 4. d
 5. b
 6. c

@@ -15,7 +15,7 @@ Would your family ever move overseas? Where? The options are endless. With coura
 ## Glossary
 
 - abroad - in or to a foreign country
-- culture - beliefs and traditions of a group  
+- culture - beliefs and traditions of a group
 - diverse - including many different types of people
 - overseas - across the ocean; abroad
 
@@ -67,7 +67,7 @@ Would your family ever move overseas? Where? The options are endless. With coura
 
 1. b
 2. b
-3. c  
+3. c
 4. a
 5. b
 6. c

@@ -32,9 +32,9 @@ The water craziness keeps going with foam parties. People spray thick, white foa
 
 ## Las Fallas in Valencia
 
-Get ready for Las Fallas, Spain's loudest party! Las Fallas means "the fires" in Spanish.  
+Get ready for Las Fallas, Spain's loudest party! Las Fallas means "the fires" in Spanish.
 
-Every March, huge cardboard statues pop up in Valencia. Some statues are as tall as buildings! They are called ninots. The ninots poke fun at famous people and leaders.  
+Every March, huge cardboard statues pop up in Valencia. Some statues are as tall as buildings! They are called ninots. The ninots poke fun at famous people and leaders.
 
 After a week of parades, fireworks, concerts, and paella feasts, they set the ninots on fire! On the last night, the ninots blaze in a giant bonfire. People also light their own crackers for a noisy, fiery end! Now that's one red-hot party!
 
@@ -44,7 +44,7 @@ From parades to pranks, people sure have nutty ways to celebrate! What wacky way
 
 - Cajun - a spicy, hearty type of food from Louisiana
 - Lent - 40 days before Easter when some people give up treats
-- Lanterns - decorations around a light  
+- Lanterns - decorations around a light
 
 ## Reading Comprehension Questions
 
@@ -94,7 +94,7 @@ From parades to pranks, people sure have nutty ways to celebrate! What wacky way
 
 1. c
 2. b
-3. b  
+3. b
 4. a
 5. d
 6. a

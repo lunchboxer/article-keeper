@@ -24,7 +24,7 @@ While some things change over time, the joy of play and good work stays the same
 1. What kind of work did men do long ago?
 
    a. Working in offices
-   b. Building factories  
+   b. Building factories
    c. Chopping wood and fishing
    d. Playing sports
 
@@ -38,7 +38,7 @@ While some things change over time, the joy of play and good work stays the same
 3. What are two examples of creative hobbies in the article?
 
    a. Soccer and basketball
-   b. Photography and drawing  
+   b. Photography and drawing
    c. Tree climbing and playing in creeks
    d. Corn husk dolls and wooden animals
 
@@ -60,14 +60,14 @@ While some things change over time, the joy of play and good work stays the same
 
    a. Life was better before.
    b. Toys today have too much technology.
-   c. Work and play have changed but still make us happy.  
+   c. Work and play have changed but still make us happy.
    d. Kids should spend less time on computers.
 
 ## Answer Key
 
 1. c
 2. c
-3. b  
+3. b
 4. b
 5. c
 6. c

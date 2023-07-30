@@ -2,7 +2,7 @@
 
 Sometimes families need to move to a new place for their mom or dad's job. This is called relocating. Kids may feel excited but also nervous about moving. In this article, we will learn why families relocate and what it's like.
 
-Certain jobs make people move a lot. Military families must move to new bases around the world every couple years. Builders go where the big construction projects are happening. Teachers or office workers might relocate if their company transfers them.  
+Certain jobs make people move a lot. Military families must move to new bases around the world every couple years. Builders go where the big construction projects are happening. Teachers or office workers might relocate if their company transfers them.
 
 People also choose to move for better jobs. For example, someone may take a job in a bigger city that pays more money. Or they want to switch careers or get promoted, so they move. Big cities like San Francisco and New York have lots of technology and business jobs. Los Angeles has many jobs in music, movies, and entertainment.
 
@@ -21,7 +21,7 @@ In the end, relocating brings growing experiences. You learn new skills like cou
 ## Glossary
 
 - relocating - moving to a new place
-- career - type of job someone does for many years  
+- career - type of job someone does for many years
 - settle in - feel comfortable in a new home
 - timeline - schedule of what steps you'll do and when
 
@@ -73,7 +73,7 @@ In the end, relocating brings growing experiences. You learn new skills like cou
 
 1. d
 2. d
-3. b  
+3. b
 4. b
 5. d
 6. b

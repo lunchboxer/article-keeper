@@ -21,7 +21,7 @@ The next time you go to an art museum, look for special shapes and colors. They 
 - concentric - circles inside other circles
 - harmony - agreement
 - interpreter - to understand the meaning
-- purity - being unmixed  
+- purity - being unmixed
 
 ## Reading Comprehension Questions
 
@@ -29,7 +29,7 @@ The next time you go to an art museum, look for special shapes and colors. They 
 
    a. Circles
    b. Triangles
-   c. Squares  
+   c. Squares
    d. Rectangles
 
 2. What did Piet Mondrian use thick black lines for in his paintings?
@@ -71,7 +71,7 @@ The next time you go to an art museum, look for special shapes and colors. They 
 
 1. b
 2. a
-3. c  
+3. c
 4. a
 5. b
 6. b

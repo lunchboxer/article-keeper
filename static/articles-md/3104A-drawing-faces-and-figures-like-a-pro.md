@@ -2,7 +2,7 @@
 
 Have you ever wanted to draw cool pictures of people but weren’t sure where to start? Drawing faces and figures can be tricky, but with a few tips and lots of practice you can learn to draw like a pro!
 
-## Starting with Shapes  
+## Starting with Shapes
 
 One of the easiest ways to draw a person is to begin with simple shapes. Circles and ovals make great heads. Squares and rectangles can be bodies. Triangles work well for clothing. Once you have the shapes mapped out, you can start adding details.
 
@@ -30,7 +30,7 @@ Once you have placed all the features, it’s time for details! Add eyelashes, p
 
 Bodies can be tricky, but here’s a great tip. The average person is about 7 1/2 heads tall. Keep this in mind when sketching bodies.
 
-Start with a stick figure lightly. Draw circles for joints like shoulders, elbows, hips and knees. Then connect with lines. These will be your guide.  
+Start with a stick figure lightly. Draw circles for joints like shoulders, elbows, hips and knees. Then connect with lines. These will be your guide.
 
 Now rough out shapes for torso, arms and legs. Torso is an oval, arms are tubes, and legs are tapered tubes. Hands and feet can be sketched as puffy mittens and boots for now.
 
@@ -58,28 +58,28 @@ Over time you will get better at sketching faces and figures from your imaginati
 
 1. What basic shapes are used to start a drawing of a person?
 
-   a. circles, squares and lines  
+   a. circles, squares and lines
    b. circles, triangles and lines
-   c. circles, rectangles and triangles  
+   c. circles, rectangles and triangles
    d. squares, triangles and ovals
 
 2. Where should the eyes be drawn on a face?
 
-   a. at the very top  
-   b. about halfway between top and chin  
-   c. near the bottom  
+   a. at the very top
+   b. about halfway between top and chin
+   c. near the bottom
    d. wherever looks best
 
 3. How tall is the average person in relation to their head?
 
-   a. 5 heads  
+   a. 5 heads
    b. 6 heads
    c. 7 heads
    d. 7 1/2 heads
 
 4. What is the first step when drawing a body?
 
-   a. draw an oval torso  
+   a. draw an oval torso
    b. lightly sketch a stick figure
    c. draw shapes for arms and legs
    d. outline the hands and feet
@@ -87,7 +87,7 @@ Over time you will get better at sketching faces and figures from your imaginati
 5. How much practice is recommended each day to improve at drawing?
 
    a. 10 minutes
-   b. 30 minutes  
+   b. 30 minutes
    c. 1 hour
    d. No set time is recommended
 
@@ -101,7 +101,7 @@ Over time you will get better at sketching faces and figures from your imaginati
 ## Answer Key
 
 1. c
-2. b  
+2. b
 3. d
 4. b
 5. d

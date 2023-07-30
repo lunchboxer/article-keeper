@@ -23,28 +23,28 @@ While some things change over time, the joy of play and meaningful work stays th
 
 1. What types of work did men do in the olden days?
 
-   a. Working in offices  
-   b. Building factories  
-   c. Chopping wood and fishing  
+   a. Working in offices
+   b. Building factories
+   c. Chopping wood and fishing
    d. Playing sports
 
 2. How were toys different long ago compared to today?
 
-   a. Toys were more expensive long ago.  
+   a. Toys were more expensive long ago.
    b. Toys were more high-tech long ago.
-   c. Toys were more simple long ago.  
+   c. Toys were more simple long ago.
    d. There were no toys long ago.
 
 3. What are two examples of creative hobbies mentioned in the article?
 
-   a. Soccer and basketball  
+   a. Soccer and basketball
    b. Photography and drawing
-   c. Tree climbing and creek splashing  
+   c. Tree climbing and creek splashing
    d. Corn husk dolls and wooden animals
 
 4. How does play time help us express who we are according to the article?
 
-   a. It doesn't help us.  
+   a. It doesn't help us.
    b. It lets us follow our interests and talents.
    c. It helps us make lots of money.
    d. It teaches us about agriculture.

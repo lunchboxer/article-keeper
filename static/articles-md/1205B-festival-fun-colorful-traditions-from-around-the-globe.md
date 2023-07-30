@@ -28,13 +28,13 @@ Let's celebrate our diverse planet! Festivals teach us about cultures. Trying ne
 
 - **Cosplay** - dressing up as pretend characters from movies, books, games.
 - **Sequins** - shiny, sparkly circles sewn on clothes.
-- **Samba** - a lively Brazilian dance with hip shakes and foot steps.  
+- **Samba** - a lively Brazilian dance with hip shakes and foot steps.
 - **Mardi Gras** - a big street party before Lent starts.
 - **Diverse** - having many differences.
 
 ## Reading Comprehension Questions
 
-1. What country has a New Year's festival with water fights?  
+1. What country has a New Year's festival with water fights?
 
    a. India
    b. Thailand
@@ -43,7 +43,7 @@ Let's celebrate our diverse planet! Festivals teach us about cultures. Trying ne
 
 2. Which festival has glowing lights for good beating evil?
 
-   a. Holi  
+   a. Holi
    b. Diwali
    c. Carnival
    d. Songkran
@@ -72,7 +72,7 @@ Let's celebrate our diverse planet! Festivals teach us about cultures. Trying ne
 6. Why are cultural festivals important?
 
    a. They teach history.
-   b. They show diversity.  
+   b. They show diversity.
    c. They are colorful.
    d. They have yummy food.
 

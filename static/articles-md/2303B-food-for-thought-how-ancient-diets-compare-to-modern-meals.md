@@ -21,7 +21,7 @@ From catching dinner to grabbing groceries, meals look different now! But good f
 - Pottage - a thick soup with veggies, grains, beans
 - Utensils - tools used for cooking and eating like spoons
 - Cast iron - a heavy metal pan that cooks evenly
-- Porridge - a breakfast food made from grain and milk  
+- Porridge - a breakfast food made from grain and milk
 - Variety - many different types of something
 
 ## Reading Comprehension Questions
@@ -57,7 +57,7 @@ From catching dinner to grabbing groceries, meals look different now! But good f
 5. What did Stone Age people NOT use for cooking and eating?
 
    a. Fire
-   b. Sunlight  
+   b. Sunlight
    c. Pots
    d. Hands
 
@@ -72,7 +72,7 @@ From catching dinner to grabbing groceries, meals look different now! But good f
 
 1. b
 2. b
-3. d  
+3. d
 4. d
 5. c
 6. c

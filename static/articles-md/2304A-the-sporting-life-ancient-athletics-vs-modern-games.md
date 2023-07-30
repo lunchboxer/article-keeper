@@ -69,7 +69,7 @@ The Olympic spirit connects athletes and sports fans across generations. So next
 ## Answer Key
 
 1. a
-2. b  
+2. b
 3. a
 4. d
 5. c

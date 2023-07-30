@@ -21,7 +21,7 @@ Do you think graffiti should be encouraged? Or should all tagging be treated as 
 ## Glossary
 
 - vandalism - damaging or defacing property that does not belong to you
-- elaborate - carefully and skillfully done in great detail  
+- elaborate - carefully and skillfully done in great detail
 - stunning - extremely impressive or attractive
 - thought-provoking - causing you to have interesting ideas or thoughts
 
@@ -29,50 +29,50 @@ Do you think graffiti should be encouraged? Or should all tagging be treated as 
 
 1. Where did some of the earliest examples of graffiti appear?
 
-   a. In Philadelphia and New York  
+   a. In Philadelphia and New York
    b. In caves and ancient cities like Pompeii
-   c. On subway trains and city walls  
+   c. On subway trains and city walls
    d. In Europe
 
 2. What happened in the 1960s that led to a surge in modern graffiti?
 
-   a. Taggers started adding elaborate colorful styles  
-   b. Graffiti became illegal  
+   a. Taggers started adding elaborate colorful styles
+   b. Graffiti became illegal
    c. Graffiti spread to cities across the U.S. and Europe
    d. Teens started tagging subway trains and walls
 
 3. What are two ways that graffiti writers view tagging?
 
-   a. As beautiful artwork and self-expression  
+   a. As beautiful artwork and self-expression
    b. As marking territory and promoting gangs
-   c. As a competitive sport and artistic creativity  
+   c. As a competitive sport and artistic creativity
    d. As activism and vandalism
 
 4. How have some cities tried addressing issues surrounding graffiti?
 
-   a. By providing legal graffiti walls  
-   b. By hiring graffiti artists to create murals  
-   c. By making harsher laws and punishments  
+   a. By providing legal graffiti walls
+   b. By hiring graffiti artists to create murals
+   c. By making harsher laws and punishments
    d. Both A and B
 
 5. Some opponents argue graffiti should be illegal because it can _______.
 
-   a. deface signs and windows  
-   b. promote inappropriate messages  
-   c. be costly to clean up  
-   d. all of the above  
+   a. deface signs and windows
+   b. promote inappropriate messages
+   c. be costly to clean up
+   d. all of the above
 
 6. How might your view of graffiti be different if it was on your own property rather than in public spaces?
 
    a. You might appreciate it more on public property.
-   b. You might see it as artistic self-expression.  
+   b. You might see it as artistic self-expression.
    c. You might be more upset about it on your own property.
    d. Your view would likely stay the same.
 
 ## Answer Key
 
 1. b
-2. d  
+2. d
 3. c
 4. d
 5. d
