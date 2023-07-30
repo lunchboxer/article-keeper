@@ -628,5 +628,89 @@
     "id": 12,
     "title": "The Universal Language of Shapes and Symbols",
     "versions": ["A", "B"]
+  },
+  "exploring-how-your-mood-affects-what-art-you-enjoy": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 1,
+    "title": "Exploring How Your Mood Affects What Art You Enjoy",
+    "versions": ["A", "B"]
+  },
+  "how-your-culture-and-values-shape-your-view-of-art": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 2,
+    "title": "How Your Culture and Values Shape Your View of Art",
+    "versions": ["A", "B"]
+  },
+  "why-some-people-love-modern-art-and-others-hate-it": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 3,
+    "title": "Why Some People Love Modern Art and Others Hate It",
+    "versions": ["A", "B"]
+  },
+  "the-meaning-and-messages-in-surreal-art": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 4,
+    "title": "The Meaning and Messages in Surreal Art",
+    "versions": ["A", "B"]
+  },
+  "solving-the-mysteries-in-the-mona-lisa-s-face": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 5,
+    "title": "Solving the Mysteries in the Mona Lisa's Face",
+    "versions": ["A", "B"]
+  },
+  "figuring-out-the-strange-worlds-in-fantasy-art": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 6,
+    "title": "Figuring Out the Strange Worlds in Fantasy Art",
+    "versions": ["A", "B"]
+  },
+  "the-art-controversies-that-shocked-the-world": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 7,
+    "title": "The Art Controversies That Shocked the World",
+    "versions": ["A", "B"]
+  },
+  "seeing-famous-art-through-different-people-s-eyes": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 8,
+    "title": "Seeing Famous Art Through Different People's Eyes",
+    "versions": ["A", "B"]
+  },
+  "the-psychology-behind-optical-illusions-in-art": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 9,
+    "title": "The Psychology Behind Optical Illusions in Art",
+    "versions": ["A", "B"]
+  },
+  "does-scary-art-give-you-nightmares-or-inspiration": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 10,
+    "title": "Does Scary Art Give You Nightmares or Inspiration?",
+    "versions": ["A", "B"]
+  },
+  "why-experts-and-kids-often-disagree-about-art": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 11,
+    "title": "Why Experts and Kids Often Disagree About Art",
+    "versions": ["A", "B"]
+  },
+  "can-a-painting-or-sculpture-change-how-you-think": {
+    "unitNumber": 3,
+    "lineNumber": 3,
+    "id": 12,
+    "title": "Can a Painting or Sculpture Change How You Think?",
+    "versions": ["A", "B"]
   }
 }

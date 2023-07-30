@@ -610,7 +610,80 @@
         {
           "id": 3,
           "name": "Different factors influence how people interpret visual art",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "Exploring How Your Mood Affects What Art You Enjoy",
+              "slug": "exploring-how-your-mood-affects-what-art-you-enjoy"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "How Your Culture and Values Shape Your View of Art",
+              "slug": "how-your-culture-and-values-shape-your-view-of-art"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "Why Some People Love Modern Art and Others Hate It",
+              "slug": "why-some-people-love-modern-art-and-others-hate-it"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "The Meaning and Messages in Surreal Art",
+              "slug": "the-meaning-and-messages-in-surreal-art"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Solving the Mysteries in the Mona Lisa's Face",
+              "slug": "solving-the-mysteries-in-the-mona-lisa-s-face"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "Figuring Out the Strange Worlds in Fantasy Art",
+              "slug": "figuring-out-the-strange-worlds-in-fantasy-art"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "The Art Controversies That Shocked the World",
+              "slug": "the-art-controversies-that-shocked-the-world"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "Seeing Famous Art Through Different People's Eyes",
+              "slug": "seeing-famous-art-through-different-people-s-eyes"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "The Psychology Behind Optical Illusions in Art",
+              "slug": "the-psychology-behind-optical-illusions-in-art"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "Does Scary Art Give You Nightmares or Inspiration?",
+              "slug": "does-scary-art-give-you-nightmares-or-inspiration"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Why Experts and Kids Often Disagree About Art",
+              "slug": "why-experts-and-kids-often-disagree-about-art"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "Can a Painting or Sculpture Change How You Think?",
+              "slug": "can-a-painting-or-sculpture-change-how-you-think"
+            }
+          ]
         }
       ]
     },
