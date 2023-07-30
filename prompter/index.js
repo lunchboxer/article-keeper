@@ -58,7 +58,7 @@ async function parseArticleFileName(fileName) {
 }
 
 function exit() {
-  console.log('👋 Bye!')
+  console.log('👋 Bye!\n')
   process.exit()
 }
 
@@ -428,6 +428,7 @@ async function generateAnArticle() {
     return
   }
   await editArticle(undefined, unit, answersLine.line, nextNumber, 'A')
+  console.log('Now, the alternate text.')
   await editArticle(undefined, unit, answersLine.line, nextNumber, 'B')
   continuePrompt()
 }
@@ -438,7 +439,7 @@ async function editArticle(text, unit, line, articleNumber, level) {
       {
         type: 'confirm',
         name: 'copy',
-        messsage: 'Insert text from clipboard automatically?',
+        message: 'Insert text from clipboard automatically?',
         default: true,
       },
     ])

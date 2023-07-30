@@ -472,6 +472,24 @@
               "id": 3,
               "title": "Wild and Wacky Sculptures Around the World",
               "slug": "wild-and-wacky-sculptures-around-the-world"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Drawing Faces and Figures Like a Pro",
+              "slug": "drawing-faces-and-figures-like-a-pro"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "The Art of Animation: Bringing Cartoons to Life",
+              "slug": "the-art-of-animation-bringing-cartoons-to-life"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "Graffiti: Artistic Expression or Crime?",
+              "slug": "graffiti-artistic-expression-or-crime"
             }
           ]
         },

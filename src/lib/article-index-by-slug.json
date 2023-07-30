@@ -481,5 +481,26 @@
     "id": 3,
     "title": "Wild and Wacky Sculptures Around the World",
     "versions": ["A", "B"]
+  },
+  "drawing-faces-and-figures-like-a-pro": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 4,
+    "title": "Drawing Faces and Figures Like a Pro",
+    "versions": ["A", "B"]
+  },
+  "the-art-of-animation-bringing-cartoons-to-life": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 5,
+    "title": "The Art of Animation: Bringing Cartoons to Life",
+    "versions": ["A", "B"]
+  },
+  "graffiti-artistic-expression-or-crime": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 6,
+    "title": "Graffiti: Artistic Expression or Crime?",
+    "versions": ["A", "B"]
   }
 }
