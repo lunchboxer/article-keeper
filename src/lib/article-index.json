@@ -381,6 +381,30 @@
               "id": 2,
               "title": "Dress for success: Fashions and clothing over time",
               "slug": "dress-for-success-fashions-and-clothing-over-time"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "Food for thought: How ancient diets compare to modern meals",
+              "slug": "food-for-thought-how-ancient-diets-compare-to-modern-meals"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "The sporting life: Ancient athletics vs. modern games",
+              "slug": "the-sporting-life-ancient-athletics-vs-modern-games"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Work and play: Jobs and hobbies long ago and today",
+              "slug": "work-and-play-jobs-and-hobbies-long-ago-and-today"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "Ruling the Roost: Comparing Ancient Rulers to Modern Leaders",
+              "slug": "ruling-the-roost-comparing-ancient-rulers-to-modern-leaders"
             }
           ]
         }

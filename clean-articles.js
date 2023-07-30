@@ -34,19 +34,13 @@ function eliminateSpacesBetweenAnswerKeyItems(text) {
   return cleanedLines.join('\n')
 }
 
-function fixWrongLevelHeadings(text) {
-  let newText = text.replaceAll('# Glossary', '## Glossary')
-  newText = newText.replaceAll('### Glossary', '## Glossary')
-  newText = newText.replaceAll(
-    '# Reading Comprehension Questions',
-    '## Reading Comprehension Questions',
-  )
-  newText = newText.replaceAll(
-    '### Reading Comprehension Questions',
-    '## Reading Comprehension Questions',
-  )
-  newText = newText.replaceAll('# Answer Key', '## Answer Key')
-  return newText.replaceAll('### Answer Key', '## Answer Key')
+function fixThirdLevelHeadings(text) {
+  return text.replaceAll('### Glossary', '## Glossary')
+    .replaceAll(
+      '### Reading Comprehension Questions',
+      '## Reading Comprehension Questions',
+    )
+    .replaceAll('### Answer Key', '## Answer Key')
 }
 
 // replace '- A. dog' with 'A. dog'
@@ -91,8 +85,9 @@ function replaceWhitespace(line) {
 function lowercaseAnswersInAnswerKey(text) {
   const lines = text.split('\n')
   const AnswerKeyHeadingIndex = lines.findIndex((line) =>
-    line.startsWith('## Answer Key'),
+    line.includes('Answer Key'),
   )
+  if (!AnswerKeyHeadingIndex) return text
   const cleanedLines = lines.map((line, index) => {
     if (index > AnswerKeyHeadingIndex + 1 && line) {
       return line.toLowerCase()
@@ -136,7 +131,7 @@ for (const article of articles) {
   cleanText = noLIanswers(cleanText)
   cleanText = lowercaseAnswerLabels(cleanText)
   cleanText = removeExtraBlankLinesBetweenAnswers(cleanText)
-  cleanText = fixWrongLevelHeadings(cleanText)
+  cleanText = fixThirdLevelHeadings(cleanText)
   cleanText = cleanText
     .split('\n')
     .map((line) => replaceWhitespace(line))
