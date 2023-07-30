@@ -502,5 +502,47 @@
     "id": 6,
     "title": "Graffiti: Artistic Expression or Crime?",
     "versions": ["A", "B"]
+  },
+  "weird-and-wonderful-art-supplies-you-ve-never-heard-of": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 7,
+    "title": "Weird and Wonderful Art Supplies You've Never Heard Of",
+    "versions": ["A", "B"]
+  },
+  "the-magic-of-mixing-paint-colors": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 8,
+    "title": "The Magic of Mixing Paint Colors",
+    "versions": ["A", "B"]
+  },
+  "super-silly-doodles-how-to-draw-funny-faces": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 9,
+    "title": "Super Silly Doodles: How to Draw Funny Faces",
+    "versions": ["A", "B"]
+  },
+  "the-pattern-and-rhythm-of-tiles-and-textiles": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 10,
+    "title": "The Pattern and Rhythm of Tiles and Textiles",
+    "versions": ["A", "B"]
+  },
+  "strange-and-surprising-art-made-from-junk": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 11,
+    "title": "Strange and Surprising Art Made from Junk",
+    "versions": ["A", "B"]
+  },
+  "cool-clay-creations-making-pots-sculptures-and-more": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 12,
+    "title": "Cool Clay Creations: Making Pots, Sculptures and More",
+    "versions": ["A", "B"]
   }
 }

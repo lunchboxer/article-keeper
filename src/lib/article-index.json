@@ -490,6 +490,42 @@
               "id": 6,
               "title": "Graffiti: Artistic Expression or Crime?",
               "slug": "graffiti-artistic-expression-or-crime"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "Weird and Wonderful Art Supplies You've Never Heard Of",
+              "slug": "weird-and-wonderful-art-supplies-you-ve-never-heard-of"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "The Magic of Mixing Paint Colors",
+              "slug": "the-magic-of-mixing-paint-colors"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "Super Silly Doodles: How to Draw Funny Faces",
+              "slug": "super-silly-doodles-how-to-draw-funny-faces"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "The Pattern and Rhythm of Tiles and Textiles",
+              "slug": "the-pattern-and-rhythm-of-tiles-and-textiles"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Strange and Surprising Art Made from Junk",
+              "slug": "strange-and-surprising-art-made-from-junk"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "Cool Clay Creations: Making Pots, Sculptures and More",
+              "slug": "cool-clay-creations-making-pots-sculptures-and-more"
             }
           ]
         },

@@ -100,7 +100,7 @@ function lowercaseAnswersInAnswerKey(text) {
 
 // replace A. with a.
 function lowercaseAnswerLabels(string_) {
-  return string_.replaceAll(/^\s*[A-D]\./gm, function(match) {
+  return string_.replaceAll(/^\s*[A-D]\./gm, function (match) {
     return match.toLowerCase()
   })
 }
@@ -116,7 +116,10 @@ function deleteBeforeFirstHeading(markdownText) {
 }
 
 function removeExtraWhitespaceAtEnds(text) {
-  return text.split('\n').map(line => line.trimEnd()).join('\n')
+  return text
+    .split('\n')
+    .map((line) => line.trimEnd())
+    .join('\n')
 }
 
 function removeExtraBlankLinesBetweenAnswers(text) {
