@@ -411,6 +411,18 @@
               "id": 7,
               "title": "Gladiators and warriors: Ancient and modern fighting forces",
               "slug": "gladiators-and-warriors-ancient-and-modern-fighting-forces"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "Gods and goddesses then and now: Religion over time",
+              "slug": "gods-and-goddesses-then-and-now-religion-over-time"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "Mad Medicine: Ancient Remedies and Modern Healthcare",
+              "slug": "mad-medicine-ancient-remedies-and-modern-healthcare"
             }
           ]
         }

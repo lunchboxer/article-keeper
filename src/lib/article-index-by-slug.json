@@ -425,5 +425,19 @@
     "id": 7,
     "title": "Gladiators and warriors: Ancient and modern fighting forces",
     "versions": ["A", "B"]
+  },
+  "gods-and-goddesses-then-and-now-religion-over-time": {
+    "unitNumber": 2,
+    "lineNumber": 3,
+    "id": 8,
+    "title": "Gods and goddesses then and now: Religion over time",
+    "versions": ["A", "B"]
+  },
+  "mad-medicine-ancient-remedies-and-modern-healthcare": {
+    "unitNumber": 2,
+    "lineNumber": 3,
+    "id": 9,
+    "title": "Mad Medicine: Ancient Remedies and Modern Healthcare",
+    "versions": ["A", "B"]
   }
 }
