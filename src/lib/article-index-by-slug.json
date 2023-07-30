@@ -418,5 +418,12 @@
     "id": 6,
     "title": "Ruling the Roost: Comparing Ancient Rulers to Modern Leaders",
     "versions": ["A", "B"]
+  },
+  "gladiators-and-warriors-ancient-and-modern-fighting-forces": {
+    "unitNumber": 2,
+    "lineNumber": 3,
+    "id": 7,
+    "title": "Gladiators and warriors: Ancient and modern fighting forces",
+    "versions": ["A", "B"]
   }
 }

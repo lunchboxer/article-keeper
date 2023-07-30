@@ -405,6 +405,12 @@
               "id": 6,
               "title": "Ruling the Roost: Comparing Ancient Rulers to Modern Leaders",
               "slug": "ruling-the-roost-comparing-ancient-rulers-to-modern-leaders"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "Gladiators and warriors: Ancient and modern fighting forces",
+              "slug": "gladiators-and-warriors-ancient-and-modern-fighting-forces"
             }
           ]
         }
