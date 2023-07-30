@@ -423,6 +423,18 @@
               "id": 9,
               "title": "Mad Medicine: Ancient Remedies and Modern Healthcare",
               "slug": "mad-medicine-ancient-remedies-and-modern-healthcare"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "Kids' life long ago: How children lived in ancient times",
+              "slug": "kids-life-long-ago-how-children-lived-in-ancient-times"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Wild and wonderful animals: Ancient vs. modern relationships with animals",
+              "slug": "wild-and-wonderful-animals-ancient-vs-modern-relationships-with-animals"
             }
           ]
         }
