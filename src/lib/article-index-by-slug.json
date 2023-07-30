@@ -544,5 +544,89 @@
     "id": 12,
     "title": "Cool Clay Creations: Making Pots, Sculptures and More",
     "versions": ["A", "B"]
+  },
+  "drawing-your-emotions-art-as-therapy": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 1,
+    "title": "Drawing Your Emotions: Art as Therapy",
+    "versions": ["A", "B"]
+  },
+  "sending-secret-messages-through-art": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 2,
+    "title": "Sending Secret Messages Through Art",
+    "versions": ["A", "B"]
+  },
+  "the-power-of-protest-art-throughout-history": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 3,
+    "title": "The Power of Protest Art Throughout History",
+    "versions": ["A", "B"]
+  },
+  "telling-your-family-s-story-through-photos-and-art": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 4,
+    "title": "Telling Your Family's Story Through Photos and Art",
+    "versions": ["A", "B"]
+  },
+  "art-that-speaks-up-for-people-and-the-planet": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 5,
+    "title": "Art That Speaks Up for People and the Planet",
+    "versions": ["A", "B"]
+  },
+  "how-emojis-are-a-modern-form-of-communication": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 6,
+    "title": "How Emojis are a Modern Form of Communication",
+    "versions": ["A", "B"]
+  },
+  "incredible-works-of-art-made-collaboratively": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 7,
+    "title": "Incredible Works of Art Made Collaboratively",
+    "versions": ["A", "B"]
+  },
+  "music-and-dance-as-ways-to-connect-with-others": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 8,
+    "title": "Music and Dance as Ways to Connect with Others",
+    "versions": ["A", "B"]
+  },
+  "making-art-as-an-act-of-kindness-and-connection": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 9,
+    "title": "Making Art as an Act of Kindness and Connection",
+    "versions": ["A", "B"]
+  },
+  "using-your-creativity-to-make-the-world-a-better-place": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 10,
+    "title": "Using Your Creativity to Make the World a Better Place",
+    "versions": ["A", "B"]
+  },
+  "how-artists-have-united-people-and-cultures": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 11,
+    "title": "How Artists Have United People and Cultures",
+    "versions": ["A", "B"]
+  },
+  "the-universal-language-of-shapes-and-symbols": {
+    "unitNumber": 3,
+    "lineNumber": 2,
+    "id": 12,
+    "title": "The Universal Language of Shapes and Symbols",
+    "versions": ["A", "B"]
   }
 }

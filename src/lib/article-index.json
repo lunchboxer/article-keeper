@@ -532,7 +532,80 @@
         {
           "id": 2,
           "name": "A universal language by which we can communicate",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "Drawing Your Emotions: Art as Therapy",
+              "slug": "drawing-your-emotions-art-as-therapy"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "Sending Secret Messages Through Art",
+              "slug": "sending-secret-messages-through-art"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "The Power of Protest Art Throughout History",
+              "slug": "the-power-of-protest-art-throughout-history"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Telling Your Family's Story Through Photos and Art",
+              "slug": "telling-your-family-s-story-through-photos-and-art"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Art That Speaks Up for People and the Planet",
+              "slug": "art-that-speaks-up-for-people-and-the-planet"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "How Emojis are a Modern Form of Communication",
+              "slug": "how-emojis-are-a-modern-form-of-communication"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "Incredible Works of Art Made Collaboratively",
+              "slug": "incredible-works-of-art-made-collaboratively"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "Music and Dance as Ways to Connect with Others",
+              "slug": "music-and-dance-as-ways-to-connect-with-others"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "Making Art as an Act of Kindness and Connection",
+              "slug": "making-art-as-an-act-of-kindness-and-connection"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "Using Your Creativity to Make the World a Better Place",
+              "slug": "using-your-creativity-to-make-the-world-a-better-place"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "How Artists Have United People and Cultures",
+              "slug": "how-artists-have-united-people-and-cultures"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "The Universal Language of Shapes and Symbols",
+              "slug": "the-universal-language-of-shapes-and-symbols"
+            }
+          ]
         },
         {
           "id": 3,
