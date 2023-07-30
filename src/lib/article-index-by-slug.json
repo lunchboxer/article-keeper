@@ -467,5 +467,19 @@
     "id": 1,
     "title": "The Secret Codes of Shape and Color in Famous Paintings",
     "versions": ["A", "B"]
+  },
+  "crazy-optical-illusions-and-how-artists-create-them": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 2,
+    "title": "Crazy Optical Illusions and How Artists Create Them",
+    "versions": ["A", "B"]
+  },
+  "wild-and-wacky-sculptures-around-the-world": {
+    "unitNumber": 3,
+    "lineNumber": 1,
+    "id": 3,
+    "title": "Wild and Wacky Sculptures Around the World",
+    "versions": ["A", "B"]
   }
 }
