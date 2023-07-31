@@ -851,7 +851,80 @@
         {
           "id": 3,
           "name": "Impact of magnetism and electricity on everyday life",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "How magnets are used in unexpected everyday objects",
+              "slug": "how-magnets-are-used-in-unexpected-everyday-objects"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "The hidden science behind smartphones and tablets",
+              "slug": "the-hidden-science-behind-smartphones-and-tablets"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "Wild and Wacky Electric Inventions Through History",
+              "slug": "wild-and-wacky-electric-inventions-through-history"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Robots and Magnets: How They Work Together",
+              "slug": "robots-and-magnets-how-they-work-together"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Amusement Park Rides Powered by Electricity and Magnetism",
+              "slug": "amusement-park-rides-powered-by-electricity-and-magnetism"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "Strange Tales of Lightning Strikes and Their Effects",
+              "slug": "strange-tales-of-lightning-strikes-and-their-effects"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "How Electrical Substations and Transformers Work",
+              "slug": "how-electrical-substations-and-transformers-work"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "The role of electromagnets in industry",
+              "slug": "the-role-of-electromagnets-in-industry"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "Secret codes: How encryption keeps data safe online",
+              "slug": "secret-codes-how-encryption-keeps-data-safe-online"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "Maglev Trains: Floating on Magnets at Incredible Speeds",
+              "slug": "maglev-trains-floating-on-magnets-at-incredible-speeds"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "How MRI Machines Use Magnets to See Inside Your Body",
+              "slug": "how-mri-machines-use-magnets-to-see-inside-your-body"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "The future of electricity and magnetism: Emerging technologies",
+              "slug": "the-future-of-electricity-and-magnetism-emerging-technologies"
+            }
+          ]
         }
       ]
     },
