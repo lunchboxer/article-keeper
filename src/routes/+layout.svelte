@@ -15,7 +15,7 @@
   <slot />
 </div>
 
-  <Footer />
+<Footer />
 
 <style>
   .container {
@@ -24,10 +24,10 @@
     padding: 2rem;
   }
   @media print {
-  .container {
-    margin: 0;
-    padding: 0;
-    max-width: unset !important;
-  }
+    .container {
+      margin: 0;
+      padding: 0;
+      max-width: unset !important;
     }
+  }
 </style>

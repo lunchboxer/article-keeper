@@ -1,10 +1,10 @@
 <h1>Article-a-day</h1>
 <p class="subtitle">
-  Improving background knowledge, vocabulary and reading stamina before first
-  period!
+  <em>
+    Improving background knowledge, vocabulary and reading stamina before first
+    period!
+  </em>
 </p>
-
-<br />
 
 <h2>About</h2>
 <p>
