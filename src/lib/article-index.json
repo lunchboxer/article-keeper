@@ -695,7 +695,80 @@
         {
           "id": 1,
           "name": "The origins of magnetism and electricity",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "The shocking history of static electricity discoveries",
+              "slug": "the-shocking-history-of-static-electricity-discoveries"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "Benjamin Franklin's dangerous kite experiment",
+              "slug": "benjamin-franklin-s-dangerous-kite-experiment"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "How lodestones were used as compasses centuries ago",
+              "slug": "how-lodestones-were-used-as-compasses-centuries-ago"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "The Magnetic Field of the Earth Explained",
+              "slug": "the-magnetic-field-of-the-earth-explained"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Electric eels: Nature's shocking creatures",
+              "slug": "electric-eels-nature-s-shocking-creatures"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "Lightning: A natural electric phenomenon",
+              "slug": "lightning-a-natural-electric-phenomenon"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "How early batteries worked to store electricity",
+              "slug": "how-early-batteries-worked-to-store-electricity"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "Strange tales of magnetism and electricity in ancient times",
+              "slug": "strange-tales-of-magnetism-and-electricity-in-ancient-times"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "The science behind magnets attracting and repelling",
+              "slug": "the-science-behind-magnets-attracting-and-repelling"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "Discover how magnetic north and south poles work",
+              "slug": "discover-how-magnetic-north-and-south-poles-work"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Early experiments with electricity: Sparks and shocks",
+              "slug": "early-experiments-with-electricity-sparks-and-shocks"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "Wild facts about electric and magnetic fields",
+              "slug": "wild-facts-about-electric-and-magnetic-fields"
+            }
+          ]
         },
         {
           "id": 2,

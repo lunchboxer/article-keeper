@@ -712,5 +712,89 @@
     "id": 12,
     "title": "Can a Painting or Sculpture Change How You Think?",
     "versions": ["A", "B"]
+  },
+  "the-shocking-history-of-static-electricity-discoveries": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 1,
+    "title": "The shocking history of static electricity discoveries",
+    "versions": ["A", "B"]
+  },
+  "benjamin-franklin-s-dangerous-kite-experiment": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 2,
+    "title": "Benjamin Franklin's dangerous kite experiment",
+    "versions": ["A", "B"]
+  },
+  "how-lodestones-were-used-as-compasses-centuries-ago": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 3,
+    "title": "How lodestones were used as compasses centuries ago",
+    "versions": ["A", "B"]
+  },
+  "the-magnetic-field-of-the-earth-explained": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 4,
+    "title": "The Magnetic Field of the Earth Explained",
+    "versions": ["A", "B"]
+  },
+  "electric-eels-nature-s-shocking-creatures": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 5,
+    "title": "Electric eels: Nature's shocking creatures",
+    "versions": ["A", "B"]
+  },
+  "lightning-a-natural-electric-phenomenon": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 6,
+    "title": "Lightning: A natural electric phenomenon",
+    "versions": ["A", "B"]
+  },
+  "how-early-batteries-worked-to-store-electricity": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 7,
+    "title": "How early batteries worked to store electricity",
+    "versions": ["A", "B"]
+  },
+  "strange-tales-of-magnetism-and-electricity-in-ancient-times": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 8,
+    "title": "Strange tales of magnetism and electricity in ancient times",
+    "versions": ["A", "B"]
+  },
+  "the-science-behind-magnets-attracting-and-repelling": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 9,
+    "title": "The science behind magnets attracting and repelling",
+    "versions": ["A", "B"]
+  },
+  "discover-how-magnetic-north-and-south-poles-work": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 10,
+    "title": "Discover how magnetic north and south poles work",
+    "versions": ["A", "B"]
+  },
+  "early-experiments-with-electricity-sparks-and-shocks": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 11,
+    "title": "Early experiments with electricity: Sparks and shocks",
+    "versions": ["A", "B"]
+  },
+  "wild-facts-about-electric-and-magnetic-fields": {
+    "unitNumber": 4,
+    "lineNumber": 1,
+    "id": 12,
+    "title": "Wild facts about electric and magnetic fields",
+    "versions": ["A", "B"]
   }
 }
