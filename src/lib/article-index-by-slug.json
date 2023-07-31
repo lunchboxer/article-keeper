@@ -796,5 +796,89 @@
     "id": 12,
     "title": "Wild facts about electric and magnetic fields",
     "versions": ["A", "B"]
+  },
+  "how-solar-power-captures-energy-from-the-sun": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 1,
+    "title": "How Solar Power Captures Energy From The Sun",
+    "versions": ["A", "B"]
+  },
+  "wind-turbine-farms-harnessing-wind-energy": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 2,
+    "title": "Wind Turbine Farms: Harnessing Wind Energy",
+    "versions": ["A", "B"]
+  },
+  "hydro-electric-dams-generating-power-from-water": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 3,
+    "title": "Hydro-electric dams: Generating power from water",
+    "versions": ["A", "B"]
+  },
+  "geothermal-energy-using-earth-s-underground-heat": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 4,
+    "title": "Geothermal energy: Using Earth's underground heat",
+    "versions": ["A", "B"]
+  },
+  "wacky-wave-power-capturing-ocean-energy": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 5,
+    "title": "Wacky wave power: Capturing ocean energy",
+    "versions": ["A", "B"]
+  },
+  "biomass-how-plant-and-animal-waste-can-produce-energy": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 6,
+    "title": "Biomass: How plant and animal waste can produce energy",
+    "versions": ["A", "B"]
+  },
+  "fuel-cells-the-future-of-clean-energy": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 7,
+    "title": "Fuel Cells: The Future of Clean Energy?",
+    "versions": ["A", "B"]
+  },
+  "batteries-portable-power-storage-with-chemicals": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 8,
+    "title": "Batteries: Portable Power Storage with Chemicals",
+    "versions": ["A", "B"]
+  },
+  "wireless-charging-electricity-transmitted-invisibly": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 9,
+    "title": "Wireless charging: Electricity transmitted invisibly",
+    "versions": ["A", "B"]
+  },
+  "how-power-grids-connect-us-to-electricity": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 10,
+    "title": "How Power Grids Connect Us to Electricity",
+    "versions": ["A", "B"]
+  },
+  "strange-sources-of-renewable-energy": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 11,
+    "title": "Strange sources of renewable energy",
+    "versions": ["A", "B"]
+  },
+  "the-quest-for-nuclear-fusion-a-new-energy-source": {
+    "unitNumber": 4,
+    "lineNumber": 2,
+    "id": 12,
+    "title": "The quest for nuclear fusion: A new energy source",
+    "versions": ["A", "B"]
   }
 }
