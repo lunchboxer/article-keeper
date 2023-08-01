@@ -1048,5 +1048,89 @@
     "id": 12,
     "title": "The Role of Parks in Bringing Communities Together",
     "versions": ["A", "B"]
+  },
+  "teamwork-takes-flight-how-the-wright-brothers-invented-the-airplane-together": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 1,
+    "title": "Teamwork Takes Flight: How the Wright Brothers Invented the Airplane Together",
+    "versions": ["A", "B"]
+  },
+  "peanut-butter-and-jelly-the-delicious-history-of-a-collaborative-combo": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 2,
+    "title": "Peanut Butter and Jelly: The Delicious History of a Collaborative Combo",
+    "versions": ["A", "B"]
+  },
+  "inventing-the-light-bulb-thomas-edison-s-team-of-minds": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 3,
+    "title": "Inventing the Light Bulb: Thomas Edison's Team of Minds",
+    "versions": ["A", "B"]
+  },
+  "cooking-up-ideas-famous-chef-partnerships-that-changed-the-culinary-world": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 4,
+    "title": "Cooking Up Ideas: Famous Chef Partnerships That Changed the Culinary World",
+    "versions": ["A", "B"]
+  },
+  "dynamic-duos-famous-creative-partnerships-that-produced-magic": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 5,
+    "title": "Dynamic Duos: Famous Creative Partnerships That Produced Magic",
+    "versions": ["A", "B"]
+  },
+  "the-friendship-that-built-the-brooklyn-bridge-the-roeblings-engineering-feat": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 6,
+    "title": "The Friendship That Built the Brooklyn Bridge: The Roeblings' Engineering Feat",
+    "versions": ["A", "B"]
+  },
+  "partners-in-rhyme-the-collaborations-of-famous-songwriting-duos": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 7,
+    "title": "Partners in Rhyme: The Collaborations of Famous Songwriting Duos",
+    "versions": ["A", "B"]
+  },
+  "team-sports-through-the-ages-how-collaboration-created-favorite-games": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 8,
+    "title": "Team Sports Through the Ages: How Collaboration Created Favorite Games",
+    "versions": ["A", "B"]
+  },
+  "polar-opposites-who-attract-famous-friends-with-surprising-connections": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 9,
+    "title": "Polar Opposites Who Attract: Famous Friends with Surprising Connections",
+    "versions": ["A", "B"]
+  },
+  "the-invention-of-the-telescope-how-collaboration-led-to-discovery": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 10,
+    "title": "The Invention of the Telescope: How Collaboration Led to Discovery",
+    "versions": ["A", "B"]
+  },
+  "poor-richard-s-almanack-ben-franklin-s-collaboration-with-friends": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 11,
+    "title": "Poor Richard's Almanack: Ben Franklin's Collaboration with Friends",
+    "versions": ["A", "B"]
+  },
+  "when-composers-and-librettists-create-together-the-making-of-operas": {
+    "unitNumber": 5,
+    "lineNumber": 2,
+    "id": 12,
+    "title": "When Composers and Librettists Create Together: The Making of Operas",
+    "versions": ["A", "B"]
   }
 }

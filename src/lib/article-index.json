@@ -1014,7 +1014,80 @@
         {
           "id": 2,
           "name": "The importance of collaboration",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "Teamwork Takes Flight: How the Wright Brothers Invented the Airplane Together",
+              "slug": "teamwork-takes-flight-how-the-wright-brothers-invented-the-airplane-together"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "Peanut Butter and Jelly: The Delicious History of a Collaborative Combo",
+              "slug": "peanut-butter-and-jelly-the-delicious-history-of-a-collaborative-combo"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "Inventing the Light Bulb: Thomas Edison's Team of Minds",
+              "slug": "inventing-the-light-bulb-thomas-edison-s-team-of-minds"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Cooking Up Ideas: Famous Chef Partnerships That Changed the Culinary World",
+              "slug": "cooking-up-ideas-famous-chef-partnerships-that-changed-the-culinary-world"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Dynamic Duos: Famous Creative Partnerships That Produced Magic",
+              "slug": "dynamic-duos-famous-creative-partnerships-that-produced-magic"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "The Friendship That Built the Brooklyn Bridge: The Roeblings' Engineering Feat",
+              "slug": "the-friendship-that-built-the-brooklyn-bridge-the-roeblings-engineering-feat"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "Partners in Rhyme: The Collaborations of Famous Songwriting Duos",
+              "slug": "partners-in-rhyme-the-collaborations-of-famous-songwriting-duos"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "Team Sports Through the Ages: How Collaboration Created Favorite Games",
+              "slug": "team-sports-through-the-ages-how-collaboration-created-favorite-games"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "Polar Opposites Who Attract: Famous Friends with Surprising Connections",
+              "slug": "polar-opposites-who-attract-famous-friends-with-surprising-connections"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "The Invention of the Telescope: How Collaboration Led to Discovery",
+              "slug": "the-invention-of-the-telescope-how-collaboration-led-to-discovery"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Poor Richard's Almanack: Ben Franklin's Collaboration with Friends",
+              "slug": "poor-richard-s-almanack-ben-franklin-s-collaboration-with-friends"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "When Composers and Librettists Create Together: The Making of Operas",
+              "slug": "when-composers-and-librettists-create-together-the-making-of-operas"
+            }
+          ]
         },
         {
           "id": 3,
