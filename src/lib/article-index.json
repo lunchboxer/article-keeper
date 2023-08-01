@@ -1092,7 +1092,44 @@
         {
           "id": 3,
           "name": "How organizations develop successfully",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "The Humble Origins of McDonald's: How the Fast Food Giant Got Its Start",
+              "slug": "the-humble-origins-of-mcdonald-s-how-the-fast-food-giant-got-its-start"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "Building a Strong Team: Why Organizations Need Collaboration",
+              "slug": "building-a-strong-team-why-organizations-need-collaboration"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "Doing Market Research: How Organizations Learn What Communities Need",
+              "slug": "doing-market-research-how-organizations-learn-what-communities-need"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Walt Disney's First Drawings: How Mickey Mouse and Friends Were Born",
+              "slug": "walt-disney-s-first-drawings-how-mickey-mouse-and-friends-were-born"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "From Roadside Shop to Retail Giant: The Rise of 7-Eleven",
+              "slug": "from-roadside-shop-to-retail-giant-the-rise-of-7-eleven"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "How the First Public Libraries Got Their Start: Sharing Knowledge with All",
+              "slug": "how-the-first-public-libraries-got-their-start-sharing-knowledge-with-all"
+            }
+          ]
         }
       ]
     },

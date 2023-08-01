@@ -1132,5 +1132,47 @@
     "id": 12,
     "title": "When Composers and Librettists Create Together: The Making of Operas",
     "versions": ["A", "B"]
+  },
+  "the-humble-origins-of-mcdonald-s-how-the-fast-food-giant-got-its-start": {
+    "unitNumber": 5,
+    "lineNumber": 3,
+    "id": 1,
+    "title": "The Humble Origins of McDonald's: How the Fast Food Giant Got Its Start",
+    "versions": ["A", "B"]
+  },
+  "building-a-strong-team-why-organizations-need-collaboration": {
+    "unitNumber": 5,
+    "lineNumber": 3,
+    "id": 2,
+    "title": "Building a Strong Team: Why Organizations Need Collaboration",
+    "versions": ["A", "B"]
+  },
+  "doing-market-research-how-organizations-learn-what-communities-need": {
+    "unitNumber": 5,
+    "lineNumber": 3,
+    "id": 3,
+    "title": "Doing Market Research: How Organizations Learn What Communities Need",
+    "versions": ["A", "B"]
+  },
+  "walt-disney-s-first-drawings-how-mickey-mouse-and-friends-were-born": {
+    "unitNumber": 5,
+    "lineNumber": 3,
+    "id": 4,
+    "title": "Walt Disney's First Drawings: How Mickey Mouse and Friends Were Born",
+    "versions": ["A", "B"]
+  },
+  "from-roadside-shop-to-retail-giant-the-rise-of-7-eleven": {
+    "unitNumber": 5,
+    "lineNumber": 3,
+    "id": 5,
+    "title": "From Roadside Shop to Retail Giant: The Rise of 7-Eleven",
+    "versions": ["A", "B"]
+  },
+  "how-the-first-public-libraries-got-their-start-sharing-knowledge-with-all": {
+    "unitNumber": 5,
+    "lineNumber": 3,
+    "id": 6,
+    "title": "How the First Public Libraries Got Their Start: Sharing Knowledge with All",
+    "versions": ["A", "B"]
   }
 }
