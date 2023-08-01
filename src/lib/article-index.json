@@ -936,7 +936,80 @@
         {
           "id": 1,
           "name": "The needs and wants of communities",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "What Makes a Community? Defining Shared Places and Values",
+              "slug": "what-makes-a-community-defining-shared-places-and-values"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "Neighborhood Watch: How Communities Keep Each Other Safe",
+              "slug": "neighborhood-watch-how-communities-keep-each-other-safe"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "The Quest for Clean Water: A Community's Most Vital Resource",
+              "slug": "the-quest-for-clean-water-a-community-s-most-vital-resource"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Power to the People: How Electricity Transformed Communities",
+              "slug": "power-to-the-people-how-electricity-transformed-communities"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "From Town Criers to Twitter: The Evolution of Community Communications",
+              "slug": "from-town-criers-to-twitter-the-evolution-of-community-communications"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "The Community Garden: How Neighbors Work Together to Grow Food",
+              "slug": "the-community-garden-how-neighbors-work-together-to-grow-food"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "The Rise of Public Transportation: Connecting Communities",
+              "slug": "the-rise-of-public-transportation-connecting-communities"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "The Public Library: A Community Hub for Learning and Leisure",
+              "slug": "the-public-library-a-community-hub-for-learning-and-leisure"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "The Evolution of Community Centered Shopping Malls",
+              "slug": "the-evolution-of-community-centered-shopping-malls"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "The Community Pool: More Than Just Swimming Lessons",
+              "slug": "the-community-pool-more-than-just-swimming-lessons"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "The Habitat for Humanity Mission: Building Homes and Communities",
+              "slug": "the-habitat-for-humanity-mission-building-homes-and-communities"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "The Role of Parks in Bringing Communities Together",
+              "slug": "the-role-of-parks-in-bringing-communities-together"
+            }
+          ]
         },
         {
           "id": 2,
