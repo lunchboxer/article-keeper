@@ -1237,5 +1237,12 @@
     "id": 1,
     "title": "The Great Pacific Garbage Patch - How plastic trash swirls in a huge ocean vortex",
     "versions": ["A", "B"]
+  },
+  "vanishing-rainforests-exploring-why-the-lungs-of-the-planet-are-disappearing": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 2,
+    "title": "Vanishing Rainforests - Exploring why the lungs of the planet are disappearing",
+    "versions": ["A", "B"]
   }
 }
