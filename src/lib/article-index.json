@@ -1267,7 +1267,80 @@
         {
           "id": 2,
           "name": "How individuals and groups have created positive change",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "Youth Activists - Kids making a difference in the world",
+              "slug": "youth-activists-kids-making-a-difference-in-the-world"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "Charities - Organizations tackling global issues",
+              "slug": "charities-organizations-tackling-global-issues"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "Social Entrepreneurs - Businesses seeking solutions through commerce",
+              "slug": "social-entrepreneurs-businesses-seeking-solutions-through-commerce"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Forward-thinking Leaders - Pioneers of progress throughout history",
+              "slug": "forward-thinking-leaders-pioneers-of-progress-throughout-history"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Grassroots Movements - Regular people banding together to create change",
+              "slug": "grassroots-movements-regular-people-banding-together-to-create-change"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "Innovators and Inventions - New ideas and technologies that shape the world",
+              "slug": "innovators-and-inventions-new-ideas-and-technologies-that-shape-the-world"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "Revolutions - When Ordinary Citizens Stood Up to Power and Transformed Society",
+              "slug": "revolutions-when-ordinary-citizens-stood-up-to-power-and-transformed-society"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "Conservationists - People dedicated to protecting animals and nature",
+              "slug": "conservationists-people-dedicated-to-protecting-animals-and-nature"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "Doctors Without Borders - Brave medical workers helping in crisis zones",
+              "slug": "doctors-without-borders-brave-medical-workers-helping-in-crisis-zones"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "International Aid - Countries assisting each other in times of need",
+              "slug": "international-aid-countries-assisting-each-other-in-times-of-need"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Boycotts - Using purchasing power to protest injustice",
+              "slug": "boycotts-using-purchasing-power-to-protest-injustice"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "Whistleblowers - Exposing wrongdoing at great risk",
+              "slug": "whistleblowers-exposing-wrongdoing-at-great-risk"
+            }
+          ]
         },
         {
           "id": 3,

@@ -1314,5 +1314,89 @@
     "id": 12,
     "title": "Natural Disasters - Causes and effects of catastrophic earth events",
     "versions": ["A", "B"]
+  },
+  "youth-activists-kids-making-a-difference-in-the-world": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 1,
+    "title": "Youth Activists - Kids making a difference in the world",
+    "versions": ["A", "B"]
+  },
+  "charities-organizations-tackling-global-issues": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 2,
+    "title": "Charities - Organizations tackling global issues",
+    "versions": ["A", "B"]
+  },
+  "social-entrepreneurs-businesses-seeking-solutions-through-commerce": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 3,
+    "title": "Social Entrepreneurs - Businesses seeking solutions through commerce",
+    "versions": ["A", "B"]
+  },
+  "forward-thinking-leaders-pioneers-of-progress-throughout-history": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 4,
+    "title": "Forward-thinking Leaders - Pioneers of progress throughout history",
+    "versions": ["A", "B"]
+  },
+  "grassroots-movements-regular-people-banding-together-to-create-change": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 5,
+    "title": "Grassroots Movements - Regular people banding together to create change",
+    "versions": ["A", "B"]
+  },
+  "innovators-and-inventions-new-ideas-and-technologies-that-shape-the-world": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 6,
+    "title": "Innovators and Inventions - New ideas and technologies that shape the world",
+    "versions": ["A", "B"]
+  },
+  "revolutions-when-ordinary-citizens-stood-up-to-power-and-transformed-society": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 7,
+    "title": "Revolutions - When Ordinary Citizens Stood Up to Power and Transformed Society",
+    "versions": ["A", "B"]
+  },
+  "conservationists-people-dedicated-to-protecting-animals-and-nature": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 8,
+    "title": "Conservationists - People dedicated to protecting animals and nature",
+    "versions": ["A", "B"]
+  },
+  "doctors-without-borders-brave-medical-workers-helping-in-crisis-zones": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 9,
+    "title": "Doctors Without Borders - Brave medical workers helping in crisis zones",
+    "versions": ["A", "B"]
+  },
+  "international-aid-countries-assisting-each-other-in-times-of-need": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 10,
+    "title": "International Aid - Countries assisting each other in times of need",
+    "versions": ["A", "B"]
+  },
+  "boycotts-using-purchasing-power-to-protest-injustice": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 11,
+    "title": "Boycotts - Using purchasing power to protest injustice",
+    "versions": ["A", "B"]
+  },
+  "whistleblowers-exposing-wrongdoing-at-great-risk": {
+    "unitNumber": 6,
+    "lineNumber": 2,
+    "id": 12,
+    "title": "Whistleblowers - Exposing wrongdoing at great risk",
+    "versions": ["A", "B"]
   }
 }
