@@ -1237,5 +1237,12 @@
     "id": 14,
     "title": "Adapting to Change: How Organizations Pivot to Stay Relevant",
     "versions": ["A", "B"]
+  },
+  "the-great-pacific-garbage-patch-how-plastic-trash-swirls-in-a-huge-ocean-vortex": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 1,
+    "title": "The Great Pacific Garbage Patch - How plastic trash swirls in a huge ocean vortex",
+    "versions": ["A", "B"]
   }
 }

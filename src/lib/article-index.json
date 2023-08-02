@@ -1189,7 +1189,14 @@
         {
           "id": 1,
           "name": "Problems and challenges that occur in our world",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "The Great Pacific Garbage Patch - How plastic trash swirls in a huge ocean vortex",
+              "slug": "the-great-pacific-garbage-patch-how-plastic-trash-swirls-in-a-huge-ocean-vortex"
+            }
+          ]
         },
         {
           "id": 2,
