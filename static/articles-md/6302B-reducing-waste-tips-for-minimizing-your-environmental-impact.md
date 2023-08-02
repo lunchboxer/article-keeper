@@ -76,7 +76,7 @@ Following these tips will make less waste and keep the planet cleaner. What othe
 
 ## Answer Key
 
-1. B
+1. b
 2. c
 3. b
 4. b
