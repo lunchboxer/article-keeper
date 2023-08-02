@@ -66,7 +66,7 @@ To review, wars often come from a tangled web of disagreements between groups of
 
 ## Answer Key
 
-1. B
+1. b
 2. b
 3. c
 4. d
