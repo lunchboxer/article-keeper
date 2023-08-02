@@ -58,7 +58,7 @@ So when Girl Scouts come to your door, buy some cookies! You'll get to enjoy Thi
 
 ## Answer Key
 
-1. A
+1. a
 2. c
 3. a
 4. d
