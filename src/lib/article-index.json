@@ -1345,7 +1345,44 @@
         {
           "id": 3,
           "name": "My contribution to society",
-          "articles": []
+          "articles": [
+            {
+              "versions": ["A", "B"],
+              "id": 1,
+              "title": "Volunteerism - Kid-friendly ways to help your community",
+              "slug": "volunteerism-kid-friendly-ways-to-help-your-community"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 2,
+              "title": "Reducing Waste - Tips for minimizing your environmental impact",
+              "slug": "reducing-waste-tips-for-minimizing-your-environmental-impact"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "Standing Up to Bullying - Creating a more positive school culture",
+              "slug": "standing-up-to-bullying-creating-a-more-positive-school-culture"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Fundraising - Creative Ideas for Raising Money for Good Causes",
+              "slug": "fundraising-creative-ideas-for-raising-money-for-good-causes"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Using Your Talents - Discovering how your skills can help others",
+              "slug": "using-your-talents-discovering-how-your-skills-can-help-others"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "Being a Changemaker - Kids who changed the world and how you can too",
+              "slug": "being-a-changemaker-kids-who-changed-the-world-and-how-you-can-too"
+            }
+          ]
         }
       ]
     }

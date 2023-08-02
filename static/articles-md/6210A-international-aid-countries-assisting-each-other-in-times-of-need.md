@@ -22,7 +22,7 @@ We all share one planet. Helping someone in need, even someone in another countr
 
 - recovering - starting to be successful, healthy, or happy again after something bad happened
 
- resource - a supply of something (such as money) that someone has and can use when it is needed
+ resource  a supply of something (such as money) that someone has and can use when it is needed
 
 ## Reading Comprehension Questions
 
