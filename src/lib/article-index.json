@@ -1128,6 +1128,54 @@
               "id": 6,
               "title": "How the First Public Libraries Got Their Start: Sharing Knowledge with All",
               "slug": "how-the-first-public-libraries-got-their-start-sharing-knowledge-with-all"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "How Children's Museums Foster Learning Through Play: Their Educational Mission",
+              "slug": "how-children-s-museums-foster-learning-through-play-their-educational-mission"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "How a Humble Texas Zoo Became a World-Class Attraction: The Story of Zoos",
+              "slug": "how-a-humble-texas-zoo-became-a-world-class-attraction-the-story-of-zoos"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "From Garage Startup to Tech Titan: The Evolution of Apple and Pixar",
+              "slug": "from-garage-startup-to-tech-titan-the-evolution-of-apple-and-pixar"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "Defining Roles and Responsibilities: Organizing Groups for Success",
+              "slug": "defining-roles-and-responsibilities-organizing-groups-for-success"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Crafting the Mission Statement: How Companies Tell People What They Do",
+              "slug": "crafting-the-mission-statement-how-companies-tell-people-what-they-do"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "How Girl Scouts Became a Global Sensation: The Story Behind the Cookies",
+              "slug": "how-girl-scouts-became-a-global-sensation-the-story-behind-the-cookies"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 13,
+              "title": "Thinking Long-Term: How Organizations Plan for Sustainability",
+              "slug": "thinking-long-term-how-organizations-plan-for-sustainability"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 14,
+              "title": "Adapting to Change: How Organizations Pivot to Stay Relevant",
+              "slug": "adapting-to-change-how-organizations-pivot-to-stay-relevant"
             }
           ]
         }
