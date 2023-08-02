@@ -1207,15 +1207,8 @@
     "unitNumber": 5,
     "lineNumber": 3,
     "id": 11,
-    "title": "Crafting the Mission Statement: How Organizations Define Their Purpose",
-    "versions": ["A"]
-  },
-  "crafting-the-mission-statement-how-companies-tell-people-what-they-do": {
-    "unitNumber": 5,
-    "lineNumber": 3,
-    "id": 11,
     "title": "Crafting the Mission Statement: How Companies Tell People What They Do",
-    "versions": ["B"]
+    "versions": ["A", "B"]
   },
   "how-girl-scouts-became-a-global-sensation-the-story-behind-the-cookies": {
     "unitNumber": 5,
