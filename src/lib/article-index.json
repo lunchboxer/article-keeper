@@ -1201,6 +1201,66 @@
               "id": 2,
               "title": "Vanishing Rainforests - Exploring why the lungs of the planet are disappearing",
               "slug": "vanishing-rainforests-exploring-why-the-lungs-of-the-planet-are-disappearing"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 3,
+              "title": "Thirsty World - How water scarcity impacts people globally",
+              "slug": "thirsty-world-how-water-scarcity-impacts-people-globally"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 4,
+              "title": "Climate Change - Uncovering the science behind Earth's rising temperatures",
+              "slug": "climate-change-uncovering-the-science-behind-earth-s-rising-temperatures"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 5,
+              "title": "Endangered Species: Amazing Animals on the Brink of Extinction",
+              "slug": "endangered-species-amazing-animals-on-the-brink-of-extinction"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 6,
+              "title": "Oil Spills - The impacts of environmental disasters in our oceans",
+              "slug": "oil-spills-the-impacts-of-environmental-disasters-in-our-oceans"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "Poverty - How People Live with Limited Resources around the World",
+              "slug": "poverty-how-people-live-with-limited-resources-around-the-world"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "War - Causes and impacts of conflict around the world",
+              "slug": "war-causes-and-impacts-of-conflict-around-the-world"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "Disease - How illness spreads globally and impacts communities",
+              "slug": "disease-how-illness-spreads-globally-and-impacts-communities"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "Pollution: The Toll on Our Planet",
+              "slug": "pollution-the-toll-on-our-planet"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Hunger - Why food insecurity still plagues populations",
+              "slug": "hunger-why-food-insecurity-still-plagues-populations"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "Natural Disasters - Causes and effects of catastrophic earth events",
+              "slug": "natural-disasters-causes-and-effects-of-catastrophic-earth-events"
             }
           ]
         },

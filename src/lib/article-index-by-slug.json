@@ -1244,5 +1244,75 @@
     "id": 2,
     "title": "Vanishing Rainforests - Exploring why the lungs of the planet are disappearing",
     "versions": ["A", "B"]
+  },
+  "thirsty-world-how-water-scarcity-impacts-people-globally": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 3,
+    "title": "Thirsty World - How water scarcity impacts people globally",
+    "versions": ["A", "B"]
+  },
+  "climate-change-uncovering-the-science-behind-earth-s-rising-temperatures": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 4,
+    "title": "Climate Change - Uncovering the science behind Earth's rising temperatures",
+    "versions": ["A", "B"]
+  },
+  "endangered-species-amazing-animals-on-the-brink-of-extinction": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 5,
+    "title": "Endangered Species: Amazing Animals on the Brink of Extinction",
+    "versions": ["A", "B"]
+  },
+  "oil-spills-the-impacts-of-environmental-disasters-in-our-oceans": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 6,
+    "title": "Oil Spills - The impacts of environmental disasters in our oceans",
+    "versions": ["A", "B"]
+  },
+  "poverty-how-people-live-with-limited-resources-around-the-world": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 7,
+    "title": "Poverty - How People Live with Limited Resources around the World",
+    "versions": ["A", "B"]
+  },
+  "war-causes-and-impacts-of-conflict-around-the-world": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 8,
+    "title": "War - Causes and impacts of conflict around the world",
+    "versions": ["A", "B"]
+  },
+  "disease-how-illness-spreads-globally-and-impacts-communities": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 9,
+    "title": "Disease - How illness spreads globally and impacts communities",
+    "versions": ["A", "B"]
+  },
+  "pollution-the-toll-on-our-planet": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 10,
+    "title": "Pollution: The Toll on Our Planet",
+    "versions": ["A", "B"]
+  },
+  "hunger-why-food-insecurity-still-plagues-populations": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 11,
+    "title": "Hunger - Why food insecurity still plagues populations",
+    "versions": ["A", "B"]
+  },
+  "natural-disasters-causes-and-effects-of-catastrophic-earth-events": {
+    "unitNumber": 6,
+    "lineNumber": 1,
+    "id": 12,
+    "title": "Natural Disasters - Causes and effects of catastrophic earth events",
+    "versions": ["A", "B"]
   }
 }
