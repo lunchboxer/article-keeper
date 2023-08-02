@@ -1440,5 +1440,47 @@
     "id": 6,
     "title": "Being a Changemaker - Kids who changed the world and how you can too",
     "versions": ["A", "B"]
+  },
+  "buying-responsibly-making-purchases-that-support-people-and-the-planet": {
+    "unitNumber": 6,
+    "lineNumber": 3,
+    "id": 7,
+    "title": "Buying Responsibly - Making purchases that support people and the planet",
+    "versions": ["A", "B"]
+  },
+  "teaching-others-share-your-knowledge-to-expand-perspectives": {
+    "unitNumber": 6,
+    "lineNumber": 3,
+    "id": 8,
+    "title": "Teaching Others - Share your knowledge to expand perspectives",
+    "versions": ["A", "B"]
+  },
+  "speaking-out-using-your-voice-against-injustice": {
+    "unitNumber": 6,
+    "lineNumber": 3,
+    "id": 9,
+    "title": "Speaking Out - Using your voice against injustice",
+    "versions": ["A", "B"]
+  },
+  "protecting-nature-simple-acts-to-care-for-the-environment": {
+    "unitNumber": 6,
+    "lineNumber": 3,
+    "id": 10,
+    "title": "Protecting Nature - Simple acts to care for the environment",
+    "versions": ["A", "B"]
+  },
+  "saving-resources-ways-to-conserve-energy-and-materials": {
+    "unitNumber": 6,
+    "lineNumber": 3,
+    "id": 11,
+    "title": "Saving Resources - Ways to conserve energy and materials",
+    "versions": ["A", "B"]
+  },
+  "showing-compassion-small-acts-of-kindness-that-make-a-big-difference": {
+    "unitNumber": 6,
+    "lineNumber": 3,
+    "id": 12,
+    "title": "Showing Compassion - Small acts of kindness that make a big difference",
+    "versions": ["A", "B"]
   }
 }

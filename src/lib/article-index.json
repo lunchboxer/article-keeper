@@ -1381,6 +1381,42 @@
               "id": 6,
               "title": "Being a Changemaker - Kids who changed the world and how you can too",
               "slug": "being-a-changemaker-kids-who-changed-the-world-and-how-you-can-too"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 7,
+              "title": "Buying Responsibly - Making purchases that support people and the planet",
+              "slug": "buying-responsibly-making-purchases-that-support-people-and-the-planet"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 8,
+              "title": "Teaching Others - Share your knowledge to expand perspectives",
+              "slug": "teaching-others-share-your-knowledge-to-expand-perspectives"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 9,
+              "title": "Speaking Out - Using your voice against injustice",
+              "slug": "speaking-out-using-your-voice-against-injustice"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 10,
+              "title": "Protecting Nature - Simple acts to care for the environment",
+              "slug": "protecting-nature-simple-acts-to-care-for-the-environment"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 11,
+              "title": "Saving Resources - Ways to conserve energy and materials",
+              "slug": "saving-resources-ways-to-conserve-energy-and-materials"
+            },
+            {
+              "versions": ["A", "B"],
+              "id": 12,
+              "title": "Showing Compassion - Small acts of kindness that make a big difference",
+              "slug": "showing-compassion-small-acts-of-kindness-that-make-a-big-difference"
             }
           ]
         }
