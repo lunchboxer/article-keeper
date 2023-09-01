@@ -1,23 +1,19 @@
 <h1>Article-a-day</h1>
 <p class="subtitle">
   <em>
-    Improving background knowledge, vocabulary and reading stamina before first
-    period!
+    Improving background knowledge, vocabulary and reading stamina
   </em>
 </p>
 
 <h2>About</h2>
 <p>
-  This site contains a repository of articles for students to read during the
-  morning reading period. Students read one nonfiction article every morning
-  before other lessons. This 10-20 minute routine is a valuable supplement to
-  the regular reading program and a great way to start the school day.
+  This site contains a repository of articles for grade 4 students to read. Students read one nonfiction article every day. This 10-20 minute routine is a valuable supplement to
+  the regular reading program and a great way to improve learning in inquiry-based learning.
 </p>
 
 <h2>Instructions</h2>
 <p>
-  Each student is given a printed copy of the article for that day. Students
-  read the article quietly at their seats. After completing the article students
+  A student is given a copy of the article for that day. After reading the article students
   should complete the following 3 tasks:
 </p>
 
@@ -28,8 +24,7 @@
 </ol>
 
 <p>
-  Students who complete the reading comprehension questions with accuracy of at
-  least 80% will get a star added to the morning readers leaderboard.
+  Students who complete the reading comprehension questions with accuracy of greater than 60% will get a star added to the reading stars leaderboard.
 </p>
 
 <h2>Articles</h2>
