@@ -8,7 +8,7 @@
 <h2>About</h2>
 <p>
   This site contains a repository of articles for grade 4 students to read. Students read one nonfiction article every day. This 10-20 minute routine is a valuable supplement to
-  the regular reading program and a great way to improve learning in inquiry-based learning.
+  the regular reading program and a great way to improve retention and performance in inquiry-based learning.
 </p>
 
 <h2>Instructions</h2>
