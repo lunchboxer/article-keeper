@@ -14,3 +14,4 @@ notes.org
 notes.md
 exported*.json
 db.sqlite
+src/ossutil_output
